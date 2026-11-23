@@ -1,0 +1,25 @@
+found_something
+  yes                     the report states something new about the funded gene
+  no                      it does not
+
+if_yes_what
+  role                    what the gene does in cells or animals
+  disease link            the gene is tied to a disease
+  mechanism               how the gene works or is controlled
+  location                where the gene or protein is found
+  binding partners        what the gene's protein binds
+  new ligand              a new compound that acts on the gene's protein
+  structure               the protein's 3D structure
+
+if_no_why
+  tools only              made tools, but no finding
+  no finding stated       the report gives no finding
+  other gene              the finding is on a different gene
+  experiments failed      the main experiments did not work
+  negative result         tested it and saw no effect
+  stopped early           work halted before the grant ended
+  covid19                 COVID-19 stopped the work
+  delayed due to covid19  COVID-19 delayed the work
+  plans only              only future plans reported
+  no text                 no outcome report
+  unclear                 cannot tell which results came from this grant

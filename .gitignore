@@ -1,0 +1,7 @@
+docs/
+results/
+data/raw/biogrid/BIOGRID-ALL-LATEST.tab3.zip
+data/raw/jensenlab/mentions/human_textmining_mentions.tsv
+data/raw/jensenlab/mentions/mouse_textmining_mentions.tsv
+data/raw/jensenlab/mentions/rat_textmining_mentions.tsv
+data/raw/jensenlab/pubtator_counts.tsv

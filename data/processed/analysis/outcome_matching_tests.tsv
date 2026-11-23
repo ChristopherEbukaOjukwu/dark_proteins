@@ -1,0 +1,5 @@
+finding	check	n_genes	observed	expected_family	expected_family_level	p_exact_family_level
+structure	new PDB entries	3	2	0.87	0.76	0.158
+new ligand	new compounds tested	9	9	8.36	7.98	0.603
+binding partners	new small-scale partners	11	5	4.32	4.14	0.726
+role / mechanism / location	new experimental GO terms	48	8	2.94	3.81	0.0373

@@ -1,0 +1,41 @@
+change	family	measure	n_removed	n_stayed	removed	stayed	effect	p	p_adj
+2018->2019	GPCR	Jensen before window (start level)	11	88	median 41.83	median 4.74	P(removed higher) = 0.89	2.63e-05	0.000351
+2018->2019	GPCR	PubTator before window (start level)	12	90	median 32.97	median 4.13	P(removed higher) = 0.81	0.000422	0.00253
+2018->2019	GPCR	Jensen gained in window	11	88	median 16.79	median 2.84	P(removed higher) = 0.83	0.000443	0.00253
+2018->2019	GPCR	PubTator gained in window	12	90	median 9.01	median 1.45	P(removed higher) = 0.79	0.00101	0.00506
+2018->2019	GPCR	Jensen change (window - earlier 3y)	11	88	median 2.00	median 1.03	P(removed higher) = 0.56	0.522	0.696
+2018->2019	GPCR	PubTator change (window - earlier 3y)	12	90	median 0.94	median 0.25	P(removed higher) = 0.65	0.0935	0.17
+2018->2019	GPCR	R01s before window (start level)	12	90	median 0.00	median 0.00	P(removed higher) = 0.63	0.0112	0.0353
+2018->2019	GPCR	got an R01 in window	12	90	6/12 (50%)	17/90 (19%)	+31 pts (+5 to +57)	0.0255	0.0601
+2018->2019	Ion channel	Jensen before window (start level)	39	61	median 19.07	median 6.33	P(removed higher) = 0.76	1.03e-05	0.000207
+2018->2019	Ion channel	PubTator before window (start level)	39	62	median 15.02	median 4.76	P(removed higher) = 0.80	5.2e-07	2.08e-05
+2018->2019	Ion channel	Jensen gained in window	39	61	median 4.85	median 2.20	P(removed higher) = 0.72	0.000232	0.00185
+2018->2019	Ion channel	PubTator gained in window	39	62	median 4.08	median 1.66	P(removed higher) = 0.72	0.000159	0.00159
+2018->2019	Ion channel	Jensen change (window - earlier 3y)	39	61	median 0.91	median 0.39	P(removed higher) = 0.52	0.698	0.787
+2018->2019	Ion channel	PubTator change (window - earlier 3y)	39	62	median 0.37	median 0.32	P(removed higher) = 0.50	0.944	0.969
+2018->2019	Ion channel	R01s before window (start level)	39	62	median 0.00	median 0.00	P(removed higher) = 0.52	0.708	0.787
+2018->2019	Ion channel	got an R01 in window	39	62	5/39 (13%)	4/62 (6%)	+6 pts (-5 to +21)	0.302	0.431
+2018->2019	Kinase	Jensen before window (start level)	5	120	median 34.44	median 7.88	P(removed higher) = 0.84	0.00962	0.035
+2018->2019	Kinase	PubTator before window (start level)	5	120	median 137.14	median 6.25	P(removed higher) = 0.89	0.00354	0.0142
+2018->2019	Kinase	Jensen gained in window	5	120	median 17.64	median 3.53	P(removed higher) = 0.79	0.027	0.0601
+2018->2019	Kinase	PubTator gained in window	5	120	median 19.85	median 2.77	P(removed higher) = 0.91	0.00198	0.00881
+2018->2019	Kinase	Jensen change (window - earlier 3y)	5	120	median 2.22	median 0.52	P(removed higher) = 0.58	0.55	0.709
+2018->2019	Kinase	PubTator change (window - earlier 3y)	5	120	median 2.67	median 0.28	P(removed higher) = 0.74	0.0687	0.143
+2018->2019	Kinase	R01s before window (start level)	5	120	median 1.00	median 0.00	P(removed higher) = 0.73	0.0137	0.039
+2018->2019	Kinase	got an R01 in window	5	120	1/5 (20%)	13/120 (11%)	+9 pts (-9 to +52)	0.454	0.626
+2020->2021	Kinase	Jensen before window (start level)	6	144	median 16.62	median 14.00	P(removed higher) = 0.52	0.889	0.936
+2020->2021	Kinase	PubTator before window (start level)	6	144	median 18.40	median 10.07	P(removed higher) = 0.63	0.285	0.425
+2020->2021	Kinase	Jensen gained in window	6	144	median 5.40	median 5.42	P(removed higher) = 0.44	0.615	0.755
+2020->2021	Kinase	PubTator gained in window	6	144	median 5.29	median 4.17	P(removed higher) = 0.56	0.642	0.755
+2020->2021	Kinase	Jensen change (window - earlier 3y)	6	144	median 2.13	median 1.12	P(removed higher) = 0.56	0.642	0.755
+2020->2021	Kinase	PubTator change (window - earlier 3y)	6	144	median 2.90	median 1.22	P(removed higher) = 0.67	0.154	0.247
+2020->2021	Kinase	R01s before window (start level)	6	144	median 0.00	median 0.00	P(removed higher) = 0.48	0.831	0.899
+2020->2021	Kinase	got an R01 in window	6	144	1/6 (17%)	23/144 (16%)	+1 pts (-15 to +41)	1	1
+2021->2022	Kinase	Jensen before window (start level)	10	134	median 25.67	median 15.58	P(removed higher) = 0.66	0.103	0.174
+2021->2022	Kinase	PubTator before window (start level)	10	134	median 20.21	median 10.60	P(removed higher) = 0.72	0.0234	0.0601
+2021->2022	Kinase	Jensen gained in window	10	134	median 14.70	median 6.18	P(removed higher) = 0.67	0.0713	0.143
+2021->2022	Kinase	PubTator gained in window	10	134	median 9.84	median 4.87	P(removed higher) = 0.71	0.0269	0.0601
+2021->2022	Kinase	Jensen change (window - earlier 3y)	10	134	median 2.93	median 1.71	P(removed higher) = 0.60	0.287	0.425
+2021->2022	Kinase	PubTator change (window - earlier 3y)	10	134	median 3.50	median 1.55	P(removed higher) = 0.65	0.105	0.174
+2021->2022	Kinase	R01s before window (start level)	10	134	median 1.00	median 0.00	P(removed higher) = 0.70	0.0115	0.0353
+2021->2022	Kinase	got an R01 in window	10	134	4/10 (40%)	22/134 (16%)	+24 pts (-1 to +53)	0.0817	0.156

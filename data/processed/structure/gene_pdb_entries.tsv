@@ -1,0 +1,1030 @@
+gene	hgnc_id	pdb_id	title	year	deposit_year	method	resolution	bound_components	ligand	pmid	r03_for_this_gene
+ADGRB2	HGNC:944	8OEK	Crystal structure of the HormR-GAIN domains of adhesion GPCR ADGRB2 (BAI2) in the uncleaved state	2023	2023	X-ray	2.22	NAG	0	41942442	
+ADGRB3	HGNC:945	4DLO	Crystal structure of the GAIN and HormR domains of brain angiogenesis inhibitor 3 (BAI3)	2012	2012	X-ray	2.3	NAG	0	22333914	
+ADGRB3	HGNC:945	9LKL	Cryo-EM map of C1ql1-gC1q hexamer and BAI3-eCUB complex	2025	2025	cryo-EM	3.48	CA	0	41372137	
+ADGRB3	HGNC:945	9LKM	Focused map of C1ql1-gC1q trimer and BAI3-eCUB complex	2025	2025	cryo-EM	3.34	CA	0	41372137	
+ADGRD1	HGNC:19893	7EPT	Structural basis for the tethered peptide activation of adhesion GPCRs	2022	2021	cryo-EM	3.0		0	35418678	
+ADGRD1	HGNC:19893	7WU2	Cryo-EM structure of the adhesion GPCR ADGRD1 in complex with miniGs	2022	2022	cryo-EM	2.8		0	35418679	
+ADGRD1	HGNC:19893	8X9S	Identification, structure and agonist design of an androgen membrane receptor.	2025	2023	cryo-EM	3.49		0	39884271	
+ADGRD1	HGNC:19893	8X9T	Identification, structure and agonist design of an androgen membrane receptor	2025	2023	cryo-EM	2.75		0	39884271	
+ADGRD1	HGNC:19893	8X9U	Identification, structure and agonist design of an androgen membrane receptor	2025	2023	cryo-EM	2.88		0	39884271	
+ADGRD1	HGNC:19893	9IV1	Identification, structure and agonist design of an androgen membrane receptor.	2025	2024	cryo-EM	2.98		0	39884271	
+ADGRD1	HGNC:19893	9IV2	Identification, structure and agonist design of an androgen membrane receptor.	2025	2024	cryo-EM	3.53		0	39884271	
+ADGRD1	HGNC:19893	9V0U	GPR133-Gain-miniG13 complex	2025	2025	cryo-EM	3.51		0	40570642	
+ADGRE2	HGNC:3337	2BO2	EGF Domains 1,2,5 of human EMR2, a 7-TM immune system molecule, in complex with calcium.	2006	2005	X-ray	2.6	CA	0	17449467	
+ADGRE2	HGNC:3337	2BOU	EGF Domains 1,2,5 of human EMR2, a 7-TM immune system molecule, in complex with barium.	2006	2005	X-ray	1.9	BA;CA	1	17449467	
+ADGRE2	HGNC:3337	2BOX	EGF Domains 1,2,5 of human EMR2, a 7-TM immune system molecule, in complex with strontium.	2006	2005	X-ray	2.5	CL;SR	1	17449467	
+ADGRF1	HGNC:18990	7WU3	Cryo-EM structure of the adhesion GPCR ADGRF1 in complex with miniGs	2022	2022	cryo-EM	3.1		0	35418679	
+ADGRF1	HGNC:18990	7WU4	Cryo-EM structure of the adhesion GPCR ADGRF1 in complex with miniGi	2022	2022	cryo-EM	3.4		0	35418679	
+ADGRF1	HGNC:18990	7WU5	Cryo-EM structure of the adhesion GPCR ADGRF1(H565A/T567A) in complex with miniGi	2022	2022	cryo-EM	3.0		0	35418679	
+ADGRF1	HGNC:18990	7WXU	GPR110/Gq complex	2022	2022	cryo-EM	2.85		0	36127364	
+ADGRF1	HGNC:18990	7WXW	GPR110/Gs complex	2022	2022	cryo-EM	2.84		0	36127364	
+ADGRF1	HGNC:18990	7WY0	GPR110/G13 complex	2022	2022	cryo-EM	2.83		0	36127364	
+ADGRF1	HGNC:18990	7WZ7	GPR110/G12 complex	2022	2022	cryo-EM	2.83		0	36127364	
+ADGRF1	HGNC:18990	7X2V	GPR110/Gi complex	2022	2022	cryo-EM	3.09		0	36127364	
+ADGRF1	HGNC:18990	8G2Y	Cryo-EM structure of ADGRF1 coupled to miniGs/q	2023	2023	cryo-EM	3.44		0	37120430	
+ADGRF1	HGNC:18990	8HC0	Crystal structure of the extracellular domains of GPR110	2023	2022	X-ray	2.9	NAG	0	36716818	
+ADGRG3	HGNC:13728	7D76	Cryo-EM structure of the beclomethasone-bound adhesion receptor GPR97-Go complex	2021	2020	cryo-EM	3.1	PLM	0	33408414	
+ADGRG3	HGNC:13728	7D77	Cryo-EM structure of the cortisol-bound adhesion receptor GPR97-Go complex	2021	2020	cryo-EM	2.9	PLM	0	33408414	
+ADGRG3	HGNC:13728	7QU8	ADGRG3/GPR97 Extracellular Region	2022	2022	X-ray	3.37		0		
+ADGRG4	HGNC:18992	7WUJ	Tethered peptide activation mechanism of adhesion GPCRs ADGRG2 and ADGRG4	2022	2022	cryo-EM	3.3		0	35418677	
+ADGRG4	HGNC:18992	8B55	Human ADGRG4 PTX-like domain	2022	2022	X-ray	1.36	MG	0	37863265	
+ADGRG5	HGNC:19010	7EQ1	GPR114-Gs-scFv16 complex	2022	2021	cryo-EM	3.3		0	35418678	
+FZD10	HGNC:4039	7X8Q	Frizzled-10 CRD in complex with F10_A9 Fab	2023	2022	X-ray	2.65		0	36513066	
+FZD10	HGNC:4039	7X8T	Frizzled 10 CRD in complex with hB9L9.3 Fab	2023	2022	X-ray	2.51		0	36513066	
+GABRP	HGNC:4089	8VSZ	CryoEM structure of human GABAA receptor pi (GABRP) apo state	2024	2024	cryo-EM	3.07	NAG	0	39642883	
+GABRP	HGNC:4089	8VV0	CryoEM structure of human GABAA receptor pi (GABRP) in complex with GABA	2024	2024	cryo-EM	3.1	NAG	0	39642883	
+GABRR1	HGNC:4090	8OP9	CryoEM structure of human rho1 GABAA receptor in complex with GABA	2023	2023	cryo-EM	3.36	NAG	0	37659407	
+GABRR1	HGNC:4090	8OQ6	CryoEM structure of human rho1 GABAA receptor apo state	2023	2023	cryo-EM	3.21	NAG	0	37659407	
+GABRR1	HGNC:4090	8OQ7	CryoEM structure of human rho1 GABAA receptor in complex with inhibitor TPMPA	2023	2023	cryo-EM	2.2	NAG	0	37659407	
+GABRR1	HGNC:4090	8OQ8	CryoEM structure of human rho1 GABAA receptor in complex with pore blocker picrotoxin	2023	2023	cryo-EM	2.9	NAG	0	37659407	
+GABRR1	HGNC:4090	8OQA	CryoEM structure of human rho1 GABAA receptor in complex with GABA and picrotoxin	2023	2023	cryo-EM	2.9	NAG	0	37659407	
+GABRR1	HGNC:4090	8RH4	CryoEM structure of human rho1 GABAA receptor in complex with estradiol	2024	2023	cryo-EM	2.52	NAG	0		
+GABRR1	HGNC:4090	8RH7	CryoEM structure of human rho1 GABAA receptor in complex with GABA and estradiol in primed state	2024	2023	cryo-EM	2.78	NAG	0		
+GABRR1	HGNC:4090	8RH8	CryoEM structure of human rho1 GABAA receptor in complex with GABA and estradiol in desensitized state	2024	2023	cryo-EM	2.66	NAG	0		
+GABRR1	HGNC:4090	8RH9	CryoEM structure of human rho1 GABAA receptor in complex with pregnenolone sulfate	2024	2023	cryo-EM	3.21		0		
+GABRR1	HGNC:4090	8RHG	CryoEM structure of human rho1 GABAA receptor in complex with GABA and pregnenolone sulfate	2024	2023	cryo-EM	3.01	NAG	0		
+GABRR1	HGNC:4090	9FRB	CryoEM structure of human rho1 GABAA receptor in complex with CGP36742	2025	2024	cryo-EM	2.05	NAG	0	40750757	
+GABRR1	HGNC:4090	9FRE	CryoEM structure of human rho1 GABAA receptor in complex with THIP	2025	2024	cryo-EM	2.19		0	40750757	
+GABRR1	HGNC:4090	9FRF	CryoEM structure of human rho1 GABAA receptor in complex with (R)-GABOB in the desensitized state	2025	2024	cryo-EM	2.41		0	40750757	
+GABRR1	HGNC:4090	9FRG	CryoEM structure of human rho1 GABAA receptor in complex with (S)-GABOB in the desensitized state	2025	2024	cryo-EM	2.41		0	40750757	
+GABRR1	HGNC:4090	9FRH	CryoEM structure of human rho1 GABAA receptor in complex with (R)-GABOB in the primed state	2025	2024	cryo-EM	2.14		0	40750757	
+GABRR1	HGNC:4090	9FRI	CryoEM structure of human rho1 GABAA receptor in complex with (S)-GABOB in the primed state	2025	2024	cryo-EM	2.14		0	40750757	
+GABRR1	HGNC:4090	9G55	CryoEM structure of human rho1 GABAA receptor in complex with neurosteroid THDOC	2025	2024	cryo-EM	3.04	NAG	0		
+GABRR1	HGNC:4090	9G57	CryoEM structure of human rho1 GABAA receptor in complex with GABA and neurosteroid THDOC	2025	2024	cryo-EM	2.48	NAG	0		
+GABRR1	HGNC:4090	9G5Q	CryoEM structure of human rho1 GABAA receptor in complex with muscimol in the primed state	2025	2024	cryo-EM	2.61	NAG	0		
+GABRR1	HGNC:4090	9G5R	CryoEM structure of human rho1 GABAA receptor in complex with muscimol in the intermediate state	2025	2024	cryo-EM	3.28	NAG	0		
+GABRR1	HGNC:4090	9G60	CryoEM structure of human rho1 GABAA receptor in complex with muscimol and neurosteroid THDOC in the primed state	2025	2024	cryo-EM	3.4	NAG	0		
+GABRR1	HGNC:4090	9G62	CryoEM structure of human rho1 GABAA receptor in complex with muscimol and neurosteroid THDOC in the desensitized state	2025	2024	cryo-EM	3.32		0		
+GABRR1	HGNC:4090	9G70	CryoEM structure of human rho1 GABAA receptor in complex with GABA and neurosteroid pregnanolone	2025	2024	cryo-EM	3.13		0		
+GABRR1	HGNC:4090	9G78	CryoEM structure of human rho1 GABAA receptor in complex with neurosteroid pregnanolone	2025	2024	cryo-EM	3.11		0		
+GABRR1	HGNC:4090	9G7A	CryoEM structure of human rho1 GABAA receptor in complex with loreclezole	2025	2024	cryo-EM	2.12		0		
+GABRR1	HGNC:4090	9G7B	CryoEM structure of human rho1 GABAA receptor in complex with GABA and loreclezole	2025	2024	cryo-EM	2.18		0		
+GLRA3	HGNC:4328	5CFB	Crystal Structure of Human Glycine Receptor alpha-3 Bound to Strychnine	2015	2015	X-ray	3.04	NAG	0	26416729	
+GLRA3	HGNC:4328	5TIN	Crystal Structure of Human Glycine Receptor alpha-3 Mutant N38Q Bound to AM-3607	2017	2016	X-ray	2.61	ZN	0		
+GLRA3	HGNC:4328	5TIO	Crystal Structure of Human Glycine Receptor alpha-3 Bound to AM-3607	2017	2016	X-ray	3.25	NAG;ZN	0		
+GLRA3	HGNC:4328	5VDH	Crystal Structure of Human Glycine Receptor alpha-3 Bound to AM-3607, Glycine, and Ivermectin	2017	2017	X-ray	2.85	NAG;ZN	0	28479061	
+GLRA3	HGNC:4328	5VDI	Crystal Structure of Human Glycine Receptor alpha-3 Mutant N38Q Bound to AM-3607, Glycine, and Ivermectin	2017	2017	X-ray	3.1	ZN	0	28479061	
+GLRA3	HGNC:4328	9BOY	Cryo-EM structure of human Glycine Receptor apha3-beta heteromer with glycine in nanodisc	2025	2024	cryo-EM	3.81	NAG	0	40473619	
+GLRA3	HGNC:4328	9BOZ	Cryo-EM structure of human Glycine Receptor alpha3-beta heteromer in presence of glycine	2025	2024	cryo-EM	3.84	NAG	0	40473619	
+GLRA3	HGNC:4328	9BP0	Cryo-EM structure of human heteromeric Glycine Receptor alpha3S346E-beta with glycine	2025	2024	cryo-EM	3.67	NAG	0		
+GLRA3	HGNC:4328	9BP7	Cryo-EM structure of human heteromeric Glycine Receptor alpha3S346E-beta in presence of glycine and 2,6-DTBP	2025	2024	cryo-EM	3.6	NAG	0	40473619	
+GLRA3	HGNC:4328	9BU2	Homomeric alpha3 glycine receptor in the presence of 1 mM glycine at pH 6.4 in a desensitized state	2024	2024	cryo-EM	2.87		0	39693447	
+GLRA3	HGNC:4328	9BU3	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine in a desensitized state	2024	2024	cryo-EM	2.8		0	39693447	
+GLRA3	HGNC:4328	9BVH	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine in an apo state.	2024	2024	cryo-EM	2.58		0	39693447	
+GLRA3	HGNC:4328	9BVJ	Homomeric alpha3 glycine receptor in the presence of 1 mM glycine in an desensitized state.	2024	2024	cryo-EM	2.8		0	39693447	
+GLRA3	HGNC:4328	9BWB	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine at pH 6.4 in a desensitized state	2024	2024	cryo-EM	2.21		0	39693447	
+GLRA3	HGNC:4328	9BWC	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine at pH 6.4 in an apo state	2024	2024	cryo-EM	2.19		0	39693447	
+GLRA3	HGNC:4328	9BWE	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine at pH 6.4 in an intermediate state	2024	2024	cryo-EM	3.07		0	39693447	
+GLRA3	HGNC:4328	9BWG	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine and 0.1 mM zinc in a desensitized state	2024	2024	cryo-EM	2.59	ZN	0	39693447	
+GLRA3	HGNC:4328	9BWJ	Homomeric alpha3 glycine receptor in the presence of 0.1 mM glycine and 0.1 mM zinc in an apo state	2024	2024	cryo-EM	2.21	ZN	0	39693447	
+GLRA3	HGNC:4328	9BZP	Homomeric alpha3 glycine receptor in the presence of 0.1 millimolar glycine and 1 micromolar zinc in a desensitized state	2024	2024	cryo-EM	2.88	ZN	0	39693447	
+GLRB	HGNC:4329	5BKF	Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, Glycine bound, desensitized state	2021	2021	cryo-EM	3.6	NAG	0		
+GLRB	HGNC:4329	5BKG	Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, glycine bound, (semi)open state	2021	2021	cryo-EM	3.8	NAG	0		
+GLRB	HGNC:4329	7KUY	Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, strychnine bound state	2021	2020	cryo-EM	3.6	NAG	0		
+GLRB	HGNC:4329	7L31	Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, strychnine bound state, 3.8 Angstrom	2021	2020	cryo-EM	3.8	NAG	0		
+GLRB	HGNC:4329	8DN2	Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, glycine-bound state 2(expanded open)	2023	2022	cryo-EM	3.9	NAG	0	37821459	
+GLRB	HGNC:4329	8DN3	Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, apo state	2023	2022	cryo-EM	3.55	NAG	0	37821459	
+GLRB	HGNC:4329	8DN4	Cryo-EM structure of human Glycine Receptor alpha-1 beta heteromer, glycine-bound state3(desensitized state)	2023	2022	cryo-EM	4.1	NAG	0	37821459	
+GLRB	HGNC:4329	8DN5	Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, glycine-bound state1(open state)	2023	2022	cryo-EM	3.63	NAG	0	37821459	
+GLRB	HGNC:4329	9BOY	Cryo-EM structure of human Glycine Receptor apha3-beta heteromer with glycine in nanodisc	2025	2024	cryo-EM	3.81	NAG	0	40473619	
+GLRB	HGNC:4329	9BOZ	Cryo-EM structure of human Glycine Receptor alpha3-beta heteromer in presence of glycine	2025	2024	cryo-EM	3.84	NAG	0	40473619	
+GLRB	HGNC:4329	9BP0	Cryo-EM structure of human heteromeric Glycine Receptor alpha3S346E-beta with glycine	2025	2024	cryo-EM	3.67	NAG	0		
+GLRB	HGNC:4329	9BP7	Cryo-EM structure of human heteromeric Glycine Receptor alpha3S346E-beta in presence of glycine and 2,6-DTBP	2025	2024	cryo-EM	3.6	NAG	0	40473619	
+GPR3	HGNC:4484	8U8F	GPR3 Orphan G-coupled Protein Receptor in complex with Dominant Negative Gs.	2024	2023	cryo-EM	3.49		0	38376112	
+GPR3	HGNC:4484	8WW2	GPR3/Gs complex	2024	2023	cryo-EM	2.79		0	38287117	
+GPR3	HGNC:4484	8X2K	OEA bound GPR3-Gs complex structure	2024	2023	cryo-EM	3.03		0	38287118	
+GPR3	HGNC:4484	9LYB	Cryo-EM structure of GPR3-G protein-monomer complex	2025	2025	cryo-EM	3.16		0	40158220	
+GPR3	HGNC:4484	9LYC	Cryo-EM structure of GPR3-G protein-dimer complex	2025	2025	cryo-EM	3.06		0	40158220	
+GPR3	HGNC:4484	9LYD	Cryo-EM structure of GPR3-1IU9 complex	2025	2025	cryo-EM	3.66		0	40158220	
+GPR3	HGNC:4484	9M8P	GPR3 dimer with antagonist AF64394	2025	2025	cryo-EM	3.42		0	40866348	
+GPR3	HGNC:4484	9M8V	dimer-GPR3-Gs complex	2025	2025	cryo-EM	3.83		0	40866348	
+GPR4	HGNC:4497	8Z3M	Cryo-EM structure of the hGPR4-Gq complex in pH6.5	2025	2024	cryo-EM	2.9		0		
+GPR4	HGNC:4497	8Z3Q	Cryo-EM structure of the hGPR4-Gs complex in pH7.6	2025	2024	cryo-EM	2.76		0		
+GPR4	HGNC:4497	8Z3Y	Cryo-EM structure of of hGPR4-Gs complex in pH6.8	2025	2024	cryo-EM	3.2		0	40215959	
+GPR4	HGNC:4497	8Z65	Cryo-EM structure of the hGPR4-Gs complex in pH7.2	2025	2024	cryo-EM	2.97		0		
+GPR4	HGNC:4497	8Z66	Cryo-EM structure of the receptor of hGPR4-Gs complex in pH7.2	2025	2024	cryo-EM	3.06		0		
+GPR4	HGNC:4497	8Z67	Cryo-EM structure of the hGPR68-Gs complex in pH6.8	2025	2024	cryo-EM	3.2		0		
+GPR4	HGNC:4497	8Z9O	Cryo-EM structure of human GPR4-Gs complex	2025	2024	cryo-EM	2.4		0	40215960	
+GPR4	HGNC:4497	8Z9P	Cryo-EM structure of human GPR4-Gi complex	2025	2024	cryo-EM	2.5		0	40215960	
+GPR4	HGNC:4497	8ZCE	Cryo-EM structure of GPR4 complexed with Gs in pH6.0	2025	2024	cryo-EM	3.1		0	40211064	
+GPR4	HGNC:4497	8ZCF	Cryo-EM structure of GPR4 complexed with Gs in pH7.5	2025	2024	cryo-EM	2.9		0	40211064	
+GPR4	HGNC:4497	9BIP	Human proton sensing receptor GPR4 in complex with miniGs	2025	2024	cryo-EM	2.8		0	39753132	
+GPR4	HGNC:4497	9IV6	Cryo-EM structure of hGPR4-Gs complex in pH7.0	2025	2024	cryo-EM	2.71		0		
+GPR4	HGNC:4497	9JCO	Cryo-EM structure of the proton-sensing GPCR (GPR4)-Gs protein complex at pH 6.5	2025	2024	cryo-EM	2.36		0	40555728	
+GPR4	HGNC:4497	9JCP	Cryo-EM structure of the proton-sensing GPCR (GPR4)-Gq protein complex at pH 7.4	2025	2024	cryo-EM	2.55		0	40555728	
+GPR4	HGNC:4497	9JCQ	Cryo-EM structure of the proton-sensing GPCR (GPR4)-Gs protein complex at pH 7.4	2025	2024	cryo-EM	2.59		0	40555728	
+GPR4	HGNC:4497	9JFU	Cryo-EM structure of inactive GPR4 with NE52-QQ57	2025	2024	cryo-EM	3.23		0	40211064	
+GPR4	HGNC:4497	9JFV	Cryo-EM structure of GPR4 complexed with miniGs/q in pH6.8	2025	2024	cryo-EM	2.67		0	40211064	
+GPR4	HGNC:4497	9JFW	Cryo-EM structure of GPR4 complexed with Gs in pH6.8	2025	2024	cryo-EM	3.13		0	40211064	
+GPR4	HGNC:4497	9JFX	Cryo-EM structure of GPR4 complexed with miniGs/q in pH7.5	2025	2024	cryo-EM	2.87		0	40211064	
+GPR4	HGNC:4497	9JFZ	Cryo-EM structure of intermediate state GPR4 complexed with miniGs/q in pH7.5	2025	2024	cryo-EM	2.9		0	40211064	
+GPR4	HGNC:4497	9JHP	Cryo-EM structure of GPR4 complexed with miniG13 in pH6.8	2025	2024	cryo-EM	3.35		0	40211064	
+GPR4	HGNC:4497	9LGM	Cryo-EM structure of GPR4 complexed with Gs in pH8.0	2025	2025	cryo-EM	2.84		0	40211064	
+GPR4	HGNC:4497	9LMO	Cryo-EM structure of human apo inactive GPR4	2025	2025	cryo-EM	3.2		0	40215960	
+GPR4	HGNC:4497	9LMP	Cryo-EM structure of antagonist-bounded inactive human GPR4	2025	2025	cryo-EM	2.65		0	40215960	
+GPR4	HGNC:4497	9U4J	Cryo-EM structure of the hGPR4-apo Receptor in pH 7.8	2026	2025	cryo-EM	3.4		0		
+GPR6	HGNC:4515	8T1V	Crystal structure of orphan G protein-coupled receptor 6 with bound inverse agonist 3h	2024	2023	X-ray	2.6	NA	0	39626010	
+GPR6	HGNC:4515	8T1W	Crystal structure of orphan G protein-coupled receptor 6 with bound CVN424	2024	2023	X-ray	3.49		0	39626010	
+GPR6	HGNC:4515	8TF5	Crystal structure of orphan G protein-coupled receptor 6, pseudoapo form	2024	2023	X-ray	2.1		0	39626010	
+GPR6	HGNC:4515	8TYW	cryo-EM structure of GPR6-Gs-Nb35 complex	2024	2023	cryo-EM	3.43		0	39626010	
+GPR12	HGNC:4466	7Y3G	Cryo-EM structure of a class A orphan GPCR	2023	2022	cryo-EM	2.77		0	36593162	
+GPR20	HGNC:4475	8HS2	Orphan GPR20 in complex with Fab046	2023	2022	cryo-EM	3.08		0	36849514	
+GPR20	HGNC:4475	8HS3	Gi bound orphan GPR20 in ligand-free state	2023	2022	cryo-EM	3.14		0	36849514	
+GPR20	HGNC:4475	8HSC	Gi bound Orphan GPR20 complex with Fab046 in ligand-free state	2023	2022	cryo-EM	3.22		0	36849514	
+GPR21	HGNC:4476	8HIX	Cryo-EM structure of GPR21_m5_Gs	2023	2022	cryo-EM	3.12		0	36639690	
+GPR21	HGNC:4476	8HJ0	GPR21(m5) and G15 complex	2023	2022	cryo-EM	3.12		0	36639690	
+GPR21	HGNC:4476	8HJ1	GPR21(wt) and Gs complex	2023	2022	cryo-EM	3.27		0	36639690	
+GPR21	HGNC:4476	8HJ2	GPR21 wt with G15 complex	2023	2022	cryo-EM	3.8		0	36639690	
+GPR21	HGNC:4476	8HMV	Structure of GPR21-Gs complex	2023	2022	cryo-EM	2.91		0	36721851	
+GPR34	HGNC:4490	8IYX	Cryo-EM structure of the GPR34 receptor in complex with the antagonist YL-365	2024	2023	cryo-EM	3.34		0	37733739	
+GPR34	HGNC:4490	8IZ4	Lysophosphatidylserine receptor GPR34-Gi complex	2024	2023	cryo-EM	2.93	SER;TJR	1		
+GPR34	HGNC:4490	8K4N	Structure of GPR34-Gi complex	2023	2023	cryo-EM	2.83		0		
+GPR34	HGNC:4490	8SAI	Cryo-EM structure of GPR34-Gi complex	2023	2023	cryo-EM	3.27		0	37733739	
+GPR34	HGNC:4490	8WRB	Lysophosphatidylserine receptor GPR34-Gi complex	2023	2023	cryo-EM	2.91	SER;UBL	1	38048360	
+GPR34	HGNC:4490	8XBE	Human GPR34 -Gi complex bound to S3E-LysoPS	2024	2023	cryo-EM	3.4		0	38326347	
+GPR34	HGNC:4490	8XBG	Human GPR34 -Gi complex bound to S3E-LysoPS, receptor focused	2024	2023	cryo-EM	3.43		0	38326347	
+GPR34	HGNC:4490	8XBH	Human GPR34 -Gi complex bound to M1	2023	2023	cryo-EM	2.83		0	38326347	
+GPR34	HGNC:4490	8XBI	Human GPR34 -Gi complex bound to M1, receptor focused	2023	2023	cryo-EM	3.06		0	38326347	
+GPR50	HGNC:4506	9L9O	Cryo-EM structure of apo GPR50 with BRIL fusion, anti-BRIL Fab, and anti-Fab Nb complex	2026	2024	cryo-EM	2.98		0	41666959	
+GPR52	HGNC:4508	6LI0	Crystal structure of GPR52 in complex with agonist c17	2020	2019	X-ray	2.2		0	32076264	
+GPR52	HGNC:4508	6LI1	Crystal structure of GPR52 ligand free form with flavodoxin fusion	2020	2019	X-ray	2.9		0	32076264	
+GPR52	HGNC:4508	6LI2	Crystal structure of GPR52 ligand free form with rubredoxin fusion	2020	2019	X-ray	2.8	ZN	0	32076264	
+GPR52	HGNC:4508	6LI3	cryo-EM structure of GPR52-miniGs-NB35	2020	2019	cryo-EM	3.32		0	32076264	
+GPR52	HGNC:4508	8HMP	GPR52 with Gs and c17	2023	2022	cryo-EM	2.77		0	37051308	
+GPR52	HGNC:4508	9IJR	Cryo-EM structure of the orphan GPR52 beta-arrestin 1 complex bound to ligand c17	2025	2024	cryo-EM	3.86		0	40813798	
+GPR52	HGNC:4508	9IJS	Cryo-EM structure of the orphan GPR52 bound to beta-arrestin 1 in ligand-free state	2025	2024	cryo-EM	3.64		0	40813798	
+GPR61	HGNC:13300	8KGK	Cryo-EM structure of the GPR61-Gs complex	2023	2023	cryo-EM	3.16		0	37737235	
+GPR61	HGNC:13300	8TB0	Cryo-EM Structure of GPR61-G protein complex stabilized by scFv16	2023	2023	cryo-EM	3.47		0	37741852	
+GPR61	HGNC:13300	8TB7	Cryo-EM Structure of GPR61-	2023	2023	cryo-EM	2.94		0	37741852	
+GPR61	HGNC:13300	9YFU	Structure of GPR61 bound to inverse agonist compound 15	2026	2025	cryo-EM	3.08		0	41834467	
+GPR65	HGNC:4517	9BHL	Human proton sensing receptor GPR65 in complex with miniGs	2025	2024	cryo-EM	2.8		0	39753132	
+GPR65	HGNC:4517	9JFT	Cryo-EM structure of GPR65 complexed with miniGs in pH6.5	2025	2024	cryo-EM	3.27		0	40211064	
+GPR68	HGNC:4519	8Z3O	Cryo-EM structure of the receptor of hGPR68-Gs complex in pH6.0	2025	2024	cryo-EM	3.3		0		
+GPR68	HGNC:4519	8Z5H	Cryo-EM structure of the hGPR68-Gs complex in pH6.0	2025	2024	cryo-EM	3.3		0		
+GPR68	HGNC:4519	8Z68	Cryo-EM structure of the hGPR68-Gs complex in pH6.8	2025	2024	cryo-EM	2.64		0		
+GPR68	HGNC:4519	9BHM	Human proton sensing receptor GPR68 in complex with miniGs	2025	2024	cryo-EM	2.9		0	39753132	
+GPR68	HGNC:4519	9BI6	Human proton sensing receptor GPR68 in complex with miniGsq	2025	2024	cryo-EM	2.9		0	39753132	
+GPR75	HGNC:4526	9XQC	A composite Cryo-EM structure of GPR75	2026	2025	cryo-EM	3.0		0	41545757	
+GPR75	HGNC:4526	9XQN	Cryo-EM structure of apo form of GPR75-bRIL-Fab complex	2026	2025	cryo-EM	3.91		0	41545757	
+GPR88	HGNC:4539	7EJX	Structure of the GPR88-Gi1 signaling complex bound to a synthetic ligand	2022	2021	cryo-EM	2.4		0	35501348	
+GPR88	HGNC:4539	7WZ4	Structure of an orphan GPCR-G protein signaling complex	2022	2022	cryo-EM	3.0		0	35501348	
+GPR101	HGNC:14963	8W8Q	Cryo-EM structure of the GPR101-Gs complex	2024	2023	cryo-EM	2.89		0	37945893	
+GPR101	HGNC:14963	8W8R	Cryo-EM structure of the AA-14-bound GPR101-Gs complex	2024	2023	cryo-EM	3.3		0	37945893	
+GPR101	HGNC:14963	8W8S	Cryo-EM structure of the AA14-bound GPR101 complex	2024	2023	cryo-EM	3.3		0	37945893	
+GPR139	HGNC:19995	7VUG	Cryo-EM structure of a class A orphan GPCR in complex with Gi	2021	2021	cryo-EM	3.2		0	34916631	
+GPR139	HGNC:19995	7VUH	Cryo-EM structure of a class A orphan GPCR	2021	2021	cryo-EM	3.22		0	34916631	
+GPR139	HGNC:19995	7VUI	Cryo-EM structure of a class A orphan GPCR	2021	2021	cryo-EM	3.3	GTP;MG	1	34916631	
+GPR139	HGNC:19995	7VUJ	Cryo-EM structure of a class A orphan GPCR	2021	2021	cryo-EM	3.8	GDP;MG	1	34916631	
+GPR139	HGNC:19995	9M42	Structure-based discovery of potent agonists of the orphan receptor GPR139	2026	2025	cryo-EM	3.2		0	41365886	
+GPR151	HGNC:23624	9W3K	GPR151-Legobody complex	2026	2025	cryo-EM	3.08		0	42085164	
+GPR151	HGNC:23624	9W3L	Cryo-EM structure of GPR151-Nb6 complex	2026	2025	cryo-EM	2.76		0	42085164	
+GPR156	HGNC:20844	8IEB	Cryo-EM structure of GPR156 of GPR156-miniGo-scFv16 complex (local refine)	2024	2023	cryo-EM	3.03		0	38332368	
+GPR156	HGNC:20844	8IED	Cryo-EM structure of GPR156-miniGo-scFv16 complex	2024	2023	cryo-EM	3.33		0	38332368	
+GPR156	HGNC:20844	8IEI	Cryo-EM structure of GPR156A/B of G-protein free GPR156 (local refine)	2024	2023	cryo-EM	2.62		0	38332368	
+GPR156	HGNC:20844	8IEP	Cryo-EM structure of GPR156C/D of G-protein free GPR156 (local refine)	2024	2023	cryo-EM	2.61		0	38332368	
+GPR156	HGNC:20844	8IEQ	Cryo-EM structure of G-protein free GPR156	2024	2023	cryo-EM	2.73		0	38332368	
+GPR156	HGNC:20844	8YJP	Cryo-EM structure of human apo GPR156	2025	2024	cryo-EM	3.09		0	39638804	
+GPR156	HGNC:20844	8YK0	Cryo-EM structure of human GPR156-Gi3 complex	2025	2024	cryo-EM	2.4		0	39638804	
+GPR174	HGNC:30245	20YC	Cryo-EM structure of GPR174-Gi complex	2026	2025	cryo-EM	3.4		0		
+GPR174	HGNC:30245	7XV3	Cryo-EM structure of LPS-bound GPR174 in complex with Gs protein	2023	2022	cryo-EM	2.76		0	36823105	
+GPR174	HGNC:30245	8IZB	Lysophosphatidylserine receptor GPR174-Gs complex	2023	2023	cryo-EM	3.06	SER;UBL	1	38048360	
+GPR174	HGNC:30245	8KH5	Cryo-EM structure of the GPR174-Gs complex bound to endogenous lysoPS	2023	2023	cryo-EM	2.83		0	37737235	
+GPR174	HGNC:30245	9XXT	Cryo-EM structure of lysophosphatidylserine (18:0)-bound GPR174-Gs complex	2026	2025	cryo-EM	2.0		0		
+GPRC5D	HGNC:13310	8YZK	Orphan receptor GPRC5D in complex with scFv150-18	2024	2024	cryo-EM	3.4		0	38898050	
+GPRC5D	HGNC:13310	9IMA	Cryo-EM structure for the GPRC5D complexed with Talquetamab Fab	2024	2024	cryo-EM	2.65		0	39181182	
+GPRC5D	HGNC:13310	9M7H	Cryo-EM structure of the orphan receptor GPRC5D in ligand free state resolved via the fusion/crosslinking strategy	2026	2025	cryo-EM	3.17		0		
+GRID1	HGNC:4575	12HR	structure of human GluD1 with calcium	2026	2026	cryo-EM	5.86		0		
+GRID1	HGNC:4575	8BLJ	Crystal structure of the ligand-binding domain (LBD) of human iGluR Delta-1 (GluD1), apo state	2023	2022	X-ray	2.18	CA;NAG	0	38060673	
+GRID1	HGNC:4575	8BN2	Crystal structure of the ligand-binding domain (LBD) of human iGluR Delta-1 (GluD1) in complex with D-Serine	2023	2022	X-ray	1.63	CA;NAG	0	38060673	
+GRID1	HGNC:4575	8BN5	Crystal structure of the ligand-binding domain (LBD) of human iGluR Delta-1 (GluD1) in complex with GABA	2023	2022	X-ray	1.9	CA;NAG	0	38060673	
+HCAR1	HGNC:4532	8Z87	Cryo-EM structure of the CHBA-bound human HCAR1-Gi1 complex	2025	2024	cryo-EM	2.73		0	41493973	
+HCAR1	HGNC:4532	8Z8A	Cryo-EM structure of the Lactate-bound human HCAR1-Gi1 complex	2025	2024	cryo-EM	2.82		0	41493973	
+HCAR1	HGNC:4532	8Z8B	Cryo-EM structure of human HCAR1-Gi complex without ligand (apo state)	2025	2024	cryo-EM	2.65		0	41493973	
+HCAR1	HGNC:4532	9IZD	Cryo-EM structure of human HCAR1-Gi complex with CHBA	2025	2024	cryo-EM	3.16		0	40233099	
+HCAR1	HGNC:4532	9J8Z	Cryo-EM structure of human HCAR1-Gi complex without ligand (apo state)	2025	2024	cryo-EM	3.36		0	40233099	
+HCAR1	HGNC:4532	9KT9	Cryo-EM structure of HCA1-Gi complex with 3,5-DHBA	2025	2024	cryo-EM	2.7		0	39936872	
+HCAR3	HGNC:16824	8IHJ	Cryo-EM structure of HCA3-Gi complex with acifran	2023	2023	cryo-EM	3.07		0	37736747	
+HCAR3	HGNC:16824	8IHK	Cryo-EM structure of HCA3-Gi complex with acifran (local)	2023	2023	cryo-EM	3.21		0	37736747	
+HCAR3	HGNC:16824	8JEF	Cryo-EM Structure of the 3HO-HCAR3-Gi complex	2024	2023	cryo-EM	2.96		0	39427321	
+HCAR3	HGNC:16824	8JEI	Cryo-EM Structure of the compuond 5c-HCAR3-Gi complex	2024	2023	cryo-EM	2.73		0	39427321	
+HCAR3	HGNC:16824	9JIC	Cryo-EM Structure of the apo HCAR3-Gi complex	2025	2024	cryo-EM	3.4		0	39427321	
+HCAR3	HGNC:16824	9JID	Cryo-EM Structure of the niacin-HCAR3-Gi complex	2025	2024	cryo-EM	2.78		0	39427321	
+HCAR3	HGNC:16824	9JKS	6O-HCAR3-Gi complex	2025	2024	cryo-EM	3.31		0	41359625	
+HCAR3	HGNC:16824	9JKT	PLA-HCAR3-Gi complex	2025	2024	cryo-EM	3.05		0	41359625	
+HCAR3	HGNC:16824	9JKV	IBC-HCAR3-Gi complex	2025	2024	cryo-EM	3.26		0	41359625	
+HCAR3	HGNC:16824	9JKX	acifran-HCAR3-Gi complex	2025	2024	cryo-EM	3.18		0	41359625	
+HCAR3	HGNC:16824	9KT6	HCA3-Gi complex with acifran	2025	2024	cryo-EM	3.01		0	39936872	
+HIPK3	HGNC:4915	7O7I	Crystal structure of the human HIPK3 kinase domain	2021	2021	X-ray	2.5		0	34785661	
+HIPK3	HGNC:4915	7O7J	Crystal structure of the human HIPK3 kinase domain bound to abemaciclib	2021	2021	X-ray	2.81		0	34785661	
+KCNAB2	HGNC:6229	1ZSX	Crystal Structure Of Human Potassium Channel Kv Beta-subunit (KCNAB2)	2005	2005	X-ray	1.9		0		
+KCNAB2	HGNC:6229	7EJ1	human voltage-gated potassium channel KV1.3	2021	2021	cryo-EM	3.2		0	34059645	
+KCNAB2	HGNC:6229	7EJ2	human voltage-gated potassium channel KV1.3 H451N mutant	2021	2021	cryo-EM	3.3		0	34059645	
+KCNAB2	HGNC:6229	7WF3	Composite map of human Kv1.3 channel in apo state with beta subunits	2022	2021	cryo-EM	3.4	K	0	35091471	
+KCNAB2	HGNC:6229	7WF4	Composite map of human Kv1.3 channel in dalazatide-bound state with beta subunits	2022	2021	cryo-EM	3.4	K	0	35091471	
+KCNC4	HGNC:6236	1B4G	CONTROL OF K+ CHANNEL GATING BY PROTEIN PHOSPHORYLATION: STRUCTURAL SWITCHES OF THE INACTIVATION GATE, NMR, 22 STRUCTURES	1999	1998	NMR			0	10048926	
+KCNC4	HGNC:6236	1B4I	Control of K+ Channel Gating by protein phosphorylation: structural switches of the inactivation gate, NMR, 22 structures	1999	1998	NMR			0	10048926	
+KCNC4	HGNC:6236	1ZTN	INACTIVATION GATE OF POTASSIUM CHANNEL RAW3, NMR, 8 STRUCTURES	1997	1996	NMR			0	9000078	
+KCNIP1	HGNC:15521	1S1E	Crystal Structure of Kv Channel-interacting protein 1 (KChIP-1)	2005	2004	X-ray	2.3	CA	0	14980207	
+KCNIP1	HGNC:15521	2I2R	Crystal structure of the KChIP1/Kv4.3 T1 complex	2006	2006	X-ray	3.35	CA;NA;ZN	0	17057713	
+KCNIP1	HGNC:15521	2NZ0	Crystal structure of potassium channel Kv4.3 in complex with its regulatory subunit KChIP1	2006	2006	X-ray	3.2	CA;ZN	0	17187064	
+KCNIP1	HGNC:15521	7E83	CryoEM structure of the human Kv4.2-KChIP1 complex, intracellular region	2021	2021	cryo-EM	3.1		0	34552243	
+KCNIP1	HGNC:15521	7E84	CryoEM structure of human Kv4.2-KChIP1 complex	2021	2021	cryo-EM	3.1		0	34552243	
+KCNIP1	HGNC:15521	7E8E	CryoEM structure of human Kv4.2-DPP6S-KChIP1 complex, transmembrane and intracellular region	2021	2021	cryo-EM	3.9		0	34552243	
+KCNIP1	HGNC:15521	7E8H	CryoEM structure of human Kv4.2-DPP6S-KChIP1 complex	2021	2021	cryo-EM	4.5		0	34552243	
+KCNIP1	HGNC:15521	7F3F	CryoEM structure of human Kv4.2-KChIP1 complex	2021	2021	cryo-EM	3.1		0	34552243	
+KCNIP1	HGNC:15521	7W6N	CryoEM structure of human KChIP1-Kv4.3 complex	2022	2021	cryo-EM	3.4		0	34997220	
+KCNIP1	HGNC:15521	7W6T	CryoEM structure of human KChIP1-Kv4.3-DPP6 complex	2022	2021	cryo-EM	3.85		0	34997220	
+KCNK4	HGNC:6279	3UM7	Crystal structure of the human two pore domain K+ ion channel TRAAK (K2P4.1)	2012	2011	X-ray	3.31	K	0	22282805	
+KCNK4	HGNC:6279	4I9W	Human two pore domain K+ channel TRAAK (K2P4.1) - Fab complex structure	2013	2012	X-ray	2.75	CA;K	0	23341632	
+KCNK4	HGNC:6279	4RUE	Human K2P4.1 (TRAAK) potassium channel, G124I mutant	2014	2014	X-ray	3.3	K	0	25500157	
+KCNK4	HGNC:6279	4RUF	Human K2P4.1 (TRAAAK) potassium channel, W262S mutant	2014	2014	X-ray	3.4	K	0	25500157	
+KCNK4	HGNC:6279	4WFE	Human TRAAK K+ channel in a K+ bound conductive conformation	2014	2014	X-ray	2.5	CA;K	0	25471887	
+KCNK4	HGNC:6279	4WFF	Human TRAAK K+ channel in a K+ bound nonconductive conformation	2014	2014	X-ray	2.5	CA;K	0	25471887	
+KCNK4	HGNC:6279	4WFG	Human TRAAK K+ channel in a Tl+ bound conductive conformation	2014	2014	X-ray	3.0	CA;TL	1	25471887	
+KCNK4	HGNC:6279	4WFH	Human TRAAK K+ channel in a Tl+ bound nonconductive conformation	2014	2014	X-ray	3.01	CA;TL	1	25471887	
+KCNK4	HGNC:6279	7LJ4	Human TRAAK K+ channel FHEIG mutant A270P in a K+ bound conductive conformation	2021	2021	X-ray	2.782	CA;K	0	34390650	
+KCNK4	HGNC:6279	7LJ5	Human TRAAK K+ channel FHIEG mutant A198E in a K+ bound conductive conformation	2021	2021	X-ray	2.26	CA;K	0	34390650	
+KCNK4	HGNC:6279	7LJA	Human TRAAK K+ channel FHEIG mutant A198E in a Tl+ bound conductive conformation	2021	2021	X-ray	2.77	CA;TL	1	34390650	
+KCNK4	HGNC:6279	7LJB	Human TRAAK K+ channel mutant G158D in a K+ bound conductive conformation	2021	2021	X-ray	2.97	CA;K	0	34390650	
+KCNMB4	HGNC:6289	5Y7L	Solution structure of Hbeta4 extracellular loop of BK potassium channel	2018	2017	NMR			0	29545539	
+KCNMB4	HGNC:6289	6V22	Cryo-EM structure of Ca2+-bound hsSlo1-beta4 channel complex	2019	2019	cryo-EM	3.2	CA;K;MG;NAG	0	31815672	
+KCNMB4	HGNC:6289	6V35	Cryo-EM structure of Ca2+-free hsSlo1-beta4 channel complex	2019	2019	cryo-EM	3.5	NAG	0	31815672	
+KCNMB4	HGNC:6289	9CZH	Ca2+ bound intermediate state of hSlo1 + beta2N-beta4 channel in detergent.	2025	2024	cryo-EM	2.9	CA;K	0	39971906	
+KCNMB4	HGNC:6289	9CZJ	Ca2+ free hSlo1 + beta2N-beta4 channel in detergent.	2025	2024	cryo-EM	3.54		0	39971906	
+KCNMB4	HGNC:6289	9CZK	Ca2+ free hSlo1 + beta2N-beta4 channel in nanodisc.	2025	2024	cryo-EM	3.5	K	0	39971906	
+KCNMB4	HGNC:6289	9CZM	Ca2+ bound open-inactivated hSlo1 + beta2N-beta4 channel in nanodisc.	2025	2024	cryo-EM	2.57	CA;K;MG	0	39971906	
+KCNMB4	HGNC:6289	9CZO	Ca2+ bound intermediate state of hSlo1 + beta2N-beta4 channel in nanodisc.	2025	2024	cryo-EM	2.87	CA;K	0	39971906	
+KCNMB4	HGNC:6289	9CZQ	Ca2+ bound open-inactivated hSlo1 + beta2N-beta4 channel in detergent.	2025	2024	cryo-EM	2.88	CA;K;MG	0	39971906	
+KCNMB4	HGNC:6289	9D18	Ca2+ bound open-inactivated hSlo1 + beta2N-beta4 channel in detergent-conformation 2 of inactivating domain	2025	2024	cryo-EM	2.88	CA;K;MG	0	39971906	
+KCNMB4	HGNC:6289	9D19	Ca2+ bound open-inactivated hSlo1 + beta2N-beta4 channel in detergent-conformation 3 of inactivating domain	2025	2024	cryo-EM	2.88	CA;K;MG	0	39971906	
+KCNT1	HGNC:18865	8HIR	potassium channels	2023	2022	cryo-EM	3.18	K;NA;ZN	0	37494189	
+KCNT1	HGNC:18865	8HK6	potassium channel	2023	2022	cryo-EM	2.64	K;ZN	0	37494189	
+KCNT1	HGNC:18865	8HKF	ion channel	2023	2022	cryo-EM	2.66	K;ZN	0	37494189	
+KCNT1	HGNC:18865	8HKK	ion channel	2023	2022	cryo-EM	2.84	K;NA;ZN	0	37494189	
+KCNT1	HGNC:18865	8HKM	ion channel	2023	2022	cryo-EM	2.95	K;ZN	0	37494189	
+KCNT1	HGNC:18865	8HKQ	ion channel	2023	2022	cryo-EM	2.9	K;NA;ZN	0	37494189	
+LMTK3	HGNC:19295	6SEQ	Lemur tyrosine kinase 3 (LMTK3)	2020	2019	X-ray	2.1		0	33188023	
+LPAR6	HGNC:15520	9ITB	LPA-bound LPAR6 in complex with miniGq	2025	2024	cryo-EM	2.89		0	39847322	
+LPAR6	HGNC:15520	9ITE	LPA-bound LPAR6 in complex with miniG13	2025	2024	cryo-EM	3.06		0	39847322	
+LRRK1	HGNC:18608	8E04	Structure of monomeric LRRK1	2023	2022	cryo-EM	3.8		0	37857821	
+LRRK1	HGNC:18608	8E05	Structure of dimeric LRRK1	2023	2022	cryo-EM	4.6		0	37857821	
+LRRK1	HGNC:18608	8E06	Symmetry expansion of dimeric LRRK1	2023	2022	cryo-EM	4.3		0	37857821	
+LRRK1	HGNC:18608	8FAC	Structure of the leucine-rich repeat kinase 1 monomer	2023	2022	cryo-EM	3.92		0	37558661	
+LTK	HGNC:6721	7NX0	LTK:ALKAL1 complex stabilized by a Nanobody	2021	2021	X-ray	1.95	NA	0	34646012	
+LTK	HGNC:6721	7NX1	TG domain of LTK	2021	2021	X-ray	1.3	BTB;TB	1	34646012	
+MAP3K10	HGNC:6849	2RF0	Crystal structure of human mixed lineage kinase MAP3K10 SH3 domain	2007	2007	X-ray	2.0		0		
+MAP3K14	HGNC:6853	4DN5	Crystal Structure of NF-kB-inducing Kinase (NIK)	2012	2012	X-ray	2.5	AGS;MG	1	22718757	
+MAP3K14	HGNC:6853	4G3D	Crystal structure of human NF-kappaB inducing kinase (NIK)	2012	2012	X-ray	2.9	MG	0	22921830	
+MAP3K14	HGNC:6853	4IDT	Crystal Structure of NIK with 11-bromo-5,6,7,8-tetrahydropyrimido[4',5':3,4]cyclohepta[1,2-b]indol-2-amine (T28)	2013	2012	X-ray	2.4		0	23374866	
+MAP3K14	HGNC:6853	4IDV	Crystal Structure of NIK with compound 4-{3-[2-amino-5-(2-methoxyethoxy)pyrimidin-4-yl]-1H-indol-5-yl}-2-methylbut-3-yn-2-ol (13V)	2013	2012	X-ray	2.9		0	23374866	
+MAP3K14	HGNC:6853	6WPP	HUMAN NIK IN COMPLEX WITH LIGAND COMPOUND X	2020	2020	X-ray	2.55		0	32786514	
+MAP3K14	HGNC:6853	6Z1Q	MAP3K14 (NIK) in complex with DesF-3R/4076	2020	2020	X-ray	2.42		0		
+MAP3K14	HGNC:6853	6Z1T	MAP3K14 (NIK) in complex with 4S/3694	2020	2020	X-ray	2.31		0		
+MAP3K14	HGNC:6853	8YHW	The Crystal Structure of NF-kB-inducing Kinase (NIK) from Biortus	2024	2024	X-ray	2.9	AGS;MG	1		
+MAP3K15	HGNC:31689	6V0M	Sterile alpha-motif from apoptosis signal-regulating kinase 3	2020	2019	X-ray	1.8		0	32156783	
+MAP3K21	HGNC:29798	4UYA	Structure of MLK4 kinase domain with ATPgammaS	2015	2014	X-ray	2.8	AGS;MG	1	26637668	
+MARK1	HGNC:6896	2HAK	Catalytic and ubiqutin-associated domains of MARK1/PAR-1	2006	2006	X-ray	2.6		0	16803889	
+MARK1	HGNC:6896	3OSE	Structure of the Kinase Associated Domain 1 (KA1) from MARK1 kinase	2010	2010	X-ray	1.7		0	21145462	
+MARK1	HGNC:6896	6C9D	Crystal structure of KA1-autoinhibited MARK1 kinase	2018	2018	X-ray	2.499		0	30099988	
+MARK3	HGNC:6897	2QNJ	Kinase and Ubiquitin-associated domains of MARK3/Par-1	2007	2007	X-ray	2.7		0	17726107	
+MARK3	HGNC:6897	3FE3	Crystal structure of the kinase MARK3/Par-1: T211A-S215A double mutant	2008	2008	X-ray	1.9		0		
+MARK3	HGNC:6897	7P1L	The MARK3 Kinase Domain Bound To AA-CS-1-008	2021	2021	X-ray	1.95		0	34333981	
+MARK3	HGNC:6897	8UOH	Crystal structure of human NUAK1-MARK3 kinase domain chimera bound with small molecule inhibitor #10	2024	2023	X-ray	2.15	NI	0	39588908	
+MARK3	HGNC:6897	8UOI	Crystal structure of human NUAK1-MARK3 kinase domain chimera bound with small molecule inhibitor #65	2024	2023	X-ray	1.8		0	39588908	
+MARK3	HGNC:6897	8UOJ	Crystal structure of human NUAK1-MARK3 kinase domain chimera bound with azepane (R)-#50 small molecule inhibitor	2024	2023	X-ray	1.6		0	39588908	
+MARK3	HGNC:6897	8UOK	Crystal structure of human NUAK1-MARK3 (7 mutations) kinase domain chimera bound with small molecule inhibitor #31	2024	2023	X-ray	1.85		0	39588908	
+MARK3	HGNC:6897	8UOL	Crystal structure of human NUAK1-MARK3 (6 mutations) kinase domain chimera bound with small molecule inhibitor #31	2024	2023	X-ray	1.9		0	39588908	
+MARK3	HGNC:6897	9VFO	Crystal Structure of the NUAK1-MARK3 kinase domain chimera bound with small molecule inhibitor 2-amino-N-(5-((5-chloro-4-(((3R,3aR,6R,6aR)-6-methoxyhe	2026	2025	X-ray	2.50010609405		0	41855469	
+MARK3	HGNC:6897	9VGR	Crystal Structure of the NUAK1-MARK3 kinase domain chimera bound with small molecule inhibitor 4-((5-((5-chloro-4-(((3R,3aR,6R,6aR)-6-methoxyhexahydro	2026	2025	X-ray	2.00000662781		0	41855469	
+MARK3	HGNC:6897	9VIR	Crystal Structure of the NUAK1-MARK3 kinase domain chimera bound with small molecule inhibitor N-(5-((5-chloro-4-(((3aS,6R,6aR)-6-methoxy-3a,5,6,6a-te	2026	2025	X-ray	2.8000173706		0	41855469	
+MARK3	HGNC:6897	9YR9	Structure of human MARK3 in complex with inhibitor	2026	2025	X-ray	2.402		0		
+MARK3	HGNC:6897	9YSQ	Structure of a human NUAK1-MARK3 kinase domain chimera in complex with inhibitor	2026	2025	X-ray	2.4		0		
+MARK3	HGNC:6897	9ZZW	Structure of human MARK3 in complex with inhibitor	2026	2026	X-ray	2.76		0		
+MARK4	HGNC:13538	5ES1	CRYSTAL STRUCTURE OF MICROTUBULE AFFINITY-REGULATING KINASE 4 CATALYTIC DOMAIN IN COMPLEX WITH A PYRAZOLOPYRIMIDINE INHIBITOR	2015	2015	X-ray	2.8		0	26841763	
+MARK4	HGNC:13538	8XFL	The Crystal Structure of MARK4 from Biortus.	2023	2023	X-ray	3.0		0		
+MAST2	HGNC:19035	2KQF	Solution structure of MAST205-PDZ complexed with the C-terminus of a rabies virus G protein	2010	2009	NMR			0		
+MAST2	HGNC:19035	2KYL	Solution structure of MAST2-PDZ complexed with the C-terminus of PTEN	2011	2010	NMR			0		
+MAST3	HGNC:19036	1V9V	Solution structure of putative domain of human KIAA0561 protein	2005	2004	NMR			0		
+MAST3	HGNC:19036	3KHF	The crystal structure of the PDZ domain of human Microtubule Associated Serine/Threonine Kinase 3 (MAST3)	2009	2009	X-ray	1.2		0		
+MAST4	HGNC:19037	2W7R	Structure of the PDZ domain of Human Microtubule associated serine- threonine kinase 4	2009	2008	X-ray	1.6		0	20120020	
+MKNK2	HGNC:7111	2AC3	Structure of human Mnk2 Kinase Domain	2005	2005	X-ray	2.1	ZN	0	16216586	
+MKNK2	HGNC:7111	2AC5	Structure of human Mnk2 Kinase Domain mutant D228G	2005	2005	X-ray	3.2	ZN	0	16216586	
+MKNK2	HGNC:7111	2HW7	Crystal Structure of Mnk2-D228G in complex with Staurosporine	2006	2006	X-ray	2.71	ZN	0	16917500	
+MKNK2	HGNC:7111	6CJ5	Crystal Structure of Mnk2-D228G in Complex With Inhibitor	2018	2018	X-ray	2.8	ZN	0	29526098	
+MKNK2	HGNC:7111	6CJE	Crystal Structure of Mnk2-D228G in complex with Inhibitor	2018	2018	X-ray	3.36	ZN	0	29526098	
+MKNK2	HGNC:7111	6CJH	Co-crystal structure of MNK2 in complex with an inhibitor	2018	2018	X-ray	3.6	ZN	0	29526098	
+MKNK2	HGNC:7111	6CJW	Crystal Structure of Mnk2-D228G in Complex With Inhibitor	2018	2018	X-ray	3.38	ZN	0	29526098	
+MKNK2	HGNC:7111	6CJY	Crystal Structure of Mnk2-D228G in complex with Inhibitor	2018	2018	X-ray	3.05	ZN	0	29526098	
+MKNK2	HGNC:7111	6CK3	Co-crytsal Structure of MNK2 in Complex With an Inhibitor	2018	2018	X-ray	2.9	ZN	0	29526098	
+MKNK2	HGNC:7111	6CK6	Crystal Structure of Mnk2-D228G in complex with Inhibitor	2018	2018	X-ray	3.32	ZN	0	29526098	
+MKNK2	HGNC:7111	6CKI	Co-crystal structure of MNK2 in Complex With Inhibitor	2018	2018	X-ray	2.95	ZN	0	29526098	
+MKNK2	HGNC:7111	6JLR	Crystal structure of wild type MNK2 in complex with inhibitor	2020	2019	X-ray	2.901		0	31910010	
+MKNK2	HGNC:7111	8P9B	Crystal Structure of Mnk2-D228G in complex with Tinodasertib	2024	2023	X-ray	2.59	ZN	0		
+MKNK2	HGNC:7111	8XFM	The Crystal Structure of MNK2 from Biortus.	2023	2023	X-ray	2.6	ZN	0		
+MKNK2	HGNC:7111	9HRC	Structure of MNK2 in complex with inhibitor NUCC-0201049	2025	2024	X-ray	3.161	ZN	0	40033556	
+MRGPRX1	HGNC:17962	8DWC	CryoEM structure of Gq-coupled MRGPRX1 with peptide agonist BAM8-22	2022	2022	cryo-EM	2.87		0	36302898	
+MRGPRX1	HGNC:17962	8DWG	CryoEM structure of Gq-coupled MRGPRX1 with peptide ligand BAM8-22 and positive allosteric modulator ML382	2022	2022	cryo-EM	2.71		0	36302898	
+MRGPRX1	HGNC:17962	8DWH	CryoEM structure of Gq-coupled MRGPRX1 with ligand Compound-16	2022	2022	cryo-EM	3.25		0	36302898	
+MRGPRX1	HGNC:17962	8HJ5	Cryo-EM structure of Gq-coupled MRGPRX1 bound with Compound-16	2023	2022	cryo-EM	3.0		0	37347749	
+MRGPRX1	HGNC:17962	8JGB	CryoEM structure of Gi-coupled MRGPRX1 with peptide agonist CNF-Tx2	2024	2023	cryo-EM	2.84		0	37591889	
+MRGPRX1	HGNC:17962	8JGF	CryoEM structure of Gq-coupled MRGPRX1 with peptide agonist BAM8-22	2024	2023	cryo-EM	2.7		0	37591889	
+MRGPRX1	HGNC:17962	8JGG	CryoEM structure of Gi-coupled MRGPRX1 with peptide agonist BAM8-22	2024	2023	cryo-EM	3.0		0	37591889	
+MRGPRX1	HGNC:17962	9O8L	CryoEM Structure of Gq-coupled MRGPRX1 in complex with de novo protein mM1_060 (E12)	2026	2025	cryo-EM	3.13		0		
+MRGPRX2	HGNC:17983	7S8L	CryoEM structure of Gq-coupled MRGPRX2 with peptide agonist Cortistatin-14	2021	2021	cryo-EM	2.45		0	34789874	
+MRGPRX2	HGNC:17983	7S8M	CryoEM structure of Gi-coupled MRGPRX2 with peptide agonist Cortistatin-14	2021	2021	cryo-EM	2.54		0	34789874	
+MRGPRX2	HGNC:17983	7S8N	CryoEM structure of Gq-coupled MRGPRX2 with small molecule agonist (R)-Zinc-3573	2021	2021	cryo-EM	2.9		0	34789874	
+MRGPRX2	HGNC:17983	7S8O	CryoEM structure of Gi-coupled MRGPRX2 with small molecule agonist (R)-Zinc-3573	2021	2021	cryo-EM	2.58		0	34789874	
+MRGPRX2	HGNC:17983	7VDH	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with C48/80, state2	2021	2021	cryo-EM	2.9		0	34789875	
+MRGPRX2	HGNC:17983	7VDL	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with circular cortistatin-14	2021	2021	cryo-EM	3.22		0	34789875	
+MRGPRX2	HGNC:17983	7VDM	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with substance P	2021	2021	cryo-EM	2.98		0	34789875	
+MRGPRX2	HGNC:17983	7VUY	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with PAMP-12. state1	2021	2021	cryo-EM	2.84		0	34789875	
+MRGPRX2	HGNC:17983	7VUZ	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with PAMP-12, state2	2021	2021	cryo-EM	2.89		0	34789875	
+MRGPRX2	HGNC:17983	7VV0	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with PAMP-12, local	2021	2021	cryo-EM	3.5		0	34789875	
+MRGPRX2	HGNC:17983	7VV3	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with linear cortistatin-14	2021	2021	cryo-EM	2.97		0	34789875	
+MRGPRX2	HGNC:17983	7VV4	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with linear cortistatin-14, local	2021	2021	cryo-EM	2.97		0	34789875	
+MRGPRX2	HGNC:17983	7VV5	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with C48/80, state1	2021	2021	cryo-EM	2.76		0	34789875	
+MRGPRX2	HGNC:17983	7VV6	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with C48/80 (local)	2021	2021	cryo-EM	3.3		0	34789875	
+MRGPRX2	HGNC:17983	9WVX	CryoEM structure of MRGPRX2 with peptide agonist DKD2	2026	2025	cryo-EM	2.8		0		
+MRGPRX4	HGNC:17617	23CS	Cryo-EM structure of the MRGPRX4-miniGsq complex in the apo state	2026	2026	cryo-EM	2.89		0		
+MRGPRX4	HGNC:17617	23CU	Cryo-EM structure of the MRGPRX4-miniGsq complex in the apo state, local	2026	2026	cryo-EM	2.93		0		
+MRGPRX4	HGNC:17617	23CV	Cryo-EM structure of the MRGPRX4-miniGsq complex bound to the agonist dexamethasone phosphate (DEX-P)	2026	2026	cryo-EM	2.97		0		
+MRGPRX4	HGNC:17617	23CW	Cryo-EM structure of the MRGPRX4-miniGsq complex bound to the agonist dexamethasone phosphate (DEX-P),local	2026	2026	cryo-EM	2.88		0		
+MRGPRX4	HGNC:17617	23CX	Cryo-EM structure of the MRGPRX4-miniGsq complex bound to the inverse agonist cmpd54-4	2026	2026	cryo-EM	2.98		0		
+MRGPRX4	HGNC:17617	23CY	Cryo-EM structure of the MRGPRX4-miniGsq complex bound to the inverse agonist cmpd54-4, local	2026	2026	cryo-EM	2.84		0		
+MRGPRX4	HGNC:17617	7S8P	CryoEM structure of Gq-coupled MRGPRX4 with small molecule agonist MS47134	2021	2021	cryo-EM	2.6		0	34789874	
+MRGPRX4	HGNC:17617	8K4S	CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P	2024	2023	cryo-EM	2.9		0	39476841	
+MRGPRX4	HGNC:17617	8KEX	CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P, local	2024	2023	cryo-EM	3.2		0	39476841	
+MRGPRX4	HGNC:17617	8YRG	CryoEM structure of fospropofol-bound MRGPRX4-Gq complex	2024	2024	cryo-EM	3.14		0	38718132	
+MRGPRX4	HGNC:17617	9LRS	The structure of MRGPRX4 with PSB-18061	2026	2025	cryo-EM	2.83		0		
+MRGPRX4	HGNC:17617	9V81	cryoEM structure of HEP-50768-bound MRGPRX4-Gq complex	2026	2025	cryo-EM	2.63		0	41957282	
+MRGPRX4	HGNC:17617	9V82	Local refine map of HEP-50768-bound MRGPRX4	2026	2025	cryo-EM	2.56		0	41957282	
+NEK1	HGNC:7744	4APC	Crystal Structure of Human NIMA-related Kinase 1 (NEK1)	2012	2012	X-ray	2.1		0	28710492	
+NEK1	HGNC:7744	4B9D	Crystal Structure of Human NIMA-related Kinase 1 (NEK1) with inhibitor.	2012	2012	X-ray	1.9		0	28710492	
+NEK7	HGNC:13386	2WQM	Structure of apo human Nek7	2009	2009	X-ray	2.1	NI	0	19941817	
+NEK7	HGNC:13386	2WQN	Structure of ADP-bound human Nek7	2009	2009	X-ray	2.3	ADP;MG;NI	1	19941817	
+NEK7	HGNC:13386	5DE2	Structural mechanism of Nek7 activation by Nek9-induced dimerisation	2015	2015	X-ray	2.78		0	26522158	
+NEK7	HGNC:13386	6NPY	Cryo-EM structure of NLRP3 bound to NEK7	2019	2019	cryo-EM	3.8		0	31189953	
+NEK7	HGNC:13386	6S73	Crystal structure of Nek7 SRS mutant bound to compound 51	2020	2019	X-ray	3.5		0	32242624	
+NEK7	HGNC:13386	6S75	Crystal structure of Nek7 bound to compound 51	2020	2019	X-ray	3.3		0	32242624	
+NEK7	HGNC:13386	6S76	Crystal structure of human Nek7	2020	2019	X-ray	3.38		0	32242624	
+NEK7	HGNC:13386	8EJ4	Cryo-EM structure of the active NLRP3 inflammasome disk	2022	2022	cryo-EM	3.4	AGS;MG	1	36442502	
+NEK7	HGNC:13386	8SXN	Structure of NLRP3 and NEK7 complex	2024	2023	cryo-EM	4.04		0		
+NEK7	HGNC:13386	8WS0	Crystal structure of human NEK7 S195D mutant	2025	2023	X-ray	2.12		0		
+NEK7	HGNC:13386	8WS1	Crystal structure of human NEK7 D161N mutant	2025	2023	X-ray	2.4		0		
+NEK7	HGNC:13386	9H59	Cryo-EM structure of DDB1-CRBN in complex with NK7-902 and NEK7	2025	2024	cryo-EM	3.4		0		
+NEK7	HGNC:13386	9NFQ	Crystal structure of CRBN-DDB1 and MRT-3486 in complex with NEK7	2025	2025	X-ray	3.25	ADP;MG;ZN	1	40608931	
+NEK9	HGNC:18591	3ZKE	Structure of LC8 in complex with Nek9 peptide	2013	2013	X-ray	2.2		0	23482567	
+NEK9	HGNC:18591	3ZKF	Structure of LC8 in complex with Nek9 phosphopeptide	2013	2013	X-ray	2.6		0	23482567	
+NPY2R	HGNC:7957	7DDZ	The Crystal Structure of Human Neuropeptide Y Y2 Receptor with JNJ-31020028	2021	2020	X-ray	2.8		0	33531491	
+NPY2R	HGNC:7957	7X9B	Cryo-EM structure of neuropeptide Y Y2 receptor in complex with NPY and Gi	2022	2022	cryo-EM	3.4		0	35507650	
+NPY2R	HGNC:7957	7YON	Complex structure of Neuropeptide Y Y2 receptor in complex with PYY(3-36) and Gi	2023	2022	cryo-EM	2.95		0	36525977	
+NPY2R	HGNC:7957	7YOO	Complex structure of Neuropeptide Y Y2 receptor in complex with NPY and Gi	2023	2022	cryo-EM	3.11		0	36525977	
+NPY2R	HGNC:7957	8K6N	Structural complex of neuropeptide Y receptor 2	2024	2023	cryo-EM	3.2		0	38882210	
+OXGR1	HGNC:4531	26XH	Cryo-EM structure of Maleic Acid bound OXGR1-Gq complex	2026	2026	cryo-EM	2.82		0	42236546	
+OXGR1	HGNC:4531	8YYW	Cryo-EM structure of OXGR1 bound to alpha-ketoglutarate and Gq proteins	2025	2024	cryo-EM	3.16		0	41413034	
+OXGR1	HGNC:4531	8YYX	Cryo-EM structure of OXGR1 bound to leukotriene E4 and Gq proteins	2025	2024	cryo-EM	2.84		0	41413034	
+OXGR1	HGNC:4531	9M1R	Cryo-EM structure of AKG bound OXGR1-Gq complex	2026	2025	cryo-EM	2.66		0	42236546	
+OXGR1	HGNC:4531	9M1S	Cryo-EM structure of Itaconic acid bound OXGR1-Gq complex	2026	2025	cryo-EM	2.65		0	42236546	
+OXGR1	HGNC:4531	9M1U	Cryo-EM structure of Succinic Acid bound OXGR1-Gq complex	2026	2025	cryo-EM	2.64		0	42236546	
+OXGR1	HGNC:4531	9UK2	Human OXGR1-miniGq complex (conformation 1)	2026	2025	cryo-EM	2.9		0		
+OXGR1	HGNC:4531	9UXN	Local refinement of Succinate bound OXGR1	2026	2025	cryo-EM	2.7		0	42236546	
+OXGR1	HGNC:4531	9UXO	Local refinement of maleic acid bound OXGR1	2026	2025	cryo-EM	2.97		0	42236546	
+OXGR1	HGNC:4531	9UXP	Local refinement of ITA bound OXGR1	2026	2025	cryo-EM	2.9		0	42236546	
+OXGR1	HGNC:4531	9UXQ	Local refinement of AKG bound OXGR1	2026	2025	cryo-EM	2.89		0	42236546	
+OXGR1	HGNC:4531	9VMN	Cryo-EM structure of the a-KG-OXGR1-Gq complex	2026	2025	cryo-EM	2.6		0	41791372	
+OXGR1	HGNC:4531	9VMO	Cryo-EM structure of the ITA-OXGR1-Gq complex	2026	2025	cryo-EM	2.4		0	41791372	
+OXGR1	HGNC:4531	9VMP	Cryo-EM structure of the A-1-OXGR1-Gq complex	2026	2025	cryo-EM	2.6		0	41791372	
+OXGR1	HGNC:4531	9VO2	Cryo-EM structure of the OXGR1(CA)-Gq complex	2026	2025	cryo-EM	2.7		0	41791372	
+OXGR1	HGNC:4531	9VUS	The structure of akg bound OXGR1	2026	2025	cryo-EM	2.37		0		
+OXGR1	HGNC:4531	9VV6	The structure of ITN bound OXGR1	2026	2025	cryo-EM	2.62		0		
+P2RY10	HGNC:19906	8KGG	LPS-bound P2Y10 in complex with G13	2024	2023	cryo-EM	3.06		0	39265572	
+PAK3	HGNC:8592	6FD3	Thiophosphorylated PAK3 kinase domain	2018	2017	X-ray	1.52	ADP;MG	1	30858169	
+PAK5	HGNC:15916	2F57	Crystal Structure Of The Human P21-Activated Kinase 5	2005	2005	X-ray	1.8		0	17292838	
+PAK5	HGNC:15916	8C12	Identification of an intermediate activation state of PAK5 reveals a novel mechanism of kinase inhibition.	2023	2022	X-ray	1.549		0	37776520	
+PAK6	HGNC:16061	2C30	Crystal Structure Of The Human P21-Activated Kinase 6	2006	2005	X-ray	1.6		0	17292838	
+PAK6	HGNC:16061	2ODB	The crystal structure of human cdc42 in complex with the CRIB domain of human p21-activated kinase 6 (PAK6)	2007	2006	X-ray	2.4	GCP;MG	1		
+PAK6	HGNC:16061	4KS7	PAK6 kinase domain in complex with PF-3758309	2013	2013	X-ray	1.4		0	24204982	
+PAK6	HGNC:16061	4KS8	PAK6 kinase domain in complex with sunitinib	2013	2013	X-ray	1.95		0	24204982	
+PAK6	HGNC:16061	6QDR	Crystal structure of 14-3-3sigma in complex with a PAK6 pT99 phosphopeptide	2020	2019	X-ray	1.615	CA;MG;NA	0	32220335	
+PAK6	HGNC:16061	6QDS	Crystal structure of 14-3-3sigma in complex with a PAK6 pT99 phosphopeptide stabilized by semi-synthetic fusicoccane FC-NCPC	2020	2019	X-ray	1.72	NA	0	32220335	
+PAN3	HGNC:29991	9QTU	human PAN2-PAN3 deadenylase complex in the apo state	2025	2025	cryo-EM	4.6		0	41275497	
+PANX2	HGNC:8600	7XLB	Cryo-EM structure of human pannexin 2	2023	2022	cryo-EM	3.44		0		
+PANX2	HGNC:8600	8F7C	Cryo-EM structure of human pannexin 2	2023	2022	cryo-EM	3.92		0	36973289	
+PANX2	HGNC:8600	8GYQ	Cryo-EM structure of human Pannexin-2 in pre-open state.	2024	2022	cryo-EM	3.4	NAG	0		
+PHKG1	HGNC:8930	8JFK	PhK holoenzyme in inactive state, muscle isoform	2024	2023	cryo-EM	2.9	FAR	1	38548794	
+PHKG1	HGNC:8930	8JFL	PhK holoenzyme in active state, muscle isoform	2024	2023	cryo-EM	2.9	FAR	1	38548794	
+PHKG1	HGNC:8930	8XY7	hPhK alpha-gamma subcomplex in active state	2024	2024	cryo-EM	2.9		0	38548794	
+PHKG1	HGNC:8930	8XYA	hPhK alpha-beta-gamma-delta subcomplex in inactive state	2024	2024	cryo-EM	2.7		0	38548794	
+PHKG1	HGNC:8930	8XYB	hPhK gamma-delta subcomplex in inactive state	2024	2024	cryo-EM	3.1		0	38548794	
+PHKG1	HGNC:8930	8Z5M	human phosphorylase kinase alpha/gamma/delta subcomplex - inactive state	2025	2024	cryo-EM	3.66		0	40148320	
+PHKG1	HGNC:8930	8Z5P	human phosphorylase kinase - inactive state	2025	2024	cryo-EM	3.41		0	40148320	
+PHKG1	HGNC:8930	8Z5Q	human phosphorylase kinase - inactive state	2025	2024	cryo-EM	4.24		0	40148320	
+PHKG1	HGNC:8930	8Z5R	human phosphorylase kinase alpha/gamma/delta subcomplex - phosphorylation and Ca2+ bound state	2025	2024	cryo-EM	3.52		0	40148320	
+PHKG1	HGNC:8930	8Z5T	human phosphorylase kinase - phosphorylation and Ca2+ bound state	2025	2024	cryo-EM	3.74		0	40148320	
+PHKG2	HGNC:8931	2Y7J	Structure of human phosphorylase kinase, gamma 2	2011	2011	X-ray	2.5		0		
+PI4KA	HGNC:8983	6BQ1	Human PI4KIIIa lipid kinase complex	2017	2017	cryo-EM	3.6		0	29229838	
+PI4KA	HGNC:8983	9B9G	Structure of the PI4KA complex bound to Calcineurin	2024	2024	cryo-EM	3.5	CA	0	39216471	
+PI4KA	HGNC:8983	9BAX	PI4KA complex bound to C-terminus of EFR3A	2024	2024	cryo-EM	3.65		0	39705356	
+PI4KA	HGNC:8983	9OT6	Cryo-EM structure of the PI4KA complex bound to an EFR3 interfering nanobody (F3IN)	2025	2025	cryo-EM	3.54		0	41197736	
+PIK3C2G	HGNC:8973	2WWE	Crystal structure of the phox homology domain of human phosphoinositide-3-kinase-C2-gamma	2009	2009	X-ray	1.25		0		
+PIP4K2C	HGNC:23786	2GK9	Human Phosphatidylinositol-4-phosphate 5-kinase, type II, gamma	2006	2006	X-ray	2.8		0		
+PIP4K2C	HGNC:23786	7QIE	Crystal Structure of Phosphatidylinositol 5-Phosphate 4-Kinase (PI5P4K2C) bound to an allosteric inhibitor	2022	2021	X-ray	2.39		0	35148092	
+PIP4K2C	HGNC:23786	7QPN	Crystal Structure of Phosphatidylinositol 5-Phosphate 4-Kinase (PI5P4K2C) bound to an allosteric inhibitor and AMP-PNP	2022	2022	X-ray	1.95		0	35148092	
+PIP4K2C	HGNC:23786	8BQ4	Crystal Structure of Phosphatidylinositol 5-Phosphate 4-Kinase (PI5P4K2C) bound to an inhibitor	2022	2022	X-ray	2.42		0	36516442	
+PIP4K2C	HGNC:23786	9U4S	Crystal Structure of PI5P4K-gamma in complex with n40	2025	2025	X-ray	2.25		0	40992727	
+PIP5K1C	HGNC:8996	2G35	NMR structure of talin-PTB in complex with PIPKI	2006	2006	NMR			0	16616931	
+PIP5K1C	HGNC:8996	3H1Z	Molecular basis for the association of PIPKIgamma -p90 with the clathrin adaptor AP-2	2009	2009	X-ray	1.83		0	19903820	
+PIP5K1C	HGNC:8996	3H85	Molecular basis for the association of PIPKI gamma-p90 with the clathrin adaptor AP-2	2009	2009	X-ray	2.6		0	19903820	
+PKMYT1	HGNC:29650	13LV	Structure of PKMYT1 bound to allosteric inhibitor P29-(S)	2026	2026	X-ray	2.22		0	42227652	
+PKMYT1	HGNC:29650	13LW	Structure of PKMYT1 bound to inhibitor P32-(S)	2026	2026	X-ray	1.95		0	42227652	
+PKMYT1	HGNC:29650	13LX	Structure of PKMYT1 bound to inhibitor P32-(R)	2026	2026	X-ray	2.2		0	42227652	
+PKMYT1	HGNC:29650	23ES	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 11	2026	2026	X-ray	1.74		0	42003565	
+PKMYT1	HGNC:29650	23FW	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 16	2026	2026	X-ray	1.59		0	42003565	
+PKMYT1	HGNC:29650	3P1A	Structure of human Membrane-associated Tyrosine- and Threonine-specific cdc2-inhibitory kinase MYT1 (PKMYT1)	2010	2010	X-ray	1.7		0		
+PKMYT1	HGNC:29650	5VCV	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH Dasatinib	2017	2017	X-ray	1.92		0	28792760	
+PKMYT1	HGNC:29650	5VCW	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH Pelitinib	2017	2017	X-ray	2.25		0	28792760	
+PKMYT1	HGNC:29650	5VCX	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN (UNTREATED) IN COMPLEX WITH SARACATINIB	2017	2017	X-ray	2.7		0	28792760	
+PKMYT1	HGNC:29650	5VCY	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH BOSUTINIB	2017	2017	X-ray	1.56		0	28792760	
+PKMYT1	HGNC:29650	5VCZ	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH Bosutinib isomer	2017	2017	X-ray	1.5		0	28792760	
+PKMYT1	HGNC:29650	5VD0	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH MK1775	2017	2017	X-ray	2.13		0	28792760	
+PKMYT1	HGNC:29650	5VD1	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN IN COMPLEX WITH PHA-848125	2017	2017	X-ray	1.7		0	28792760	
+PKMYT1	HGNC:29650	5VD3	CRYSTAL STRUCTURE OF HUMAN MYT1 KINASE DOMAIN (de-phosphorylated) IN COMPLEX WITH SARACATINIB	2017	2017	X-ray	1.8		0	28792760	
+PKMYT1	HGNC:29650	8D6C	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 28	2022	2022	X-ray	2.2		0	35880755	
+PKMYT1	HGNC:29650	8D6D	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 39	2022	2022	X-ray	2.35		0	35880755	
+PKMYT1	HGNC:29650	8D6E	Crystal Structure of Human Myt1 Kinase domain Bounded with RP-6306	2022	2022	X-ray	2.15		0	35880755	
+PKMYT1	HGNC:29650	8D6F	Crystal Structure of Human Myt1 Kinase domain Bounded with Eph receptor inhibitor / compound 41	2022	2022	X-ray	2.49		0	35880755	
+PKMYT1	HGNC:29650	8WJY	PKMYT1_Cocrystal_Cpd 4	2023	2023	X-ray	1.88		0	38146659	
+PKMYT1	HGNC:29650	8ZTX	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 6b	2024	2024	X-ray	1.70033228795		0	39163619	
+PKMYT1	HGNC:29650	8ZU2	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 8g	2024	2024	X-ray	1.79888582046		0	39163619	
+PKMYT1	HGNC:29650	8ZUD	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 8f	2024	2024	X-ray	1.5051008788		0	39163619	
+PKMYT1	HGNC:29650	8ZUL	Crystal Structure of Human Myt1 Kinase domain Bounded with compound 8m	2024	2024	X-ray	1.80026162696		0	39163619	
+PKMYT1	HGNC:29650	9LGL	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 6	2025	2025	X-ray	2.17		0	40198752	
+PKMYT1	HGNC:29650	9LGN	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 40	2025	2025	X-ray	2.03		0	40198752	
+PKMYT1	HGNC:29650	9LGV	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 11	2025	2025	X-ray	2.041		0	40198752	
+PKMYT1	HGNC:29650	9LID	Crystal structure of human PKMYT1 protein kinase domain with Naphthyridinone Inhibitor compound 27	2025	2025	X-ray	2.06		0	40198752	
+PKMYT1	HGNC:29650	9M6P	Discovery of a bifunctional PKMYT1-targeting PROTAC empowered by AI-generation	2025	2025	X-ray	2.383		0	41315240	
+PRAG1	HGNC:25438	5VE6	Crystal structure of Sugen kinase 223	2017	2017	X-ray	2.953		0	29079850	
+PRAG1	HGNC:25438	8DGN	14-3-3 epsilon bound to phosphorylated PEAK2 (pS826) peptide	2023	2022	X-ray	3.16		0	37336884	
+PRKCQ	HGNC:9410	1XJD	Crystal Structure of PKC-theta complexed with Staurosporine at 2A resolution	2004	2004	X-ray	2.0		0	15364937	
+PRKCQ	HGNC:9410	2ENJ	Solution structure of the C2 domain from human protein kinase C theta	2008	2007	NMR			0		
+PRKCQ	HGNC:9410	2ENN	Solution structure of the first C1 domain from human protein kinase C theta	2008	2007	NMR			0		
+PRKCQ	HGNC:9410	2ENZ	Solution structure of the second C1 domain from human protein kinase C theta	2008	2007	NMR		ZN	0		
+PRKCQ	HGNC:9410	2JED	The crystal structure of the kinase domain of the protein kinase C theta in complex with NVP-XAA228 at 2.32A resolution.	2008	2007	X-ray	2.32		0		
+PRKCQ	HGNC:9410	4Q9Z	Human Protein Kinase C Theta in Complex with Compound35 ((1R)-9-(AZETIDIN-3-YLAMINO)-1,8-DIMETHYL-3,5-DIHYDRO[1,2,4]TRIAZINO[3,4-C][1,4]BENZOXAZIN-2(1	2014	2014	X-ray	2.6	NA	0	25000588	
+PRKCQ	HGNC:9410	4RA5	Human Protein Kinase C THETA IN COMPLEX WITH LIGAND COMPOUND 11a (6-[(1,3-Dimethyl-azetidin-3-yl)-methyl-amino]-4(R)-methyl-7-phenyl-2,10-dihydro-9-ox	2014	2014	X-ray	2.61	NA	0	25254961	
+PRKCQ	HGNC:9410	5F9E	Structure of Protein Kinase C theta with compound 10: 2,2-dimethyl-7-(2-oxidanylidene-3~{H}-imidazo[4,5-b]pyridin-1-yl)-1-(phenylmethyl)-3~{H}-quinazo	2016	2015	X-ray	2.0		0	27117263	
+BCKDK	HGNC:16902	7ZPE	human branched Chain Keto Acid Dehydrogenase Kinase in complex with ligand	2025	2022	X-ray	2.64		0		
+BCKDK	HGNC:16902	8F5F	human branched chain ketoacid dehydrogenase kinase in complex with inhibitors	2023	2022	X-ray	3.149	ADP;MG	1	37558654	
+BCKDK	HGNC:16902	8F5J	human branched chain ketoacid dehydrogenase kinase in complex with inhibitors	2023	2022	X-ray	2.545	ADP;K;MG	1	37558654	
+BCKDK	HGNC:16902	8F5S	human branched chain ketoacid dehydrogenase kinase in complex with inhibitors	2023	2022	X-ray	2.793	ADP;K;MG	1	37558654	
+BCKDK	HGNC:16902	9DI9	Rat branched chain ketoacid dehydrogenase kinase in complex with inhibitor	2024	2024	X-ray	2.155	ADP;K;MG;PO4	1	39560668	
+PRP4K	HGNC:17346	4IAN	Crystal Structure of apo Human PRPF4B kinase domain	2013	2012	X-ray	2.44		0	24003220	
+PRP4K	HGNC:17346	4IFC	Crystal Structure of ADP-bound Human PRPF4B kinase domain	2013	2012	X-ray	2.13		0	24003220	
+PRP4K	HGNC:17346	4IIR	Crystal Structure of AMPPNP-bound Human PRPF4B kinase domain	2013	2012	X-ray	2.0	ANP;MG	1	24003220	
+PRP4K	HGNC:17346	4IJP	Crystal Structure of Human PRPF4B kinase domain in complex with 4-{5-[(2-Chloro-pyridin-4-ylmethyl)-carbamoyl]-thiophen-2-yl}-benzo[b]thiophene-2-carb	2013	2012	X-ray	2.25		0	24003220	
+PRP4K	HGNC:17346	6CNH	Human PRPF4B in complex with Rebastinib	2018	2018	X-ray	2.0		0		
+PRP4K	HGNC:17346	6PJJ	Human PRPF4B bound to benzothiophene inhibitor 224	2019	2019	X-ray	2.4		0		
+PRP4K	HGNC:17346	6PK6	Human PRPF4B bound to benzothiophene inhibitor 329	2019	2019	X-ray	2.1		0		
+PRP4K	HGNC:17346	6QX9	Structure of a human fully-assembled precatalytic spliceosome (pre-B complex).	2019	2019	cryo-EM	3.28	GTP;MG;ZN	1	30975767	
+PRP4K	HGNC:17346	8H6E	Cryo-EM structure of human exon-defined spliceosome in the late pre-B state.	2024	2022	cryo-EM	3.2	GTP;MG;ZN	1	38658629	
+PRP4K	HGNC:17346	8H6J	Cryo-EM structure of human exon-defined spliceosome in the mature pre-B state.	2024	2022	cryo-EM	3.25	GTP;MG;ZN	1	38658629	
+PRP4K	HGNC:17346	8QXD	Cryo-EM structure of the cross-exon pre-B complex	2024	2023	cryo-EM	9.6		0	38778104	
+PRP4K	HGNC:17346	8R08	Cryo-EM structure of the cross-exon pre-B+AMPPNP complex	2024	2023	cryo-EM	6.1		0	38778104	
+PRP4K	HGNC:17346	8R0A	Cryo-EM structure of the cross-exon pre-B+5'ss complex	2024	2023	cryo-EM	5.8		0	38778104	
+PRP4K	HGNC:17346	8Y6O	Cryo-EM Structure of the human minor pre-B complex (pre-precatalytic spliceosome) U11 and tri-snRNP part	2024	2024	cryo-EM	3.38	GTP;MG;ZN	1	38484052	
+QRFPR	HGNC:15565	8WZ2	Structure of 26RFa-pyroglutamylated RFamide peptide receptor complex	2024	2023	cryo-EM	2.73		0	38830850	
+QRFPR	HGNC:15565	8ZH8	Human GPR103 -Gq complex bound to QRFP26	2024	2024	cryo-EM	3.19		0	38897996	
+RIOK1	HGNC:18656	4OTP	Crystal structure of the catalytic domain of the human RioK1 atypical protein kinase in complex with ADP/Mg2+	2014	2014	X-ray	2.7	ADP;MG	1	24948609	
+RIOK1	HGNC:18656	6G5I	Cryo-EM structure of a late human pre-40S ribosomal subunit - State R	2018	2018	cryo-EM	3.5	ZN	0	29875412	
+RIOK1	HGNC:18656	6V0N	PRMT5 bound to PBM peptide from Riok1	2020	2019	X-ray	2.11		0	34358446	
+RIOK1	HGNC:18656	6ZV6	Human RIO1(kd)-StHA late pre-40S particle, structural state B (post 18S rRNA cleavage)	2021	2020	cryo-EM	2.9	ADP;MG;ZN	1	33908345	
+RIOK1	HGNC:18656	6ZXD	Cryo-EM structure of a late human pre-40S ribosomal subunit - State F1	2020	2020	cryo-EM	3.2	ZN	0	33208940	
+RIOK1	HGNC:18656	6ZXE	Cryo-EM structure of a late human pre-40S ribosomal subunit - State F2	2020	2020	cryo-EM	3.0	ZN	0	33208940	
+RIOK1	HGNC:18656	6ZXF	Cryo-EM structure of a late human pre-40S ribosomal subunit - State G	2020	2020	cryo-EM	3.7	ATP;MG;ZN	1	33208940	
+RIOK1	HGNC:18656	6ZXG	Cryo-EM structure of a late human pre-40S ribosomal subunit - State H1	2020	2020	cryo-EM	2.6	ATP;MG;ZN	1	33208940	
+RIOK1	HGNC:18656	6ZXH	Cryo-EM structure of a late human pre-40S ribosomal subunit - State H2	2020	2020	cryo-EM	2.7	ATP;MG;ZN	1	33208940	
+RIOK1	HGNC:18656	7BOC	Crystal structure of the PRMT5 TIM barrel domain in complex with RioK1 peptide	2021	2021	X-ray	2.55		0	33624332	
+RIOK2	HGNC:18999	5DHF	Crystal Structure of hRio2 NES Peptide in complex with CRM1-Ran-RanBP1	2015	2015	X-ray	2.285	GNP;MG;ZN	1	26349033	
+RIOK2	HGNC:18999	6FDM	Human Rio2 kinase structure	2019	2017	X-ray	2.1	NA	0	31390939	
+RIOK2	HGNC:18999	6FDN	Rio2 structure	2019	2017	X-ray	2.9		0	31390939	
+RIOK2	HGNC:18999	6FDO	Rio2 structure	2019	2017	X-ray	2.6		0	31390939	
+RIOK2	HGNC:18999	6G18	Cryo-EM structure of a late human pre-40S ribosomal subunit - State C	2018	2018	cryo-EM	3.6	ZN	0	29875412	
+RIOK2	HGNC:18999	6G51	Cryo-EM structure of a late human pre-40S ribosomal subunit - State D	2018	2018	cryo-EM	4.1		0	29875412	
+RIOK2	HGNC:18999	6HK6	Human RIOK2 bound to inhibitor	2018	2018	X-ray	2.35		0	30991936	
+RIOK2	HGNC:18999	7VBT	Crystal structure of RIOK2 in complex with CQ211	2022	2021	X-ray	2.54001480108		0	35584513	
+RIOK2	HGNC:18999	7WU0	Cryo-EM structure of a human pre-40S ribosomal subunit - State RRP12-B3	2022	2022	cryo-EM	3.3	ZN	0	36321656	
+RIOK2	HGNC:18999	9F81	Crystal structure of RIOK2 with a covalent compound GCL 47	2025	2024	X-ray	3.02	A1IBA	1	39716901	
+RIOK3	HGNC:11451	8ZDB	Cryo-EM structure of the human ubiquitylated 40S ribosome with RIOK3	2025	2024	cryo-EM	3.6	ZN	0	39947183	
+RIOK3	HGNC:11451	8ZDC	Cryo-EM structure of the human ubiquitylated pre-40S ribosome with RIOK3	2025	2024	cryo-EM	3.8	ZN	0	39947183	
+RIOK3	HGNC:11451	8ZDD	Cryo-EM structure of the human ubiquitylated pre-40S ribosome with RIOK3 (without NOB1)	2025	2024	cryo-EM	3.7	ZN	0	39947183	
+RXFP3	HGNC:24883	9KFI	Cryo-EM structure of the human relaxin family peptide receptor 3 in complex with relaxin-3 and G protein	2025	2024	cryo-EM	2.91		0	40410443	
+RXFP3	HGNC:24883	9KFJ	Cryo-EM structure of the compound 4-bound human relaxin family peptide receptor 3 (RXFP3)-Gi complex	2025	2024	cryo-EM	3.1		0	40410443	
+RXFP4	HGNC:14666	7YJ4	Cryo-EM structure of the INSL5-bound human relaxin family peptidereceptor 4 (RXFP4)-Gi complex	2023	2022	cryo-EM	3.19		0	36717591	
+RXFP4	HGNC:14666	7YK6	Cryo-EM structure of the compound 4-bound human relaxin family peptide receptor 4 (RXFP4)-Gi complex	2023	2022	cryo-EM	3.03		0	36717591	
+RXFP4	HGNC:14666	7YK7	Cryo-EM structure of the DC591053-bound human relaxin family peptide receptor 4 (RXFP4)-Gi complex	2023	2022	cryo-EM	2.75		0	36717591	
+RXFP4	HGNC:14666	9KFK	Cryo-EM structure of the relaxin-3-bound human relaxin family peptide receptor 4 (RXFP4)-Gi complex	2025	2024	cryo-EM	2.95		0	40410443	
+SCN2B	HGNC:10589	21TP	Open-state structure of veratridine-activated human Nav1.7	2026	2025	cryo-EM	3.0	NAG	0		
+SCN2B	HGNC:10589	21TQ	The structure of Nav1.7 with veratridine standing near the IFM motif (site I)	2026	2025	cryo-EM	2.7	NAG	0		
+SCN2B	HGNC:10589	5FDY	Crystal structure of the Voltage-gated Sodium Channel Beta 2 subunit extracellular domain, C72A/C75A mutant	2016	2015	X-ray	1.85		0	26894959	
+SCN2B	HGNC:10589	5FEB	Crystal structure of the Voltage-gated Sodium Channel Beta 2 subunit extracellular domain	2016	2015	X-ray	1.35		0	26894959	
+SCN2B	HGNC:10589	6J8E	Human Nav1.2-beta2-KIIIA ternary complex	2019	2019	cryo-EM	3.0	NA;NAG	0	30765605	
+SCN2B	HGNC:10589	6J8G	Structure of human voltage-gated sodium channel Nav1.7 in complex with auxiliary beta subunits, huwentoxin-IV and saxitoxin (Y1755 up)	2019	2019	cryo-EM	3.2	NAG	0	30765606	
+SCN2B	HGNC:10589	6J8H	Structure of human voltage-gated sodium channel Nav1.7 in complex with auxiliary beta subunits, huwentoxin-IV and saxitoxin (Y1755 down)	2019	2019	cryo-EM	3.2	NAG	0	30765606	
+SCN2B	HGNC:10589	6J8I	Structure of human voltage-gated sodium channel Nav1.7 in complex with auxiliary beta subunits, ProTx-II and tetrodotoxin (Y1755 up)	2019	2019	cryo-EM	3.2	NAG	0	30765606	
+SCN2B	HGNC:10589	6J8J	Structure of human voltage-gated sodium channel Nav1.7 in complex with auxiliary beta subunits, ProTx-II and tetrodotoxin (Y1755 down)	2019	2019	cryo-EM	3.2	NAG	0	30765606	
+SCN2B	HGNC:10589	6VRR	Crystal structure of a disease mutant of the Voltage-gated Sodium Channel Beta 2 subunit extracellular domain	2020	2020	X-ray	1.45		0	34476357	
+SCN2B	HGNC:10589	7W77	cryo-EM structure of human NaV1.3/beta1/beta2-bulleyaconitineA	2022	2021	cryo-EM	3.3	NAG	0	35277491	
+SCN2B	HGNC:10589	7W7F	Cryo-EM structure of human NaV1.3/beta1/beta2-ICA121431	2022	2021	cryo-EM	3.35	NAG	0	35277491	
+SCN2B	HGNC:10589	7W9K	Cryo-EM structure of human Nav1.7-beta1-beta2 complex at 2.2 angstrom resolution	2022	2021	cryo-EM	2.2	NA;NAG	0	35476982	
+SCN2B	HGNC:10589	7W9L	Cryo-EM structure of human Nav1.7(E406K)-beta1-beta2 complex	2022	2021	cryo-EM	3.5	NAG	0	35476982	
+SCN2B	HGNC:10589	7W9M	Cryo-EM structure of human Nav1.7(E406K) in complex with auxiliary beta subunits, ProTx-II and tetrodotoxin (S6IV pi helix conformer)	2022	2021	cryo-EM	3.0	NAG	0	35476982	
+SCN2B	HGNC:10589	7W9P	Cryo-EM structure of human Nav1.7(E406K) in complex with auxiliary beta subunits, huwentoxin-IV and saxitoxin (S6IV pi helix conformer)	2022	2021	cryo-EM	2.9	NAG	0	35476982	
+SCN2B	HGNC:10589	7W9T	Cryo-EM structure of human Nav1.7(E406K) in complex with auxiliary beta subunits, huwentoxin-IV and saxitoxin (S6IV alpha helix conformer)	2022	2021	cryo-EM	3.0	NAG	0	35476982	
+SCN2B	HGNC:10589	7XM9	Cryo-EM structure of human NaV1.7/beta1/beta2-XEN907	2022	2022	cryo-EM	3.22	NAG	0	36424527	
+SCN2B	HGNC:10589	7XMF	Cryo-EM structure of human NaV1.7/beta1/beta2-Nav1.7-IN2	2022	2022	cryo-EM	3.07	NAG	0	36424527	
+SCN2B	HGNC:10589	7XMG	Cryo-EM structure of human NaV1.7/beta1/beta2-TCN-1752	2022	2022	cryo-EM	3.09	NAG	0	36424527	
+SCN2B	HGNC:10589	7XVE	Human Nav1.7 mutant class-I	2022	2022	cryo-EM	2.7	NAG	0	35878056	
+SCN2B	HGNC:10589	7XVF	Nav1.7 mutant class2	2022	2022	cryo-EM	2.8	NAG	0	35878056	
+SCN2B	HGNC:10589	8G1A	Cryo-EM structure of Nav1.7 with CBD	2023	2023	cryo-EM	2.8	NAG	0	37330538	
+SCN2B	HGNC:10589	8GZ1	Cryo-EM structure of human NaV1.6/beta1/beta2,apo state	2023	2022	cryo-EM	3.4	NA;NAG	0	36823201	
+SCN2B	HGNC:10589	8GZ2	Cryo-EM structure of human NaV1.6/beta1/beta2-4,9-anhydro-tetrodotoxin	2023	2022	cryo-EM	3.3	NAG	0	36823201	
+SCN2B	HGNC:10589	8I5B	Structure of human Nav1.7 in complex with bupivacaine	2023	2023	cryo-EM	2.7	NAG	0	37270609	
+SCN2B	HGNC:10589	8I5G	Structure of human Nav1.7 in complex with PF-05089771	2023	2023	cryo-EM	2.7	NA;NAG	0	37270609	
+SCN2B	HGNC:10589	8I5X	Structure of human Nav1.7 in complex with Vinpocetine	2023	2023	cryo-EM	2.9	NAG	0	37270609	
+SCN2B	HGNC:10589	8I5Y	Structure of human Nav1.7 in complex with vixotrigine	2023	2023	cryo-EM	2.6	NA;NAG	0	37270609	
+SCN2B	HGNC:10589	8S9B	Cryo-EM structure of Nav1.7 with LCM	2023	2023	cryo-EM	2.9	NAG	0	37270609	
+SCN2B	HGNC:10589	8S9C	Cryo-EM structure of Nav1.7 with CBZ	2023	2023	cryo-EM	3.2	NAG	0	37270609	
+SCN2B	HGNC:10589	8THG	Cryo-EM structure of Nav1.7 with RLZ	2023	2023	cryo-EM	2.9	NAG	0	37782796	
+SCN2B	HGNC:10589	8THH	Cryo-EM structure of Nav1.7 with LTG	2023	2023	cryo-EM	2.7	NAG	0	37782796	
+SCN2B	HGNC:10589	8XMN	Voltage-gated sodium channel Nav1.7 variant M2	2024	2023	cryo-EM	3.37	NAG	0	38381792	
+SCN2B	HGNC:10589	8XMO	Voltage-gated sodium channel Nav1.7 variant M4	2024	2023	cryo-EM	3.39	NAG	0	38381792	
+SCN3B	HGNC:20665	4L1D	Voltage-gated sodium channel beta3 subunit Ig domain	2014	2013	X-ray	2.5		0	24567321	
+SCN3B	HGNC:20665	7TJ8	Cryo-EM structure of the human Nax channel in complex with beta3 solved in nanodiscs	2022	2022	cryo-EM	3.2	NAG	0	35301303	
+SCN3B	HGNC:20665	7TJ9	Cryo-EM structure of the human Nax channel in complex with beta3 solved in GDN	2022	2022	cryo-EM	2.9	NAG	0	35301303	
+SCN7A	HGNC:10594	7TJ8	Cryo-EM structure of the human Nax channel in complex with beta3 solved in nanodiscs	2022	2022	cryo-EM	3.2	NAG	0	35301303	
+SCN7A	HGNC:10594	7TJ9	Cryo-EM structure of the human Nax channel in complex with beta3 solved in GDN	2022	2022	cryo-EM	2.9	NAG	0	35301303	
+SCNN1B	HGNC:10600	6BQN	Cryo-EM structure of ENaC	2018	2017	cryo-EM	3.9		0	30251954	
+SCNN1B	HGNC:10600	6WTH	Full-length human ENaC ECD	2020	2020	cryo-EM	3.06	NA;NAG	0	32729833	
+SCNN1B	HGNC:10600	9BLR	Human SCNN1D-SCNN1B-SCNN1G ENaC trimer	2024	2024	cryo-EM	3.38	NAG	0	39667931	
+SCNN1B	HGNC:10600	9BTG	Human SCNN1B-SCNN1B-SCNN1G ENaC trimer	2024	2024	cryo-EM	3.12	NAG	0	39667931	
+SCNN1B	HGNC:10600	9BTU	Human SCNN1B-SCNN1G ENaC dimers	2024	2024	cryo-EM	3.68	NAG	0	39667931	
+SCNN1D	HGNC:10601	9BLR	Human SCNN1D-SCNN1B-SCNN1G ENaC trimer	2024	2024	cryo-EM	3.38	NAG	0	39667931	
+CACNA1D	HGNC:1391	3LV3	Crystal structure of HLA-B*2705 complexed with a peptide derived from the human voltage-dependent calcium channel alpha1 subunit (residues 513-521)	2010	2010	X-ray	1.94		0	21280120	
+CACNA1D	HGNC:1391	7UHF	Human L-type voltage-gated calcium channel Cav1.3 in the presence of cinnarizine at 3.1 Angstrom resolution	2022	2022	cryo-EM	3.1	CA;NAG	0	35477996	
+CACNA1D	HGNC:1391	7UHG	Human L-type voltage-gated calcium channel Cav1.3 at 3.0 Angstrom resolution	2022	2022	cryo-EM	3.0	CA;NAG	0	35477996	
+CACNA1D	HGNC:1391	8E59	Human L-type voltage-gated calcium channel Cav1.3 in the presence of Amiodarone at 3.1 Angstrom resolution	2022	2022	cryo-EM	3.1	CA;NAG	0	36417914	
+CACNA1D	HGNC:1391	8E5A	Human L-type voltage-gated calcium channel Cav1.3 treated with 1.4 mM Sofosbuvir at 3.3 Angstrom resolution	2022	2022	cryo-EM	3.3	CA;NAG	0	36417914	
+CACNA1D	HGNC:1391	8E5B	Human L-type voltage-gated calcium channel Cav1.3 in the presence of Amiodarone and Sofosbuvir at 3.3 Angstrom resolution	2022	2022	cryo-EM	3.3	CA;NAG	0	36417914	
+CACNB1	HGNC:1401	7VFS	Human N-type voltage gated calcium channel CaV2.2-alpha2/delta1-beta1 complex, apo state	2021	2021	cryo-EM	2.8	CA;NAG	0	34731621	
+CACNB1	HGNC:1401	7VFU	Human N-type voltage gated calcium channel CaV2.2-alpha2/delta1-beta1 complex, bound to ziconotide	2021	2021	cryo-EM	3.0	CA;NAG	0	34731621	
+CACNB1	HGNC:1401	7VFV	Human N-type voltage gated calcium channel CaV2.2-alpha2/delta1-beta1 complex, bound to PD173212	2021	2021	cryo-EM	3.0	CA;NAG	0	34731621	
+CACNB1	HGNC:1401	7VFW	Human N-type voltage gated calcium channel CaV2.2-alpha2/delta1-beta1 complex, bound to CaV2.2-blocker1	2021	2021	cryo-EM	3.3	CA;NAG	0	34731621	
+CACNB1	HGNC:1401	7XLQ	Structure of human R-type voltage-gated CaV2.3-alpha2/delta1-beta1 channel complex in the ligand-free (apo) state	2023	2022	cryo-EM	3.1	CA;NAG	0	36720859	
+CACNB1	HGNC:1401	7YG5	Structure of human R-type voltage-gated CaV2.3-alpha2/delta1-beta1 channel complex in the topiramate-bound state	2023	2022	cryo-EM	3.0	CA;NAG	0	38901222	
+CACNB2	HGNC:1402	8HLP	Cryo-EM structure of human high-voltage activated L-type calcium channel CaV1.2 (apo)	2024	2022	cryo-EM	3.5	CA;NAG	0	38555290	
+CACNB2	HGNC:1402	8HMA	Cryo-EM structure of human high-voltage activated L-type calcium channel CaV1.2 in complex with tetrandrine (TET)	2024	2022	cryo-EM	3.4	CA;NAG	0	38555290	
+CACNB2	HGNC:1402	8HMB	Cryo-EM structure of human high-voltage activated L-type calcium channel CaV1.2 in complex with benidipine (BEN)	2024	2022	cryo-EM	3.3	CA;NAG	0	38555290	
+CACNB3	HGNC:1403	7MIX	Human N-type voltage-gated calcium channel Cav2.2 in the presence of ziconotide at 3.0 Angstrom resolution	2021	2021	cryo-EM	3.0	CA;NAG	0	34234349	
+CACNB3	HGNC:1403	7MIY	Human N-type voltage-gated calcium channel Cav2.2 at 3.1 Angstrom resolution	2021	2021	cryo-EM	3.1	CA;NAG	0	34234349	
+CACNB3	HGNC:1403	7UHF	Human L-type voltage-gated calcium channel Cav1.3 in the presence of cinnarizine at 3.1 Angstrom resolution	2022	2022	cryo-EM	3.1	CA;NAG	0	35477996	
+CACNB3	HGNC:1403	7UHG	Human L-type voltage-gated calcium channel Cav1.3 at 3.0 Angstrom resolution	2022	2022	cryo-EM	3.0	CA;NAG	0	35477996	
+CACNB3	HGNC:1403	8E59	Human L-type voltage-gated calcium channel Cav1.3 in the presence of Amiodarone at 3.1 Angstrom resolution	2022	2022	cryo-EM	3.1	CA;NAG	0	36417914	
+CACNB3	HGNC:1403	8E5A	Human L-type voltage-gated calcium channel Cav1.3 treated with 1.4 mM Sofosbuvir at 3.3 Angstrom resolution	2022	2022	cryo-EM	3.3	CA;NAG	0	36417914	
+CACNB3	HGNC:1403	8E5B	Human L-type voltage-gated calcium channel Cav1.3 in the presence of Amiodarone and Sofosbuvir at 3.3 Angstrom resolution	2022	2022	cryo-EM	3.3	CA;NAG	0	36417914	
+CACNB3	HGNC:1403	8EPL	Human R-type voltage-gated calcium channel Cav2.3 at 3.1 Angstrom resolution	2022	2022	cryo-EM	3.1	CA;NAG	0	36446785	
+CACNB3	HGNC:1403	8FHS	Human L-type voltage-gated calcium channel Cav1.2 in the presence of amiodarone and sofosbuvir at 3.3 Angstrom resolution	2023	2022	cryo-EM	3.3	CA;NAG	0	37972591	
+CACNB3	HGNC:1403	8WE6	Human L-type voltage-gated calcium channel Cav1.2 at 2.9 Angstrom resolution	2023	2023	cryo-EM	2.9	CA;NAG	0	37972591	
+CACNB3	HGNC:1403	8WE7	Human L-type voltage-gated calcium channel Cav1.2 in the presence of calciseptine at 3.2 Angstrom resolution	2023	2023	cryo-EM	3.2	CA;NAG	0	37972591	
+CACNB3	HGNC:1403	8WE8	Human L-type voltage-gated calcium channel Cav1.2 in the presence of calciseptine, amlodipine and pinaverium at 2.9 Angstrom resolution	2023	2023	cryo-EM	2.9	CA;NAG	0	37972591	
+CACNB3	HGNC:1403	8WE9	Human L-type voltage-gated calcium channel Cav1.2 (Class I) in the presence of pinaverium at 3.0 Angstrom resolution	2023	2023	cryo-EM	3.0	CA;NAG	0	37972591	
+CACNB3	HGNC:1403	8X90	P/Q type calcium channel	2024	2023	cryo-EM	2.95	CA;NAG;PS1	1	38443561	
+CACNB3	HGNC:1403	8X91	P/Q type calcium channel in complex with omega-conotoxin MVIIC	2024	2023	cryo-EM	3.11	CA;NAG	0	38443561	
+CACNB3	HGNC:1403	8X93	P/Q type calcium channel in complex with omega-Agatoxin IVA	2024	2023	cryo-EM	2.92	CA;NAG	0	38443561	
+CACNB4	HGNC:1404	2D46	Solution Structure of the Human Beta4a-A Domain	2005	2005	NMR			0	16385006	
+CALHM4	HGNC:21094	6YTK	Cryo-EM structure of a dimer of decameric human CALHM4 in the absence of Ca2+	2020	2020	cryo-EM	4.07		0	32374262	
+CALHM4	HGNC:21094	6YTL	Cryo-EM structure of a dimer of undecameric human CALHM4 in the absence of Ca2+	2020	2020	cryo-EM	3.82		0	32374262	
+CALHM4	HGNC:21094	6YTO	Cryo-EM structure of a dimer of decameric human CALHM4 in the presence of Ca2+	2020	2020	cryo-EM	4.24		0	32374262	
+CALHM4	HGNC:21094	6YTQ	Cryo-EM structure of a dimer of undecameric human CALHM4 in the presence of Ca2+	2020	2020	cryo-EM	4.02		0	32374262	
+CALHM4	HGNC:21094	8RML	Structure of heteromeric CALHM2/4 channel in complex with synthetic nanobody SbC4	2024	2024	cryo-EM	3.84		0	38896440	
+CALHM4	HGNC:21094	8RMM	Structure of heteromeric CALHM2/4 channel in complex with synthetic nanobodies SbC2 and SbC4	2024	2024	cryo-EM	3.26		0	38896440	
+CALHM4	HGNC:21094	8RMN	Cryo-EM structure of a dimer of decameric human CALHM4 in complex with synthetic nanobody SbC4	2024	2024	cryo-EM	3.8		0	38896440	
+CALHM5	HGNC:21568	7D60	Cryo-EM Structure of human CALHM5 in the presence of rubidium red	2020	2020	cryo-EM	2.61		0	33298887	
+CALHM5	HGNC:21568	7D61	Cryo-EM Structure of human CALHM5 in the presence of EDTA	2020	2020	cryo-EM	2.8		0	33298887	
+CALHM5	HGNC:21568	7D65	Cryo-EM Structure of human CALHM5 in the presence of Ca2+	2020	2020	cryo-EM	2.94		0	33298887	
+CALHM6	HGNC:33391	6YTV	Cryo-EM structure of decameric human CALHM6 in the presence of Ca2+	2020	2020	cryo-EM	4.39		0	32374262	
+CALHM6	HGNC:33391	6YTX	Cryo-EM structure of undecameric human CALHM6 in the presence of Ca2+	2020	2020	cryo-EM	6.23		0	32374262	
+CAMK1D	HGNC:19341	2JC6	Crystal structure of human calmodulin-dependent protein kinase 1D	2007	2006	X-ray	2.3		0		
+CAMK1D	HGNC:19341	6QP5	Apo Human Calcium/Calmodulin-dependent kinase type 1D	2020	2019	X-ray	1.9		0		
+CAMK1D	HGNC:19341	6T28	Crystal structure of human calmodulin-dependent protein kinase 1D (CAMK1D) bound to compound 19 (CS640)	2019	2019	X-ray	1.55		0	32433887	
+CAMK1D	HGNC:19341	6T29	Crystal structure of human calmodulin-dependent protein kinase 1D (CAMK1D) bound to compound 18 (CS587)	2019	2019	X-ray	1.484		0	32433887	
+CAMK1D	HGNC:19341	6T6F	Crystal structure of human calmodulin-dependent protein kinase 1D (CAMK1D) bound to compound 8 (CS275)	2020	2019	X-ray	1.97		0		
+CAMK1D	HGNC:19341	8BFM	Crystal structure of human calmodulin-dependent protein kinase 1D (CAMK1D) in complex with FZ331	2022	2022	X-ray	1.7		0		
+CAMK1D	HGNC:19341	8BFS	Crystal structure of human calmodulin-dependent protein kinase 1D (CAMK1D) in complex with FZ326	2022	2022	X-ray	1.95		0		
+CAMK1G	HGNC:14585	2JAM	Crystal structure of human calmodulin-dependent protein kinase I G	2007	2006	X-ray	1.7	CA	0		
+CAMKK1	HGNC:1469	6CCF	Crystal Structure of the Human CAMKK1A in complex with Hesperadin	2018	2018	X-ray	2.1		0		
+CAMKK1	HGNC:1469	6CD6	Crystal Structure of the Human CAMKK1A in complex with GSK650394	2018	2018	X-ray	2.2		0		
+STK3	HGNC:11406	3WWS	Crystal structure of Serine/threonine-protein kinase 3	2015	2014	X-ray	2.01		0		
+STK3	HGNC:11406	4HKD	Crystal structure of human MST2 SARAH domain	2013	2012	X-ray	1.503		0		
+STK3	HGNC:11406	4L0N	Crystal structure of STK3 (MST2) SARAH domain	2013	2013	X-ray	1.4		0		
+STK3	HGNC:11406	4LG4	Structural Basis for Autoactivation of Human Mst2 Kinase and Its Regulation by RASSF5	2013	2013	X-ray	2.42		0	23972470	
+STK3	HGNC:11406	4LGD	Structural Basis for Autoactivation of Human Mst2 Kinase and Its Regulation by RASSF5	2013	2013	X-ray	3.05	ANP;MG;NA	1	23972470	
+STK3	HGNC:11406	4OH9	Crystal Structure of the human MST2 SARAH homodimer	2014	2014	X-ray	1.699		0	25004971	
+STK3	HGNC:11406	5BRM	Structural basis for Mob1-dependent activation of the core Mst-Lats kinase cascade in Hippo signaling	2015	2015	X-ray	2.651	ZN	0	26108669	
+STK3	HGNC:11406	5DH3	Crystal structure of MST2 in complex with XMU-MP-1	2016	2015	X-ray	2.468		0	27535619	
+STK3	HGNC:11406	6AO5	Crystal structure of human MST2 in complex with SAV1 SARAH domain	2017	2017	X-ray	2.955	ANP;MG	1	29063833	
+STK3	HGNC:11406	6AR2	Structure of human SLMAP FHA domain in complex with pMST2	2018	2017	X-ray	1.55		0	29063833	
+STK3	HGNC:11406	8A66	Crystal structure of MST2 in complex with XMU-MP-1	2022	2022	X-ray	1.901	NA	0		
+STK17A	HGNC:11395	7QUE	The STK17A (DRAK1) Kinase Domain Bound to CKJB68	2022	2022	X-ray	2.4		0	35608370	
+STK17A	HGNC:11395	7QUF	The STK17A (DRAK1) Kinase Domain Bound to CK156	2022	2022	X-ray	2.6		0	35608370	
+STK17B	HGNC:11396	3LM0	Crystal Structure of human Serine/Threonine Kinase 17B (STK17B)	2010	2010	X-ray	2.35		0		
+STK17B	HGNC:11396	3LM5	Crystal Structure of human Serine/Threonine Kinase 17B (STK17B) in complex with Quercetin	2010	2010	X-ray	2.29		0	33215924	
+STK17B	HGNC:11396	6QF4	X-Ray structure of human Serine/Threonine Kinase 17B (STK17B) aka DRAK2 in complex with ADP obtained by on-chip soaking	2019	2019	X-ray	2.495	ADP;MG	1	31316815	
+STK17B	HGNC:11396	6Y6F	Crystal structure of STK17B (DRAK2) in complex with PKIS43	2020	2020	X-ray	1.98		0	33215924	
+STK17B	HGNC:11396	6Y6H	Crystal structure of STK17b (DRAK2) in complex with UNC-AP-194 probe	2020	2020	X-ray	1.95		0	33215924	
+STK17B	HGNC:11396	6ZJF	Crystal structure of STK17B (DRAK2) in complex with AP-229	2020	2020	X-ray	1.75		0	33215924	
+STK17B	HGNC:11396	7AKG	Crystal structure of STK17B with bound dovitinib	2020	2020	X-ray	2.08		0	33215924	
+STK17B	HGNC:11396	7Q7C	Room temperature structure of the human Serine/Threonine Kinase 17B (STK17B/DRAK2) in complex with ADP at atmospheric pressure	2022	2021	X-ray	2.85	ADP;MG	1		
+STK17B	HGNC:11396	7Q7D	Room temperature structure of the human Serine/Threonine Kinase 17B (STK17B/DRAK2) in complex with ATP/ADP at 111 MPa helium gas pressure in a sapphir	2022	2021	X-ray	2.6	ATP;MG	1		
+STK17B	HGNC:11396	7Q7E	Room temperature structure of the human Serine/Threonine Kinase 17B (STK17B/DRAK2) in complex with ATP/ADP at atmospheric pressure in a sapphire capil	2022	2021	X-ray	2.85	ATP;MG	1		
+STK32A	HGNC:28317	4FR4	Crystal structure of human serine/threonine-protein kinase 32A (YANK1)	2012	2012	X-ray	2.29		0		
+STK33	HGNC:14568	8VF6	Crystal structure of Serine/threonine-protein kinase 33 (STK33) Kinase Domain in complex with inhibitor CDD-2211	2024	2023	X-ray	2.7		0	38781365	
+STK38L	HGNC:17848	5XQZ	Structure of the MOB1-NDR2 complex	2018	2017	X-ray	2.1	ZN	0	28947795	
+STK40	HGNC:21373	5L2Q	Serine/threonine-protein kinase 40 (STK40) kinase homology domain	2017	2016	X-ray	2.53		0	28089446	
+SUCNR1	HGNC:4542	8JPN	Cryo-EM structure of succinate receptor bound to cis-epoxysuccinic acid coupling to Gi	2024	2023	cryo-EM	2.9		0	38744983	
+SUCNR1	HGNC:4542	8JPP	Cryo-EM structure of succinate receptor bound to succinate acid coupling MiniGsq	2024	2023	cryo-EM	3.2		0	38744983	
+SUCNR1	HGNC:4542	8WOG	Cryo-EM structure of SUCR1 in complex with succinate and Gi protein	2024	2023	cryo-EM	2.97		0	38923454	
+SUCNR1	HGNC:4542	8WP1	Cryo-EM structure of SUCR1 in complex with cis-epoxysuccinic acid and Gi proteins	2024	2023	cryo-EM	3.15		0	38923454	
+SUCNR1	HGNC:4542	8YKV	Cryo-EM structure of succinate receptor SUCR1 bound to compound 31	2024	2024	cryo-EM	2.48		0	38834763	
+SUCNR1	HGNC:4542	8YKW	Cryo-EM structure of succinate receptor SUCR1 bound to succinic acid	2024	2024	cryo-EM	2.75		0	38834763	
+SUCNR1	HGNC:4542	8YKX	Cryo-EM structure of succinate receptor SUCR1 bound to maleic acid	2024	2024	cryo-EM	2.69		0	38834763	
+TAS2R4	HGNC:14911	25ST	cryo-EM structure of human TAS2R4 with amino acids	2026	2026	cryo-EM	3.0		0		
+TAS2R4	HGNC:14911	25SU	cryo-EM structure of human TAS2R4	2026	2026	cryo-EM	3.3		0		
+TAS2R14	HGNC:14920	8RQL	TAS2R14 receptor bound to flufenamic acid and gustducin	2024	2024	cryo-EM	3.03		0	39557861	
+TAS2R14	HGNC:14920	8VY7	CryoEM structure of Gi-coupled TAS2R14 with cholesterol and an intracellular tastant	2024	2024	cryo-EM	2.68		0	38600377	
+TAS2R14	HGNC:14920	8VY9	CryoEM structure of Ggust-coupled TAS2R14 with cholesterol and an intracellular tastant	2024	2024	cryo-EM	2.88		0	38600377	
+TAS2R14	HGNC:14920	8XQL	Structure of human class T GPCR TAS2R14-miniGs/gust complex with Aristolochic acid A.	2024	2024	cryo-EM	2.99		0	38776963	
+TAS2R14	HGNC:14920	8XQN	Structure of human class T GPCR TAS2R14-DNGi complex with Aristolochic acid A.	2024	2024	cryo-EM	3.05		0	38776963	
+TAS2R14	HGNC:14920	8XQO	Structure of human class T GPCR TAS2R14-Gi complex with Aristolochic acid A.	2024	2024	cryo-EM	2.77		0	38776963	
+TAS2R14	HGNC:14920	8XQP	Structure of human class T GPCR TAS2R14-Gustducin complex with Aristolochic acid A.	2024	2024	cryo-EM	3.29		0	38776963	
+TAS2R14	HGNC:14920	8XQR	Structure 2 of human class T GPCR TAS2R14-miniGs/gust complex with Flufenamic acid.	2024	2024	cryo-EM	3.2		0	38776963	
+TAS2R14	HGNC:14920	8XQS	Structure of human class T GPCR TAS2R14-DNGi complex with Flufenamic acid.	2024	2024	cryo-EM	3.3		0	38776963	
+TAS2R14	HGNC:14920	8XQT	Structure of human class T GPCR TAS2R14-Gi complex.	2024	2024	cryo-EM	2.94		0	38776963	
+TAS2R14	HGNC:14920	8YKY	Structure of human class T GPCR TAS2R14-Ggustducin complex with agonist 28.1	2024	2024	cryo-EM	2.99		0	38776963	
+TAS2R14	HGNC:14920	9IIW	A local Cryo-EM structure of Bitter taste receptor TAS2R14	2024	2024	cryo-EM	3.15		0	38969802	
+TAS2R14	HGNC:14920	9IIX	A Cryo-EM structure of Bitter taste receptor TAS2R14 with Ggust	2024	2024	cryo-EM	2.89		0	38969802	
+TAS2R14	HGNC:14920	9IJ9	A Cryo-EM structure of Bitter taste receptor TAS2R14 with Gi complex	2024	2024	cryo-EM	2.7		0	38969802	
+TAS2R14	HGNC:14920	9IJA	A local Cryo-EM structure of Bitter taste receptor TAS2R14 with Gi complex	2024	2024	cryo-EM	3.05		0	38969802	
+TAS2R14	HGNC:14920	9W0P	CryoEM structure of T2R14 in complex with chlorhexidine and heterotrimeric G protein complex	2026	2025	cryo-EM	3.6		0	42009775	
+TAS2R14	HGNC:14920	9W0Q	Cryo-EM structure of T2R14 in complex with tangeretin and heterotrimeric G protein	2026	2025	cryo-EM	3.2		0	42009775	
+TAS2R16	HGNC:14921	9K6L	Cryo-EM structure of GPCR16-Gi2 complex	2025	2024	cryo-EM	2.77		0	40261795	
+TAS2R16	HGNC:14921	9KPD	Cryo-EM structure of GPCR16-miniGs complex	2025	2024	cryo-EM	2.84		0	40261795	
+TAS2R16	HGNC:14921	9KPE	Cryo-EM structure of GPCR16-GiH5 complex	2025	2024	cryo-EM	3.35		0	40261795	
+TAS2R16	HGNC:14921	9KPF	Cryo-EM structure of GPCR16-Gi complex	2025	2024	cryo-EM	3.15		0	40261795	
+TAS2R43	HGNC:18875	9OXA	CryoEM structure of Gi-coupled TAS2R43 with aristolochic acid I	2026	2025	cryo-EM	2.9		0	42009777	
+TAS2R43	HGNC:18875	9OXB	CryoEM structure of Ggust-coupled TAS2R43 with aristolochic acid I	2026	2025	cryo-EM	3.0		0	42009777	
+TAS2R46	HGNC:18877	7XP4	Cryo-EM structure of a class T GPCR in apo state	2022	2022	cryo-EM	3.01		0	36108005	
+TAS2R46	HGNC:18877	7XP5	Cryo-EM structure of a class T GPCR in ligand-free state	2022	2022	cryo-EM	3.08		0	36108005	
+TAS2R46	HGNC:18877	7XP6	Cryo-EM structure of a class T GPCR in active state	2022	2022	cryo-EM	3.01		0	36108005	
+TAS2R46	HGNC:18877	9W0R	Cryo-EM structure of apo-T2R46 in complex with heterotrimeric G protein	2026	2025	cryo-EM	2.7		0	42009775	
+TAS2R46	HGNC:18877	9W0S	CryoEM structure of T2R46 in complex with Arteminisin and heterotrimeric G protein complex	2026	2025	cryo-EM	3.3		0	42009775	
+TAS2R46	HGNC:18877	9W0T	CryoEM structure of the T2R46 in complex with Denatonium benozate and heterotrimeric G protein complex	2026	2025	cryo-EM	3.3		0	42009775	
+TAS2R46	HGNC:18877	9W0U	CryoEM structure of the T2R46 in complex with tangeretin and heterotrimeric G protein complex	2026	2025	cryo-EM	2.9		0	42009775	
+TAS2R46	HGNC:18877	9W0W	CryoEM structure of the T2R46 in complex with strychnine and heterotrimeric G protein complex	2026	2025	cryo-EM	3.2		0	42009775	
+TLK2	HGNC:11842	5O0Y	TLK2 kinase domain from human	2018	2017	X-ray	2.86		0	29955062	
+TLK2	HGNC:11842	7LO0	Structure of human ASF1a in complex with a TLK2 peptide	2022	2021	X-ray	2.71		0	35136069	R03TR002912
+TMEM63A	HGNC:29118	8EHW	cryo-EM structure of TMEM63A in nanodisc	2023	2022	cryo-EM	3.8		0	37543036	
+TMEM63A	HGNC:29118	8GRS	human TMEM63A	2023	2022	cryo-EM	3.3		0	37402734	
+TMEM63A	HGNC:29118	8WUA	cryo-EM structure of human TMEM63A	2024	2023	cryo-EM	3.6		0	38217391	
+TMEM63A	HGNC:29118	9N93	Human TMEM63A mutant V53M lipid-open state	2025	2025	cryo-EM	2.95		0	40480214	
+TMEM63A	HGNC:29118	9N95	Human TMEM63A mutant V53M closed state	2025	2025	cryo-EM	3.65		0	40480214	
+TMEM63A	HGNC:29118	9WXV	Cryo-EM structure of TMEM63A-digitonin-cholesterol	2026	2025	cryo-EM	4.4		0	41617699	
+TMEM63B	HGNC:17735	8EHX	cryo-EM structure of TMEM63B in LMNG	2023	2022	cryo-EM	3.6		0	37543036	
+TMEM63B	HGNC:17735	8XW4	Cryo-EM structure of TMEM63B-Digitonin state	2024	2024	cryo-EM	3.84		0	38570680	
+TP53RK	HGNC:16197	6WQX	Human PRPK-TPRKB complex	2021	2020	X-ray	2.53	ANP;MG	1	33547416	
+TP53RK	HGNC:16197	7SZA	Crystal Structure Analysis of human PRPK complex with a compound	2023	2021	X-ray	1.9		0		
+TP53RK	HGNC:16197	7SZB	Crystal Structure Analysis of human PRPK complex with a compound	2023	2021	X-ray	2.02		0		
+TP53RK	HGNC:16197	7SZC	Crystal Structure Analysis of human PRPK complex with a compound	2022	2021	X-ray	1.71		0		
+TP53RK	HGNC:16197	7SZD	Crystal Structure Analysis of human PRPK complex with a compound	2022	2021	X-ray	2.05		0		
+TP53RK	HGNC:16197	9FL9	Cryo-EM structure of the human KEOPS complex	2025	2024	cryo-EM	3.74		0		
+TTBK1	HGNC:19140	31HO	Crystal structure of tau tubulin kinase 1 (TTBK1) in complex with compound 62	2026	2026	X-ray	2.7		0		
+TTBK1	HGNC:19140	4BTJ	TTBK1 in complex with ATP	2013	2013	X-ray	2.16		0	24039150	
+TTBK1	HGNC:19140	4BTK	TTBK1 in complex with inhibitor	2013	2013	X-ray	2.0		0	24039150	
+TTBK1	HGNC:19140	4BTM	TTBK1 in complex with inhibitor	2013	2013	X-ray	2.54		0	24039150	
+TTBK1	HGNC:19140	4NFM	Human tau tubulin kinase 1 (TTBK1)	2014	2013	X-ray	2.12		0	24637750	
+TTBK1	HGNC:19140	4NFN	Human tau tubulin kinase 1 (TTBK1) complexed with 3-({5-[(4-amino-4-methylpiperidin-1-yl)methyl]pyrrolo[2,1-f][1,2,4]triazin-4-yl}amino)-5-bromophenol	2014	2013	X-ray	1.42		0	24637750	
+TTBK1	HGNC:19140	7JXX	Structure of TTBK1 kinase domain in complex with Compound 3	2021	2020	X-ray	1.56	NA	0	33944571	
+TTBK1	HGNC:19140	7JXY	Structure of TTBK1 kinase domain in complex with Compound 18	2021	2020	X-ray	2.15		0	33944571	
+TTBK1	HGNC:19140	7Q8V	Crystal structure of TTBK1 in complex with VNG2.73 (compound 42)	2022	2021	X-ray	2.13		0	34978799	
+TTBK1	HGNC:19140	7Q8W	Crystal structure of TTBK1 in complex with VNG1.35 (compound 23)	2022	2021	X-ray	2.02		0	34978799	
+TTBK1	HGNC:19140	7QHW	TTBK1 kinase domain in complex with inhibitor 29	2022	2021	X-ray	2.8		0	34978799	
+TTBK1	HGNC:19140	7ZHN	Crystal structure of TTBK1 in complex with AMG28	2023	2022	X-ray	1.85		0	37059819	
+TTBK1	HGNC:19140	7ZHO	Crystal structure of TTBK1 in complex with compound 3 (7-001)	2023	2022	X-ray	2.08		0	37059819	
+TTBK1	HGNC:19140	7ZHP	Crystal structure of TTBK1 in complex with compound 9 (7-005)	2023	2022	X-ray	1.8		0	37059819	
+TTBK1	HGNC:19140	7ZHQ	Crystal structure of TTBK1 in complex with compound 10 (7-009)	2023	2022	X-ray	1.8		0	37059819	
+TTBK1	HGNC:19140	8XPZ	The Crystal Structure of TTBK1 from Biortus.	2024	2024	X-ray	2.6		0		
+TTBK1	HGNC:19140	9HHW	Crystal structure of TTBK1 with a covalent compound GCL95	2025	2024	X-ray	3.0	A1IU7	1	39716901	
+TTBK2	HGNC:19141	31HP	Crystal structure of tau tubulin kinase 2 (TTBK2) in complex with compound 62	2026	2026	X-ray	1.5		0		
+TTBK2	HGNC:19141	6U0K	TTBK2 kinase domain in complex with Compound 1	2020	2019	X-ray	1.744		0		
+TTBK2	HGNC:19141	6VRF	ADP bound TTBK2 kinase domain	2020	2020	X-ray	1.5	ADP;MG;NA;PO4	1	32424773	
+TTBK2	HGNC:19141	7O3B	Crystal structure of the TTBK2-CEP164 complex bound to a camelid nanobody	2021	2021	X-ray	2.4		0	34499853	
+TTBK2	HGNC:19141	7Q8Y	Crystal structure of TTBK2 in complex with VNG2.73 (compound 42)	2022	2021	X-ray	1.6		0	34978799	
+TTBK2	HGNC:19141	7Q8Z	Crystal structure of TTBK2 in complex with VNG1.33 (compound 27)	2022	2021	X-ray	1.57		0	34978799	
+TTBK2	HGNC:19141	7Q90	Crystal structure of TTBK2 in complex with VNG1.63 (compound 32)	2022	2021	X-ray	1.6		0	34978799	
+TTYH1	HGNC:13476	7P5J	Cryo-EM structure of human TTYH1 in GDN	2021	2021	cryo-EM	4.0	NAG	0	34385445	
+TTYH2	HGNC:13877	7P54	Cryo-EM structure of human TTYH2 in GDN	2021	2021	cryo-EM	3.3	NAG	0	34385445	
+TTYH2	HGNC:13877	7P5M	Cryo-EM structure of human TTYH2 in lipid nanodiscs	2021	2021	cryo-EM	3.92	NAG	0	34385445	
+TTYH2	HGNC:13877	9G6X	Cryo-EM structure of TTYH2 in complex with sybody 1 in GDN	2025	2024	cryo-EM	3.7	NAG	0	40562935	
+TTYH2	HGNC:13877	9G71	Cryo-EM structure of TTYH2 in complex with lipids in GDN	2025	2024	cryo-EM	2.74	NAG	0	40562935	
+ULK4	HGNC:15784	6TSZ	The ULK4 Pseudokinase Domain Bound To ATPgammaS	2020	2019	X-ray	1.9		0	32814032	
+ULK4	HGNC:15784	6U5L	Structure of human ULK4 in complex with an inhibitor	2019	2019	X-ray	1.75		0	31841327	
+VRK2	HGNC:12719	2V62	Structure of vaccinia-related kinase 2	2007	2007	X-ray	1.7	MG	0	19141289	
+VRK2	HGNC:12719	5UU1	Crystal Structure of Human Vaccinia-related kinase 2 (VRK-2) bound to BI-D1870	2017	2017	X-ray	2.0		0	28790404	
+VRK2	HGNC:12719	6NCG	Crystal Structure of Human Vaccinia-related kinase 2 (VRK-2) bound to pyridin-benzenesulfonamide inhibitor	2019	2018	X-ray	2.45		0		
+VRK2	HGNC:12719	8Q1Z	Crystal Structure of Human Vaccinia-related kinase 2 (VRK-2) bound to JA-296	2023	2023	X-ray	1.85		0		
+VRK2	HGNC:12719	9FET	Crystal Structure of Human Vaccinia-related kinase 2 (VRK-2) bound to JA-47	2024	2024	X-ray	2.4		0		
+VRK3	HGNC:18996	2JII	Structure of vaccinia related kinase 3	2007	2007	X-ray	2.0		0	19141289	
+WEE2	HGNC:19684	5VDK	Crystal structure of human WEE2 kinase domain in complex with MK1775	2017	2017	X-ray	2.7	8X7;PO4	1	28792760	
+WHR1	HGNC:11398	7XRB	human STK19 dimer	2023	2022	X-ray	1.65		0	38252411	
+WHR1	HGNC:11398	8YCM	Monomeric Human STK19	2024	2024	X-ray	1.32		0	38890355	
+WHR1	HGNC:11398	9BZ0	Structure of an STK19-containing TC-NER complex	2024	2024	cryo-EM	1.9	MG;ZN	0	39547228	
+WHR1	HGNC:11398	9ER2	PolII-TCR-STK19 structure.	2024	2024	cryo-EM	3.3	ADP;BEF;MG;ZN	1	39547229	
+WHR1	HGNC:11398	9FD2	Structure of Pol II-TC-NER-STK19 complex	2024	2024	cryo-EM	3.4	MG;ZN	0	39547223	
+WNK2	HGNC:14542	6ELM	Crystal structure of the human WNK2 CCT1 domain	2017	2017	X-ray	1.14		0		
+WNK2	HGNC:14542	6FBK	Crystal structure of the human WNK2 CCT-like 1 domain in complex with a WNK1 RFXV peptide	2018	2017	X-ray	1.743		0		
+WNK3	HGNC:14543	5NKP	Crystal structure of the human KLHL3 Kelch domain in complex with a WNK3 peptide	2017	2017	X-ray	2.8		0		
+WNK3	HGNC:14543	5O1V	Crystal structure of WNK3 kinase domain in a monophosphorylated apo state (A-loop swapped)	2017	2017	X-ray	1.723		0		
+WNK3	HGNC:14543	5O21	Crystal structure of WNK3 kinase domain in a monophosphorylated state with chloride bound in the active site	2017	2017	X-ray	2.06		0		
+WNK3	HGNC:14543	5O23	Crystal structure of WNK3 kinase domain in a monophosphorylated apo state	2017	2017	X-ray	2.25		0		
+WNK3	HGNC:14543	5O26	Crystal structure of WNK3 kinase domain in a diphosphorylated state and in complex with AMP-PNP/Mg2+	2017	2017	X-ray	2.379	ANP;MG	1		
+WNK3	HGNC:14543	5O2B	Crystal structure of WNK3 kinase domain in a diphosphorylated state and in a complex with the inhibitor PP-121	2017	2017	X-ray	2.038	NA	0		
+WNK3	HGNC:14543	5O2C	Crystal structure of WNK3 kinase and CCT1 didomain in a unphosphorylated state	2017	2017	X-ray	2.4		0		
+WNK3	HGNC:14543	8EDH	Identification of a class of WNK isoform-specific inhibitors through high-throughput screening	2023	2022	X-ray	3.111		0	36712947	
+WNK3	HGNC:14543	9D7Q	Water and chloride as allosteric inhibitors in WNK kinase osmosensing	2024	2024	X-ray	3.301		0	39584807	
+CDC42BPB	HGNC:1738	3QFV	MRCK beta in complex with TPCA-1	2011	2011	X-ray	2.65	MG	0	21949762	
+CDC42BPB	HGNC:1738	3TKU	MRCK beta in complex with fasudil	2011	2011	X-ray	2.15		0	21949762	
+CDC42BPB	HGNC:1738	4UAK	MRCK beta in complex with ADP	2014	2014	X-ray	1.73	ADP;MG	1	25288205	
+CDC42BPB	HGNC:1738	4UAL	MRCK beta in complex with BDP00005290	2014	2014	X-ray	1.71		0	25288205	
+CDC42BPB	HGNC:1738	5OTE	MRCK beta in complex with BDP-00008900	2018	2017	X-ray	1.68		0	29382705	
+CDC42BPB	HGNC:1738	5OTF	MRCK beta in complex with BDP-00009066	2018	2017	X-ray	2.0		0	29382705	
+CDK11B	HGNC:1729	31ZN	Structure of CDK11-cyclin L-SAP30BP in complex with IACS-054647	2026	2026	cryo-EM	2.9		0		
+CDK11B	HGNC:1729	7UKZ	CDK11 in complex with small molecule inhibitor OTS964	2022	2022	X-ray	2.6		0	36327972	
+CDK11B	HGNC:1729	9I9I	Cryo-EM structure of CAK-CDK11	2025	2025	cryo-EM	3.5	ADP;MG	1	41100585	
+CDK11B	HGNC:1729	9QKT	Cryo-EM structure of the CDK11B-cyclin L2-SAP30BP bound to OTS964 (conformation 1)	2026	2025	cryo-EM	2.4		0	42034640	
+CDK11B	HGNC:1729	9QKZ	Cryo-EM structure of CDK11B-cyclin L2-SAP30BP bound to AMP-PNP	2026	2025	cryo-EM	2.3	ANP;MG	1	42034640	
+CDK11B	HGNC:1729	9QL1	Cryo-EM structure of the CDK11B-cyclin L2-SAP30BP bound to OTS964 (conformation 2)	2026	2025	cryo-EM	2.4		0	42034640	
+CDK11B	HGNC:1729	9VUH	CDK11B ternary complex bound to AT7519	2026	2025	cryo-EM	2.7		0		
+CDK12	HGNC:24224	4CXA	Crystal structure of the human CDK12-cyclin K complex bound to AMPPNP	2014	2014	X-ray	3.15		0	26597175	
+CDK12	HGNC:24224	4NST	Crystal structure of human Cdk12/Cyclin K in complex with ADP-aluminum fluoride	2014	2013	X-ray	2.2	ADP;MG	1	24662513	
+CDK12	HGNC:24224	4UN0	Crystal structure of the human CDK12-cyclinK complex	2014	2014	X-ray	3.15		0	26597175	
+CDK12	HGNC:24224	5ACB	Crystal Structure of the Human Cdk12-Cyclink Complex	2016	2015	X-ray	2.7	5I1	1	27571479	
+CDK12	HGNC:24224	6B3E	Crystal structure of human CDK12/CyclinK in complex with an inhibitor	2017	2017	X-ray	3.06	MG	0	29266803	
+CDK12	HGNC:24224	6CKX	Structure of CDK12/CycK in complex with a small molecule inhibitor N-(4-(1-methyl-1H-pyrazol-4-yl)phenyl)-N-((1r,4r)-4-(quinazolin-2-ylamino)cyclohexy	2018	2018	X-ray	2.8	MG	0	30067358	
+CDK12	HGNC:24224	6TD3	Structure of DDB1 bound to CR8-engaged CDK12-cyclinK	2020	2019	X-ray	3.46		0	32494016	
+CDK12	HGNC:24224	7NXK	Crystal structure of human Cdk12/Cyclin K in complex with the inhibitor BSJ-01-175	2021	2021	X-ray	3.0		0	33945934	
+CDK12	HGNC:24224	8BU1	Structure of DDB1 bound to DS17-engaged CDK12-cyclin K	2023	2022	X-ray	2.98		0	37679459	
+CDK12	HGNC:24224	8BU2	Structure of DDB1 bound to DS18-engaged CDK12-cyclin K	2023	2022	X-ray	3.13		0	37679459	
+CDK12	HGNC:24224	8BU3	Structure of DDB1 bound to DS19-engaged CDK12-cyclin K	2023	2022	X-ray	3.42		0	37679459	
+CDK12	HGNC:24224	8BU4	Structure of DDB1 bound to DS22-engaged CDK12-cyclin K	2023	2022	X-ray	3.09		0	37679459	
+CDK12	HGNC:24224	8BU5	Structure of DDB1 bound to SR-4835-engaged CDK12-cyclin K	2023	2022	X-ray	3.134		0	37679459	
+CDK12	HGNC:24224	8BU6	Structure of DDB1 bound to DS55-engaged CDK12-cyclin K	2023	2022	X-ray	3.45		0	37679459	
+CDK12	HGNC:24224	8BU7	Structure of DDB1 bound to 21195-engaged CDK12-cyclin K	2023	2022	X-ray	3.245		0	37679459	
+CDK12	HGNC:24224	8BU9	Structure of DDB1 bound to roscovitine-engaged CDK12-cyclin K	2023	2022	X-ray	3.51		0	37679459	
+CDK12	HGNC:24224	8BUA	Structure of DDB1 bound to 919278-engaged CDK12-cyclin K	2023	2022	X-ray	3.193		0	37679459	
+CDK12	HGNC:24224	8BUB	Structure of DDB1 bound to dCeMM4-engaged CDK12-cyclin K	2023	2022	X-ray	3.42		0	37679459	
+CDK12	HGNC:24224	8BUC	Structure of DDB1 bound to dCeMM3-engaged CDK12-cyclin K	2023	2022	X-ray	3.85		0	37679459	
+CDK12	HGNC:24224	8BUD	Structure of DDB1 bound to Z7-engaged CDK12-cyclin K	2023	2022	X-ray	3.2		0	37679459	
+CDK12	HGNC:24224	8BUE	Structure of DDB1 bound to Z11-engaged CDK12-cyclin K	2023	2022	X-ray	3.25		0	37679459	
+CDK12	HGNC:24224	8BUF	Structure of DDB1 bound to Z12-engaged CDK12-cyclin K	2023	2022	X-ray	3.3		0	37679459	
+CDK12	HGNC:24224	8BUG	Structure of DDB1 bound to HQ461-engaged CDK12-cyclin K	2023	2022	X-ray	3.53		0	37679459	
+CDK12	HGNC:24224	8BUH	Structure of DDB1 bound to WX3-engaged CDK12-cyclin K	2023	2022	X-ray	3.79		0	37679459	
+CDK12	HGNC:24224	8BUI	Structure of DDB1 bound to DRF-053-engaged CDK12-cyclin K	2023	2022	X-ray	3.5		0	37679459	
+CDK12	HGNC:24224	8BUJ	Structure of DDB1 bound to DS06-engaged CDK12-cyclin K	2023	2022	X-ray	3.62		0	37679459	
+CDK12	HGNC:24224	8BUK	Structure of DDB1 bound to DS08-engaged CDK12-cyclin K	2023	2022	X-ray	3.41		0	37679459	
+CDK12	HGNC:24224	8BUL	Structure of DDB1 bound to DS11-engaged CDK12-cyclin K	2023	2022	X-ray	3.4		0	37679459	
+CDK12	HGNC:24224	8BUM	Structure of DDB1 bound to DS15-engaged CDK12-cyclin K	2023	2022	X-ray	3.36		0	37679459	
+CDK12	HGNC:24224	8BUN	Structure of DDB1 bound to DS16-engaged CDK12-cyclin K	2023	2022	X-ray	3.08		0	37679459	
+CDK12	HGNC:24224	8BUO	Structure of DDB1 bound to DS24-engaged CDK12-cyclin K	2023	2022	X-ray	3.58		0	37679459	
+CDK12	HGNC:24224	8BUP	Structure of DDB1 bound to DS30-engaged CDK12-cyclin K	2023	2022	X-ray	3.41		0	37679459	
+CDK12	HGNC:24224	8BUQ	Structure of DDB1 bound to DS43-engaged CDK12-cyclin K	2023	2022	X-ray	3.2		0	37679459	
+CDK12	HGNC:24224	8BUR	Structure of DDB1 bound to DS50-engaged CDK12-cyclin K	2023	2022	X-ray	3.64		0	37679459	
+CDK12	HGNC:24224	8BUS	Structure of DDB1 bound to DS59-engaged CDK12-cyclin K	2023	2022	X-ray	3.26		0	37679459	
+CDK12	HGNC:24224	8BUT	Structure of DDB1 bound to DS61-engaged CDK12-cyclin K	2023	2022	X-ray	3.25		0	37679459	
+CDK12	HGNC:24224	8P81	Crystal structure of human Cdk12/Cyclin K in complex with inhibitor SR-4835	2023	2023	X-ray	2.68		0	38016516	
+CDK12	HGNC:24224	9FMR	Structure of DDB1/Cdk12/Cyclin K with molecular glue SR-4835	2024	2024	X-ray	3.9		0	39450271	
+CDK12	HGNC:24224	9JK1	Crystal structure of CDK12/Cyclin K in complex with covalent inhibitor YJZ5118	2025	2024	X-ray	2.72	A1EB3;MG	1	40080446	
+CDK12	HGNC:24224	9X26	Crystal structure of CDK12/Cyclin K in complex with covalent inhibitor ZLC853	2026	2025	X-ray	3.28	A1EYW	1		
+CDK13	HGNC:1733	5EFQ	Crystal structure of human Cdk13/Cyclin K in complex with ADP-aluminum fluoride	2015	2015	X-ray	2.0	ADP;MG	1	26748711	
+CDK13	HGNC:1733	7NXJ	Crystal structure of human Cdk13/Cyclin K in complex with the inhibitor THZ531	2021	2021	X-ray	2.36		0	33945934	
+CDK16	HGNC:8749	3MTL	Crystal structure of the PCTAIRE1 kinase in complex with Indirubin E804	2010	2010	X-ray	2.4		0	28057719	
+CDK16	HGNC:8749	5G6V	Crystal structure of the PCTAIRE1 kinase in complex with inhibitor	2016	2016	X-ray	2.2		0	28057719	
+CDK16	HGNC:8749	9R2I	Cryo-EM structure of the complex CDK16:CCNY:14-3-3	2026	2025	cryo-EM	3.3	AGS;MG	1	41857027	
+CDKL1	HGNC:1781	4AGU	CRYSTAL STRUCTURE OF THE HUMAN CDKL1 KINASE DOMAIN	2012	2012	X-ray	2.4		0	29420175	
+CDKL2	HGNC:1782	4AAA	Crystal structure of the human CDKL2 kinase domain	2011	2011	X-ray	1.53		0	29420175	
+CDKL2	HGNC:1782	4BBM	CRYSTAL STRUCTURE OF THE HUMAN CDKL2 KINASE DOMAIN WITH BOUND TCS 2312	2012	2012	X-ray	2.0		0	29420175	
+CDKL2	HGNC:1782	8S6I	Crystal structure of the human CDKL2 kinase domain with Compound 9	2025	2024	X-ray	1.72		0	39140040	
+CDKL3	HGNC:15483	3ZDU	Crystal structure of the human CDKL3 kinase domain	2013	2012	X-ray	2.2	NA;ZN	0	29420175	
+CHRNA2	HGNC:1956	5FJV	Crystal structure of the extracellular domain of alpha2 nicotinic acetylcholine receptor in pentameric assembly	2016	2015	X-ray	3.2		0	27493220	
+CHRNB1	HGNC:1961	9DMG	Human muscle nAChR apo state	2025	2024	cryo-EM	2.05		0	40203823	
+CHRNB1	HGNC:1961	9DMH	Human muscle nAChR ACh-bound state	2025	2024	cryo-EM	2.06		0	40203823	
+CHRNB1	HGNC:1961	9DMJ	Human muscle nAChR with two fab1b-bound	2025	2024	cryo-EM	2.19	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DMK	Human muscle nAChR with one fab1b-bound	2025	2024	cryo-EM	2.46	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DML	Human muscle nAChR with fab2-bound	2025	2024	cryo-EM	2.24	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DMQ	Human muscle nAChR with fab3-bound	2025	2024	cryo-EM	2.06	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DMS	Human muscle nAChR with fab6-bound	2025	2024	cryo-EM	1.92	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DMT	Human muscle nAChR with fab7-bound	2025	2024	cryo-EM	2.18	NAG	0	40203823	
+CHRNB1	HGNC:1961	9DMV	Human muscle nAChR with fab9-bound	2025	2024	cryo-EM	2.13	NAG	0		
+CHRNB1	HGNC:1961	9GU0	Human adult muscle nAChR in resting state in detergent with alpha-bungarotoxin	2025	2024	cryo-EM	2.96	NAG	0	40252219	
+CHRNB1	HGNC:1961	9GU1	Human adult muscle nAChR in resting state in nanodisc with alpha-bungarotoxin	2025	2024	cryo-EM	2.48	CU;NAG	0	40252219	
+CHRNB1	HGNC:1961	9GU2	Human adult muscle nAChR in desensitised state in nanodisc with 100 uM acetylcholine	2025	2024	cryo-EM	2.73	CU;NAG	0	40252219	
+CHRNB1	HGNC:1961	9GU3	Human adult muscle nAChR in desensitised state in nanodisc with 1 mM acetylcholine	2025	2024	cryo-EM	2.64	NAG	0	40252219	
+CHRNB1	HGNC:1961	9YE6	Human muscle nAChR FCCMS eP121L ACh-bound	2026	2025	cryo-EM	2.47	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YE7	Human muscle nAChR FCCMS eP121L ACh, XG-590 bound	2026	2025	cryo-EM	2.44	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YE8	Human muscle nAChR SCCMS eL269F ACh bound	2026	2025	cryo-EM	2.22	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YEH	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (upper)	2026	2025	cryo-EM	2.46	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YEI	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (lower 1)	2026	2025	cryo-EM	2.36	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YEK	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (lower 2)	2026	2025	cryo-EM	2.68		0	42386970	
+CHRNB1	HGNC:1961	9YEL	Human muscle nAChR SCCMS eL269F ACh, Fluoxetine bound	2026	2025	cryo-EM	2.48	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YER	Human muscle nAChR SCCMS eT264P ACh bound	2026	2025	cryo-EM	2.19	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YET	Human muscle nAChR SCCMS eT264P ACh, Reboxetine bound	2026	2025	cryo-EM	2.36	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YEU	Human muscle nAChR SCCMS bV266M ACh bound	2026	2025	cryo-EM	2.39	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YEX	Human muscle nAChR SCCMS bV266M ACh, Quinidine bound	2026	2025	cryo-EM	2.47	NAG	0	42386970	
+CHRNB1	HGNC:1961	9YF0	Human muscle nAChR SCCMS aV249F ACh, Fluoxetine bound	2026	2025	cryo-EM	2.79		0	42386970	
+CHRND	HGNC:1965	9DMG	Human muscle nAChR apo state	2025	2024	cryo-EM	2.05		0	40203823	
+CHRND	HGNC:1965	9DMH	Human muscle nAChR ACh-bound state	2025	2024	cryo-EM	2.06		0	40203823	
+CHRND	HGNC:1965	9DMJ	Human muscle nAChR with two fab1b-bound	2025	2024	cryo-EM	2.19	NAG	0	40203823	
+CHRND	HGNC:1965	9DMK	Human muscle nAChR with one fab1b-bound	2025	2024	cryo-EM	2.46	NAG	0	40203823	
+CHRND	HGNC:1965	9DML	Human muscle nAChR with fab2-bound	2025	2024	cryo-EM	2.24	NAG	0	40203823	
+CHRND	HGNC:1965	9DMQ	Human muscle nAChR with fab3-bound	2025	2024	cryo-EM	2.06	NAG	0	40203823	
+CHRND	HGNC:1965	9DMS	Human muscle nAChR with fab6-bound	2025	2024	cryo-EM	1.92	NAG	0	40203823	
+CHRND	HGNC:1965	9DMT	Human muscle nAChR with fab7-bound	2025	2024	cryo-EM	2.18	NAG	0	40203823	
+CHRND	HGNC:1965	9DMV	Human muscle nAChR with fab9-bound	2025	2024	cryo-EM	2.13	NAG	0		
+CHRND	HGNC:1965	9GU0	Human adult muscle nAChR in resting state in detergent with alpha-bungarotoxin	2025	2024	cryo-EM	2.96	NAG	0	40252219	
+CHRND	HGNC:1965	9GU1	Human adult muscle nAChR in resting state in nanodisc with alpha-bungarotoxin	2025	2024	cryo-EM	2.48	CU;NAG	0	40252219	
+CHRND	HGNC:1965	9GU2	Human adult muscle nAChR in desensitised state in nanodisc with 100 uM acetylcholine	2025	2024	cryo-EM	2.73	CU;NAG	0	40252219	
+CHRND	HGNC:1965	9GU3	Human adult muscle nAChR in desensitised state in nanodisc with 1 mM acetylcholine	2025	2024	cryo-EM	2.64	NAG	0	40252219	
+CHRND	HGNC:1965	9YE6	Human muscle nAChR FCCMS eP121L ACh-bound	2026	2025	cryo-EM	2.47	NAG	0	42386970	
+CHRND	HGNC:1965	9YE7	Human muscle nAChR FCCMS eP121L ACh, XG-590 bound	2026	2025	cryo-EM	2.44	NAG	0	42386970	
+CHRND	HGNC:1965	9YE8	Human muscle nAChR SCCMS eL269F ACh bound	2026	2025	cryo-EM	2.22	NAG	0	42386970	
+CHRND	HGNC:1965	9YEH	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (upper)	2026	2025	cryo-EM	2.46	NAG	0	42386970	
+CHRND	HGNC:1965	9YEI	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (lower 1)	2026	2025	cryo-EM	2.36	NAG	0	42386970	
+CHRND	HGNC:1965	9YEK	Human muscle nAChR SCCMS eL269F ACh, Reboxetine bound (lower 2)	2026	2025	cryo-EM	2.68		0	42386970	
+CHRND	HGNC:1965	9YEL	Human muscle nAChR SCCMS eL269F ACh, Fluoxetine bound	2026	2025	cryo-EM	2.48	NAG	0	42386970	
+CHRND	HGNC:1965	9YER	Human muscle nAChR SCCMS eT264P ACh bound	2026	2025	cryo-EM	2.19	NAG	0	42386970	
+CHRND	HGNC:1965	9YET	Human muscle nAChR SCCMS eT264P ACh, Reboxetine bound	2026	2025	cryo-EM	2.36	NAG	0	42386970	
+CHRND	HGNC:1965	9YEU	Human muscle nAChR SCCMS bV266M ACh bound	2026	2025	cryo-EM	2.39	NAG	0	42386970	
+CHRND	HGNC:1965	9YEX	Human muscle nAChR SCCMS bV266M ACh, Quinidine bound	2026	2025	cryo-EM	2.47	NAG	0	42386970	
+CHRND	HGNC:1965	9YF0	Human muscle nAChR SCCMS aV249F ACh, Fluoxetine bound	2026	2025	cryo-EM	2.79		0	42386970	
+CLCN6	HGNC:2024	8JPJ	Cryo-EM structure of ClC-6 apo state	2023	2023	cryo-EM	3.5		0		
+CLCN6	HGNC:2024	8JPO	Cryo-EM structure of ATP bound human ClC-6	2023	2023	cryo-EM	3.4	ATP;MG	1		
+CLCN6	HGNC:2024	8JPR	Cryo-EM structure of Y553C human ClC-6	2023	2023	cryo-EM	3.4	ATP;MG	1		
+CLCNKA	HGNC:2026	2PFI	Crystal structure of the cytoplasmic domain of the human chloride channel ClC-Ka	2007	2007	X-ray	1.6		0	17562318	
+CLIC2	HGNC:2063	2PER	Crystal Structure of Human Chloride Intracellular Channel protein 2	2008	2007	X-ray	2.0		0	18186468	
+CLIC2	HGNC:2063	2R4V	Structure of human CLIC2, crystal form A	2007	2007	X-ray	1.85		0	17945253	
+CLIC2	HGNC:2063	2R5G	Structure of human CLIC2, crystal form B	2007	2007	X-ray	1.86		0	17945253	
+CLIC3	HGNC:2064	3FY7	Crystal structure of homo sapiens CLIC3	2009	2009	X-ray	1.95		0	20146363	
+CLIC3	HGNC:2064	3KJY	Crystal structure of reduced HOMO SAPIENS CLIC3	2009	2009	X-ray	1.95		0	20146363	
+CLIC5	HGNC:13517	6Y2H	The crystal structure of human chloride intracellular channel protein 5	2020	2020	X-ray	2.154		0	32725932	
+CLIC5	HGNC:13517	8Q4I	The crystal structure of human chloride intracellular channel protein 5 delta 57-68	2024	2023	X-ray	2.1		0	38453905	
+CLIC5	HGNC:13517	8Q4J	The crystal structure of human chloride intracellular channel protein 5 delta 57-68 F34D mutant	2024	2023	X-ray	2.51		0	38453905	
+CLK3	HGNC:2071	29MO	Crystal structure of human CLK3 in complex with AZ176	2026	2026	X-ray	2.1		0	42720483	
+CLK3	HGNC:2071	29MP	Crystal structure of human CLK3 in complex with RNAZ88	2026	2026	X-ray	2.5		0	42720483	
+CLK3	HGNC:2071	2EU9	Crystal Structure of CLK3	2005	2005	X-ray	1.53		0	19278650	
+CLK3	HGNC:2071	2EXE	Crystal structure of the phosphorylated CLK3	2005	2005	X-ray	2.35		0		
+CLK3	HGNC:2071	2WU6	Crystal Structure of the Human CLK3 in complex with DKI	2009	2009	X-ray	1.92		0	21276940	
+CLK3	HGNC:2071	2WU7	Crystal Structure of the Human CLK3 in complex with V25	2009	2009	X-ray	2.25		0	21276940	
+CLK3	HGNC:2071	3RAW	Crystal Structure of human CDC-like kinase 3 isoform in complex with leucettine L41	2011	2011	X-ray	2.09		0		
+CLK3	HGNC:2071	6FT7	Crystal structure of CLK3 in complex with compound 8a	2018	2018	X-ray	2.02		0	29723265	
+CLK3	HGNC:2071	6FYP	X-RAY STRUCTURE OF CLK3-KD(GP-[275-632], NON-PHOS.)/CX-4945 AT 2.29A	2018	2018	X-ray	2.29		0	29985556	
+CLK3	HGNC:2071	6FYR	X-RAY STRUCTURE OF CLK3-KD(GP-[275-632], NON-PHOS.)/Cpd-2 AT 1.42A	2018	2018	X-ray	1.42		0	29985556	
+CLK3	HGNC:2071	6KHF	Crystal structure of CLK3 in complex with CX-4945	2019	2019	X-ray	2.598		0	31531359	
+CLK3	HGNC:2071	6RCT	Crystal structure of CLK3 in complex with T3-CLK	2019	2019	X-ray	2.32		0		
+CLK3	HGNC:2071	6YTW	CLK3 bound with benzothiazole Tg003 (Cpd 2)	2020	2020	X-ray	2.0		0	32787076	
+CLK3	HGNC:2071	6YTY	CLK3 A319V mutant bound with benzothiazole Tg003 (Cpd 2)	2020	2020	X-ray	1.76		0	32787076	
+CLK3	HGNC:2071	6YU1	CLK3 bound with beta-carboline KH-CARB13 (Cpd 3)	2020	2020	X-ray	1.9		0	32787076	
+CLK3	HGNC:2071	6Z2V	CLK3 A319V mutant bound with beta-carboline KH-CARB13 (Cpd 3)	2020	2020	X-ray	2.6		0	32787076	
+CLK3	HGNC:2071	6Z51	Crystal structure of CLK3 in complex with macrocycle ODS2002941	2020	2020	X-ray	1.92		0		
+CLK3	HGNC:2071	6Z52	Crystal structure of CLK3 in complex with macrocycle ODS2003136	2020	2020	X-ray	2.12		0		
+CLK3	HGNC:2071	6Z53	Crystal structure of CLK3 in complex with macrocycle ODS2003128	2020	2020	X-ray	1.65		0		
+CLK3	HGNC:2071	6Z54	Crystal structure of CLK3 in complex with macrocycle ODS2003178	2020	2020	X-ray	1.73		0		
+CLK3	HGNC:2071	6Z55	Crystal structure of CLK3 in complex with macrocycle ODS2004070	2020	2020	X-ray	1.7	EDO;NA	0		
+CLK3	HGNC:2071	9EZ3	Crystal structure of human CLK3 bound to RN129	2024	2024	X-ray	2.7		0	40465731	
+CLK4	HGNC:13659	6FYV	X-RAY STRUCTURE OF CLK4-KD(146-480)/CX-4945 AT 2.46A	2018	2018	X-ray	2.46		0	29985556	
+CNGA4	HGNC:2152	9UPF	Cryo-EM structure of human olfactory CNG channel in cAMP-bound open state	2025	2025	cryo-EM	3.59	CA	0	41131016	
+CNGA4	HGNC:2152	9UPG	Cryo-EM structure of human olfactory CNGA2/A4/B1 in CaM-bound closed state	2025	2025	cryo-EM	2.87	CA	0	41131016	
+COQ8A	HGNC:16812	4PED	Mitochondrial ADCK3 employs an atypical protein kinase-like fold to enable coenzyme Q biosynthes	2014	2014	X-ray	1.64		0	25498144	
+COQ8A	HGNC:16812	5I35	Structure of the Human mitochondrial kinase COQ8A R611K with AMPPNP (Cerebellar Ataxia and Ubiquinone Deficiency Through Loss of Unorthodox Kinase Act	2016	2016	X-ray	2.3		0	27499294	
+COQ8A	HGNC:16812	7UDP	Crystal structure of COQ8A-CA157 inhibitor complex in space group C2	2023	2022	X-ray	2.01		0	36302899	
+COQ8A	HGNC:16812	7UDQ	Crystal structure of COQ8A-CA157 inhibitor complex in space group P1	2023	2022	X-ray	1.9	NA	0	36302899	
+CSNK1G1	HGNC:2454	2CMW	Structure of Human Casein kinase 1 gamma-1 in complex with 2-(2- Hydroxyethylamino)-6-(3-chloroanilino)-9-isopropylpurine	2006	2006	X-ray	1.75		0		
+CSNK1G2	HGNC:2455	2C47	Structure of casein kinase 1 gamma 2	2005	2005	X-ray	2.4	MG	0		
+CSNK1G2	HGNC:2455	30IX	Crystal structure of CSNK1G2 with a covalent compound GCL47	2026	2026	X-ray	2.9	A1IBA	1		
+CSNK1G3	HGNC:2456	2CHL	Structure of casein kinase 1 gamma 3	2006	2006	X-ray	1.95		0		
+CSNK1G3	HGNC:2456	2IZR	Structure of casein kinase gamma 3 in complex with inhibitor	2006	2006	X-ray	1.3	MG	0		
+CSNK1G3	HGNC:2456	2IZS	Structure of casein kinase gamma 3 in complex with inhibitor	2006	2006	X-ray	1.95	MG	0		
+CSNK1G3	HGNC:2456	2IZT	Structure of casein kinase gamma 3 in complex with inhibitor	2006	2006	X-ray	2.0		0		
+CSNK1G3	HGNC:2456	2IZU	Structure of casein kinase gamma 3 in complex with inhibitor	2006	2006	X-ray	1.85		0		
+CSNK1G3	HGNC:2456	4G16	Crystal structure of ck1g3 with 2-[(4-{[3-(TRIFLUOROMETHYL)PYRIDIN2-YL]OXY}PHENYL)AMINO]-1H-BENZIMIDAZOLE-6-CARBONITRILE	2013	2012	X-ray	2.3		0	22877629	
+CSNK1G3	HGNC:2456	4G17	Crystal structure of ck1g3 with 2-[(4-TERT-BUTYLPHENYL)AMINO]-1H-BENZIMIDAZOLE-6-CARBONITRILE	2013	2012	X-ray	2.1		0	22877629	
+CSNK1G3	HGNC:2456	4HGL	Crystal structure of ck1g3 with compound 1	2012	2012	X-ray	2.4		0	24900428	
+CSNK1G3	HGNC:2456	4HGS	Crystal structure of ck1gs with compound 13	2012	2012	X-ray	2.4		0		
+CSNK1G3	HGNC:2456	6GRO	Human CSNK1G3 bound to SB-223133	2018	2018	X-ray	1.45		0		
+CSNK2A2	HGNC:2459	3E3B	Crystal structure of catalytic subunit of human protein kinase CK2alpha prime with a potent indazole-derivative inhibitor	2009	2008	X-ray	3.2		0	19193990	
+CSNK2A2	HGNC:2459	3OFM	Structure of a human CK2alpha prime, the paralog isoform of the catalytic subunit of protein kinase CK2 from Homo sapiens	2011	2010	X-ray	2.0		0	21241709	
+CSNK2A2	HGNC:2459	3U87	Structure of a chimeric construct of human CK2alpha and human CK2alpha' in complex with a non-hydrolysable ATP-analogue	2012	2011	X-ray	2.9	ANP;MG	1	22868753	
+CSNK2A2	HGNC:2459	5M4U	ORTHORHOMBIC COMPLEX STRUCTURE OF HUMAN PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA') WITH THE INHIBITOR 4'-CARBOXY-6,8-CHLORO- FLAVONOL (F	2017	2016	X-ray	2.195		0	28085026	
+CSNK2A2	HGNC:2459	5M56	Monoclinic complex structure of human protein kinase CK2 catalytic subunit (isoform CK2alpha') with the inhibitor 4'-carboxy-6,8-chloro-flavonol (FLC2	2017	2016	X-ray	2.237		0	28085026	
+CSNK2A2	HGNC:2459	5OOI	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA') IN COMPLEX WITH THE INDENOINDOLE-TYPE INHIBITOR 4P	2017	2017	X-ray	1.998	NA	0	29236079	
+CSNK2A2	HGNC:2459	5Y9M	Crystal structure of CK2a2 form 3	2018	2017	X-ray	2.006		0	29717996	
+CSNK2A2	HGNC:2459	5YF9	Crystal structure of CK2a2 form-2	2018	2017	X-ray	1.89		0	29717996	
+CSNK2A2	HGNC:2459	5YWM	Crystal structure of CK2a2 form-1	2018	2017	X-ray	1.939		0		
+CSNK2A2	HGNC:2459	6HMB	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 Gene product) IN COMPLEX WITH the inhibitor CX-4945 (Silmitasertib)	2019	2018	X-ray	1.04		0	31559376	
+CSNK2A2	HGNC:2459	6HMC	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 gene product) IN COMPLEX WITH THE INDENOINDOLE-TYPE INHIBITOR THN27	2019	2018	X-ray	1.03		0	31559376	
+CSNK2A2	HGNC:2459	6HMD	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 gene product) IN COMPLEX WITH THE INDENOINDOLE-TYPE INHIBITOR AR18	2019	2018	X-ray	1.0		0	31559376	
+CSNK2A2	HGNC:2459	6HMQ	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE BENZOTRIAZOLE-TYPE INHIBITOR MB002	2019	2018	X-ray	0.97	NA	0	31559376	
+CSNK2A2	HGNC:2459	6L20	Crystal structure of CK2a2 with hematein	2020	2019	X-ray	3.08735128172		0	31859160	
+CSNK2A2	HGNC:2459	6QY8	Human CSNK2A2 bound to ERB-041	2020	2019	X-ray	1.7		0		
+CSNK2A2	HGNC:2459	6QY9	Human CSNK2A2 bound to a Pyrrolo[2,3-d]pyrimidinyl inhibitor	2019	2019	X-ray	1.5		0		
+CSNK2A2	HGNC:2459	6TE2	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the 2-aminothiazole-type inhibitor 17	2020	2019	X-ray	0.922		0	32589844	
+CSNK2A2	HGNC:2459	6TEW	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the 2-aminothiazole-type inhibitor 27	2020	2019	X-ray	1.082		0	32589844	
+CSNK2A2	HGNC:2459	6TGU	Crystal structure of human protein kinase CK2alpha'(CSNK2A2 gene product) in complex with the 2-aminothiazole-type inhibitor Cl-OH-3	2020	2019	X-ray	0.833		0	32589844	
+CSNK2A2	HGNC:2459	7A1B	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the ATP-competitive inhibitor 5,6-dibromo-1H-triazolo[4,5-b	2020	2020	X-ray	1.287	NA	0	33317841	
+CSNK2A2	HGNC:2459	7A1Z	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the ATP-competitive inhibitor 6-bromo-5-chloro-1H-triazolo[	2020	2020	X-ray	1.024		0	33317841	
+CSNK2A2	HGNC:2459	7A22	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the ATP-competitive inhibitor 5,6,7-tribromo-1H-triazolo[4,	2020	2020	X-ray	1.01		0	33317841	
+CSNK2A2	HGNC:2459	7A2H	Crystal structure of human protein kinase CK2alpha' (CSNK2A2 gene product) in complex with the ATP-competitive inhibitor 5,6,7-tribromo-1H-imidazo[4,5	2020	2020	X-ray	1.01		0	33317841	
+CSNK2A2	HGNC:2459	7AT9	Structure of protein kinase ck2 catalytic subunit (csnk2a2 gene product) in complex with the ATP-competitive inhibitor MB002 and the alphaD-pocket lig	2021	2020	X-ray	1.05	NA	0	34323071	
+CSNK2A2	HGNC:2459	7ATV	Structure of protein kinase ck2 catalytic subunit (csnk2a2 gene product) in complex with the bivalent inhibitor KN2	2021	2020	X-ray	0.98		0	34323071	
+CSNK2A2	HGNC:2459	7XYH	Crystal structure of CK2a2 complexed with AG1112	2023	2022	X-ray	2.04		0	36130444	
+CSNK2A2	HGNC:2459	8Q77	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE BISUBSTRATE INHIBITOR ARC-780	2023	2023	X-ray	1.255		0		
+CSNK2A2	HGNC:2459	8Q9S	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE INHIBITOR SGC-CK2-1	2023	2023	X-ray	1.352		0		
+CSNK2A2	HGNC:2459	8QBU	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE INHIBITOR CX-4945 AND THE ALPHA-D-POCK	2023	2023	X-ray	1.09		0		
+CSNK2A2	HGNC:2459	8QCD	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE INHIBITOR 4,5,6,7-TETRABROMOBENZOTRIAZ	2023	2023	X-ray	1.03		0		
+CSNK2A2	HGNC:2459	8QCG	STRUCTURE OF THE CATALYTIC SUBUNIT OF PROTEIN KINASE CK2 (CK2ALPHA') IN COMPLEX WITH THE NON-HYDROLYZABLE ATP ANALOGUE AMPPNP	2023	2023	X-ray	1.04	ANP;MG	1		
+CSNK2A2	HGNC:2459	8QF1	STRUCTURE OF THE CATALYTIC SUBUNIT OF PROTEIN KINASE CK2 (CK2ALPHA') IN COMPLEX WITH THE NON-HYDROLYZABLE GTP ANALOGUE GMPPNP	2023	2023	X-ray	1.32	GNP;MG	1		
+CSNK2A2	HGNC:2459	9FBI	Structure of human protein kinase CK2 catalytic subunit (CK2alpha', CSNK2A2 gene product) in complex with the cyclic peptidomimetic compound 12 discov	2025	2024	X-ray	1.161	NA	0		
+CSNK2A2	HGNC:2459	9GXY	Crystal structure of protein kinase CK2 catalytic subunit (CSNK2A2 gene product) in complex with the dual CK2/HDAC inhibitor IOR-160	2025	2024	X-ray	1.16		0	40672667	
+CSNK2A2	HGNC:2459	9H96	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 GENE PRODUCT) IN COMPLEX WITH THE INDENOINDOLE-TYPE INHIBITOR MC11	2025	2024	X-ray	1.04		0	40116007	
+CSNK2A2	HGNC:2459	9HK5	Structure of a mutant of human protein kinase CK2alpha' that equals its isoenzyme CK2alpha in affinity to the regulatory subunit CK2beta	2025	2024	X-ray	1.491		0	40223482	
+CSNK2A2	HGNC:2459	9IHG	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment C02	2026	2025	X-ray	1.08		0		
+CSNK2A2	HGNC:2459	9IHI	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment D02	2026	2025	X-ray	1.23		0		
+CSNK2A2	HGNC:2459	9Q8C	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment F02	2026	2025	X-ray	0.9		0		
+CSNK2A2	HGNC:2459	9Q8Q	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment E03	2026	2025	X-ray	0.98		0		
+CSNK2A2	HGNC:2459	9Q9A	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment C06 and CX-4945 (Silmitasertib)	2026	2025	X-ray	1.03		0		
+CSNK2A2	HGNC:2459	9Q9B	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment C07 and CX-4945 (Silmitasertib)	2026	2025	X-ray	1.84		0		
+CSNK2A2	HGNC:2459	9Q9C	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment D04	2026	2025	X-ray	1.66		0		
+CSNK2A2	HGNC:2459	9Q9D	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment D06 and CX-4945 (Silmitasertib)	2026	2025	X-ray	0.89		0		
+CSNK2A2	HGNC:2459	9Q9G	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment D10	2026	2025	X-ray	0.94		0		
+CSNK2A2	HGNC:2459	9QAB	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment E11 and CX-4945 (Silmitasertib)	2026	2025	X-ray	0.95		0		
+CSNK2A2	HGNC:2459	9QAG	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment F08 and CX-4945 (Silmitasertib)	2026	2025	X-ray	1.01		0		
+CSNK2A2	HGNC:2459	9QAK	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment G07	2026	2025	X-ray	0.98		0		
+CSNK2A2	HGNC:2459	9QB0	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment H07	2026	2025	X-ray	1.01		0		
+CSNK2A2	HGNC:2459	9QB6	Protein kinase CK2 catalytic subunit alpha' (CSNK2A2 gene product) in complex with F2X-Entry screen fragment H02 and CX-4945 (Silmitasertib)	2026	2025	X-ray	1.05		0		
+CSNK2A2	HGNC:2459	9QB9	CK2, catalytic subunit alpha' (CSNK2A2 gene product) in complex with a heparin-derived trisaccharide and the ATP-competitive inhibitor 4w	2026	2025	X-ray	1.19		0		
+CSNK2A2	HGNC:2459	9R57	Crystal structure of human protein kinase CK2 catalytic subunit (isoenzyme ck2alpha'; CSNK2A2 gene product) in complex with 5,6-dibromo-1H-1,2,3-benzo	2026	2025	X-ray	1.1		0	41461124	
+CSNK2A2	HGNC:2459	9R5B	Crystal structure of human protein kinase CK2 catalytic subunit (isoenzyme ck2alpha'; CSNK2A2 gene product) in complex with 6,7-dibromo-4,5-difluoro-1	2026	2025	X-ray	1.09		0	41461124	
+CSNK2A2	HGNC:2459	9R5C	Crystal structure of human protein kinase CK2 catalytic subunit (isoenzyme ck2alpha'; CSNK2A2 gene product) in complex with 4,7-dibromo-5,6-difluoro-1	2026	2025	X-ray	1.04		0	41461124	
+CSNK2A2	HGNC:2459	9R5D	Crystal structure of human protein kinase CK2 catalytic subunit (isoenzyme ck2alpha'; CSNK2A2 gene product) in complex with 4,6-dibromo-5,7-difluoro-1	2026	2025	X-ray	1.02		0	41461124	
+CSNK2A2	HGNC:2459	9R5F	Crystal structure of human protein kinase CK2 catalytic subunit (isoenzyme ck2alpha'; CSNK2A2 gene product) in complex with 5,6-dibromo-4,7-difluoro-1	2026	2025	X-ray	1.19		0	41461124	
+CSNK2A2	HGNC:2459	9T0U	STRUCTURE OF PROTEIN KINASE CK2 CATALYTIC SUBUNIT (ISOFORM CK2ALPHA'; CSNK2A2 gene product) IN COMPLEX WITH THE INDENOINDOLE-TYPE INHIBITOR 4b (AR14)	2026	2025	X-ray	1.07		0	42544794	
+CSNK2A2	HGNC:2459	9T2X	Structure of protein kinase CK2 catalytic subunit CK2alpha' (CSNK2A2 gene product) in complex with the indenoindole-precursor compound JC0151	2026	2025	X-ray	1.1		0	42544794	
+CSNK2A2	HGNC:2459	9TM3	Monoclinic crystal structure of protein kinase CK2 catalytic subunit CK2alpha' (CSNK2A2 gene product) in complex with the indenoindole-precursor compo	2026	2025	X-ray	1.2		0	42544794	
+DYRK1B	HGNC:3092	8C2Z	Crystal structure of DYRK1B in complex with AZ191	2024	2022	X-ray	1.91	MN	0		
+DYRK2	HGNC:3093	3K2L	Crystal Structure of dual-specificity tyrosine phosphorylation regulated kinase 2 (DYRK2)	2009	2009	X-ray	2.36	NA	0	23665168	
+DYRK2	HGNC:3093	3KVW	Crystal Structure of dual-specificity tyrosine phosphorylation regulated kinase 2 (DYRK2) in complex with an indirubin ligand	2010	2009	X-ray	2.28		0		
+DYRK2	HGNC:3093	4AZF	Human DYRK2 in complex with Leucettine L41	2012	2012	X-ray	2.55		0	22998443	
+DYRK2	HGNC:3093	5LXC	Crystal structure of DYRK2 in complex with EHT 5372 (Compound 1)	2016	2016	X-ray	2.15		0	27766861	
+DYRK2	HGNC:3093	5LXD	Crystal structure of DYRK2 in complex with EHT 1610 (compound 2)	2016	2016	X-ray	2.58		0	27766861	
+DYRK2	HGNC:3093	5ZTN	The crystal structure of human DYRK2 in complex with Curcumin	2018	2018	X-ray	2.496		0	29987021	
+DYRK2	HGNC:3093	6HDP	Human DYRK2 bound to Scorzodihydrostilbene A	2019	2018	X-ray	2.3	NA	0		
+DYRK2	HGNC:3093	6HDR	Human DYRK2 bound to Curcumin	2019	2018	X-ray	2.2		0		
+DYRK2	HGNC:3093	6K0J	The co-crystal structure of DYRK2 with a small molecule inhibitor	2019	2019	X-ray	2.352		0	31754034	
+DYRK2	HGNC:3093	7AKF	Structure of DYRK2 in complex with compound 50	2021	2020	X-ray	2.6		0	33975430	
+DYRK2	HGNC:3093	7AKH	Structure of DYRK2 in complex with compound 58	2021	2020	X-ray	2.85		0	33975430	
+DYRK2	HGNC:3093	7DG4	The co-crystal structure of DYRK2 with a small molecule inhibitor 6	2021	2020	X-ray	2.58		0	35439114	
+DYRK2	HGNC:3093	7DH3	The co-crystal structure of DYRK2 with a small molecule inhibitor 5	2021	2020	X-ray	2.33		0		
+DYRK2	HGNC:3093	7DH9	The co-crystal structure of DYRK2 with a small molecule inhibitor 7	2021	2020	X-ray	2.194		0	35439114	
+DYRK2	HGNC:3093	7DHC	The co-crystal structure of DYRK2 with a small molecule inhibitor 10	2021	2020	X-ray	2.592		0	35439114	
+DYRK2	HGNC:3093	7DHH	The co-crystal structure of DYRK2 with a small molecule inhibitor 19	2021	2020	X-ray	2.486		0	35439114	
+DYRK2	HGNC:3093	7DHK	The co-crystal structure of DYRK2 with a small molecule inhibitor 13	2021	2020	X-ray	2.341		0	35439114	
+DYRK2	HGNC:3093	7DHN	The co-crystal structure of DYRK2 with a small molecule inhibitor 20	2021	2020	X-ray	2.38		0	35439114	
+DYRK2	HGNC:3093	7DHO	The co-crystal structure of DYRK2 with a small molecule inhibitor 14	2021	2020	X-ray	3.29		0	35439114	
+DYRK2	HGNC:3093	7DHV	The co-crystal structure of DYRK2 with a small molecule inhibitor 8	2021	2020	X-ray	2.679		0	35439114	
+DYRK2	HGNC:3093	7DJO	The co-crystal structure of DYRK2 with a small molecule inhibitor 17	2021	2020	X-ray	2.499		0	35439114	
+DYRK2	HGNC:3093	7DL6	The co-crystal structure of DYRK2 with a small molecule inhibitor 18	2021	2020	X-ray	2.648		0	35439114	
+DYRK2	HGNC:3093	7EJV	The co-crystal structure of DYRK2 with YK-2-69	2022	2021	X-ray	2.5		0	35614066	
+DYRK2	HGNC:3093	8HLT	The co-crystal structure of DYRK2 with YK-2-99B	2023	2022	X-ray	2.8		0	36800260	
+DYRK2	HGNC:3093	9KQY	The co-crystal structure of DYRK2 with TSL2109	2025	2024	X-ray	3.2		0		
+DYRK2	HGNC:3093	9MC0	The co-crystal structure of DYRK2 with AF-4	2026	2025	X-ray	2.87		0		
+DYRK3	HGNC:3094	5Y86	Crystal structure of kinase	2018	2017	X-ray	1.9		0	29634919	
+EEF2K	HGNC:24615	5J8H	Structure of calmodulin in a complex with a peptide derived from a calmodulin-dependent kinase	2016	2016	NMR		CA	0	27499441	
+EEF2K	HGNC:24615	5KS5	Structure of the C-terminal Helical Repeat Domain of Elongation Factor 2 Kinase	2016	2016	NMR			0	27571275	
+EEF2K	HGNC:24615	6NX4	Structure of the C-terminal Helical Repeat Domain of Eukaryotic Elongation Factor 2 Kinase (eEF-2K)	2019	2019	NMR			0	31108082	
+EEF2K	HGNC:24615	7SHQ	Structure of a functional construct of eukaryotic elongation factor 2 kinase in complex with calmodulin.	2022	2021	X-ray	2.34	CA;MG;ZN	0	35857468	
+EEF2K	HGNC:24615	8FNY	Nucleotide-bound structure of a functional construct of eukaryotic elongation factor 2 kinase.	2023	2022	X-ray	2.22	CA;ZN	0	37068230	
+EEF2K	HGNC:24615	8FO6	Nucleotide-free structure of a functional construct of eukaryotic elongation factor 2 kinase.	2023	2022	X-ray	2.553	CA;ZN	0	37068230	
+EEF2K	HGNC:24615	8GM4	Functional construct of the Eukaryotic elongation factor 2 kinase bound to an ATP-competitive inhibitor	2023	2023	X-ray	2.12	CA;ZN	0	37172726	
+EEF2K	HGNC:24615	8GM5	Functional construct of the Eukaryotic elongation factor 2 kinase bound to Calmodulin, ADP and to the A-484954 inhibitor and showing two conformations	2023	2023	X-ray	2.12	CA;ZN	0	37172726	
+EEF2K	HGNC:24615	9OCW	A constitutively active construct of eukaryotic elongation factor 2 kinase	2026	2025	X-ray	2.27	ADP;CA;MG;ZN	1	40885389	
+EEF2K	HGNC:24615	9PCQ	Phosphorylation of a Conserved Aspartate at the Eukaryotic Elongation Factor 2 Kinase Catalytic Site	2026	2025	X-ray	2.3	ADP;CA;MN;ZN	1	41432361	
+ERN2	HGNC:16942	9I3F	Crystal structure of the AGR2 and IRE1beta_loop complex	2025	2025	X-ray	1.9	MG	0	41135511	
+ERN2	HGNC:16942	9I3U	Cryo-EM structure of the AGR2 dimer in complex with the monomeric IRE1beta luminal domain	2025	2025	cryo-EM	2.9		0	41135511	

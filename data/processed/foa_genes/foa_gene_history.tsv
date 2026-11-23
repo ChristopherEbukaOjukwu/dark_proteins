@@ -1,0 +1,389 @@
+hgnc_id	gene	locus_type	family	printed_as	on_2018	on_2019	on_2020	on_2021	on_2022	pattern	n_lists	funded_rounds	n_awards	inferred_rounds
+HGNC:19038	ADCK1	gene with protein product	Kinase	ADCK1	1	1	1	1	1	11111	5		0	
+HGNC:19039	ADCK2	gene with protein product	Kinase	ADCK2	1	1	1	1	1	11111	5	5	1	
+HGNC:21738	ADCK5	gene with protein product	Kinase	ADCK5	1	1	1	1	1	11111	5		0	
+HGNC:13838	ADGRA1	gene with protein product	GPCR	ADGRA1	1	1	1	1	1	11111	5		0	
+HGNC:17849	ADGRA2	gene with protein product	GPCR	ADGRA2	0	0	0	0	1	00001	1		0	
+HGNC:13839	ADGRA3	gene with protein product	GPCR	ADGRA3	0	1	1	1	1	01111	4	4	1	
+HGNC:943	ADGRB1	gene with protein product	GPCR	ADGRB1	0	0	0	0	1	00001	1		0	
+HGNC:944	ADGRB2	gene with protein product	GPCR	ADGRB2	1	1	1	1	1	11111	5	1	1	
+HGNC:945	ADGRB3	gene with protein product	GPCR	ADGRB3	1	1	1	1	1	11111	5	1;2;5	5	
+HGNC:19893	ADGRD1	gene with protein product	GPCR	ADGRD1	1	1	1	1	1	11111	5		0	
+HGNC:18651	ADGRD2	gene with protein product	GPCR	ADGRD2	1	1	1	1	1	11111	5		0	
+HGNC:3336	ADGRE1	gene with protein product	GPCR	ADGRE1	1	1	1	1	1	11111	5		0	
+HGNC:3337	ADGRE2	gene with protein product	GPCR	ADGRE2	1	0	0	0	0	10000	1		0	
+HGNC:23647	ADGRE3	gene with protein product	GPCR	ADGRE3	1	1	1	1	1	11111	5		0	
+HGNC:18990	ADGRF1	gene with protein product	GPCR	ADGRF1	1	1	1	1	1	11111	5		0	
+HGNC:18991	ADGRF2P	pseudogene	GPCR	ADGRF2	1	1	1	1	1	11111	5		0	
+HGNC:18989	ADGRF3	gene with protein product	GPCR	ADGRF3	1	1	1	1	1	11111	5		0	
+HGNC:19011	ADGRF4	gene with protein product	GPCR	ADGRF4	1	1	1	1	1	11111	5		0	
+HGNC:19030	ADGRF5	gene with protein product	GPCR	ADGRF5	1	1	1	1	1	11111	5	3	1	
+HGNC:4516	ADGRG2	gene with protein product	GPCR	ADGRG2	1	1	1	1	1	11111	5		0	
+HGNC:13728	ADGRG3	gene with protein product	GPCR	ADGRG3	1	1	1	1	1	11111	5		0	
+HGNC:18992	ADGRG4	gene with protein product	GPCR	ADGRG4	1	1	1	1	1	11111	5		0	
+HGNC:19010	ADGRG5	gene with protein product	GPCR	ADGRG5	1	1	1	1	1	11111	5		0	
+HGNC:19241	ADGRG7	gene with protein product	GPCR	ADGRG7	1	1	1	1	1	11111	5		0	
+HGNC:20565	ALPK2	gene with protein product	Kinase	ALPK2	1	1	1	1	1	11111	5		0	
+HGNC:17574	ALPK3	gene with protein product	Kinase	ALPK3	1	1	1	1	1	11111	5		0	
+HGNC:21263	ASIC4	gene with protein product	Ion channel	ASIC4	1	1	1	1	1	11111	5		0	
+HGNC:16902	BCKDK	gene with protein product	Kinase	BCKDK	1	1	1	1	1	11111	5	1	1	
+HGNC:17106	BEST4	gene with protein product	Ion channel	BEST4	1	1	1	1	1	11111	5		0	
+HGNC:18994	BRSK1	gene with protein product	Kinase	BRSK1	0	1	1	1	1	01111	4		0	
+HGNC:1391	CACNA1D	gene with protein product	Ion channel	CACNA1D	0	0	0	1	1	00011	2		0	
+HGNC:1400	CACNA2D2	gene with protein product	Ion channel	CACNA2D2	1	1	1	1	1	11111	5	3;4	2	
+HGNC:15460	CACNA2D3	gene with protein product	Ion channel	CACNA2D3	1	1	1	1	1	11111	5	2;3;4	3	
+HGNC:20202	CACNA2D4	gene with protein product	Ion channel	CACNA2D4	1	1	1	1	1	11111	5	1	1	
+HGNC:1401	CACNB1	gene with protein product	Ion channel	CACNB1	1	0	0	0	0	10000	1	1	1	
+HGNC:1402	CACNB2	gene with protein product	Ion channel	CACNB2	1	0	0	0	0	10000	1		0	
+HGNC:1403	CACNB3	gene with protein product	Ion channel	CACNB3	1	0	0	0	0	10000	1		0	
+HGNC:1404	CACNB4	gene with protein product	Ion channel	CACNB4	1	0	0	0	0	10000	1		0	
+HGNC:1405	CACNG1	gene with protein product	Ion channel	CACNG1	1	1	1	1	1	11111	5		0	
+HGNC:1407	CACNG3	gene with protein product	Ion channel	CACNG3	1	1	1	1	1	11111	5	3	1	
+HGNC:1408	CACNG4	gene with protein product	Ion channel	CACNG4	1	1	1	1	1	11111	5	3	1	
+HGNC:1409	CACNG5	gene with protein product	Ion channel	CACNG5	1	1	1	1	1	11111	5	3;4	2	
+HGNC:13625	CACNG6	gene with protein product	Ion channel	CACNG6	1	1	1	1	1	11111	5		0	
+HGNC:13626	CACNG7	gene with protein product	Ion channel	CACNG7	1	1	1	1	1	11111	5	3;4	2	
+HGNC:13628	CACNG8	gene with protein product	Ion channel	CACNG8	1	1	1	1	1	11111	5	3	1	
+HGNC:21094	CALHM4	gene with protein product	Ion channel	CALHM4/FAM26D	1	1	1	1	1	11111	5	2	1	
+HGNC:21568	CALHM5	gene with protein product	Ion channel	CALHM5/FAM26E	1	1	1	1	1	11111	5	2	1	
+HGNC:33391	CALHM6	gene with protein product	Ion channel	CALHM6/FAM26F	1	1	1	1	1	11111	5	2;4	2	
+HGNC:19341	CAMK1D	gene with protein product	Kinase	CAMK1D	1	1	1	1	1	11111	5	2	1	
+HGNC:14585	CAMK1G	gene with protein product	Kinase	CAMK1G	1	1	1	1	1	11111	5		0	
+HGNC:1469	CAMKK1	gene with protein product	Kinase	CAMKK1	1	1	1	1	1	11111	5		0	
+HGNC:28788	CAMKV	gene with protein product	Kinase	CAMKV	1	1	1	1	1	11111	5	5	1	
+HGNC:18810	CATSPER2	gene with protein product	Ion channel	CATSPER2	1	1	1	1	1	11111	5		0	
+HGNC:1737	CDC42BPA	gene with protein product	Kinase	CDC42BPA	0	1	1	1	1	01111	4	3	1	
+HGNC:1738	CDC42BPB	gene with protein product	Kinase	CDC42BPB	1	1	1	1	1	11111	5	3	1	
+HGNC:29829	CDC42BPG	gene with protein product	Kinase	CDC42BPG	1	1	1	1	1	11111	5	3;4	2	
+HGNC:1770	CDK10	gene with protein product	Kinase	CDK10	1	1	1	1	1	11111	5	2	1	
+HGNC:1730	CDK11A	gene with protein product	Kinase	CDK11A	0	1	1	0	0	01100	2		0	
+HGNC:1729	CDK11B	gene with protein product	Kinase	CDK11B	1	1	1	0	0	11100	3		0	
+HGNC:24224	CDK12	gene with protein product	Kinase	CDK12	0	1	1	1	0	01110	3		0	
+HGNC:1733	CDK13	gene with protein product	Kinase	CDK13	0	1	1	1	0	01110	3		0	
+HGNC:8883	CDK14	gene with protein product	Kinase	CDK14	1	1	1	1	1	11111	5		0	
+HGNC:14434	CDK15	gene with protein product	Kinase	CDK15	1	1	1	1	1	11111	5		0	
+HGNC:8749	CDK16	gene with protein product	Kinase	CDK16	0	1	1	0	0	01100	2		0	
+HGNC:8750	CDK17	gene with protein product	Kinase	CDK17	1	1	1	0	0	11100	3		0	
+HGNC:8751	CDK18	gene with protein product	Kinase	CDK18	1	1	1	0	0	11100	3		0	
+HGNC:19338	CDK19	gene with protein product	Kinase	CDK19	0	1	1	1	1	01111	4	3;5	2	
+HGNC:21420	CDK20	gene with protein product	Kinase	CDK20	0	1	1	1	1	01111	4		0	
+HGNC:1781	CDKL1	gene with protein product	Kinase	CDKL1	1	1	1	1	1	11111	5	3	1	
+HGNC:1782	CDKL2	gene with protein product	Kinase	CDKL2	1	1	1	0	0	11100	3		0	
+HGNC:15483	CDKL3	gene with protein product	Kinase	CDKL3	1	1	1	1	1	11111	5		0	
+HGNC:19287	CDKL4	gene with protein product	Kinase	CDKL4	1	1	1	1	1	11111	5		0	
+HGNC:13800	CHRNA10	gene with protein product	Ion channel	CHRNA10	1	1	1	1	1	11111	5		0	
+HGNC:1956	CHRNA2	gene with protein product	Ion channel	CHRNA2	1	0	0	0	0	10000	1		0	
+HGNC:1961	CHRNB1	gene with protein product	Ion channel	CHRNB1	1	1	1	1	1	11111	5		0	
+HGNC:1965	CHRND	gene with protein product	Ion channel	CHRND	1	0	0	0	0	10000	1		0	
+HGNC:21219	CILK1	gene with protein product	Kinase	ICK	0	1	1	1	1	01111	4		0	
+HGNC:2016	CLCA2	gene with protein product	Ion channel	CLCA2	1	0	0	0	0	10000	1		0	
+HGNC:2018	CLCA4	gene with protein product	Ion channel	CLCA4	1	1	1	1	1	11111	5	3	1	
+HGNC:29675	CLCC1	gene with protein product	Ion channel	CLCC1	1	1	1	1	1	11111	5		0	1;4
+HGNC:2024	CLCN6	gene with protein product	Ion channel	CLCN6	1	1	1	1	1	11111	5		0	
+HGNC:2026	CLCNKA	gene with protein product	Ion channel	CLCNKA	1	0	0	0	0	10000	1		0	
+HGNC:2063	CLIC2	gene with protein product	Ion channel	CLIC2	1	0	0	0	0	10000	1		0	
+HGNC:2064	CLIC3	gene with protein product	Ion channel	CLIC3	1	0	0	0	0	10000	1		0	
+HGNC:13517	CLIC5	gene with protein product	Ion channel	CLIC5	1	0	0	0	0	10000	1		0	
+HGNC:2065	CLIC6	gene with protein product	Ion channel	CLIC6	1	1	1	1	1	11111	5	4	1	
+HGNC:2071	CLK3	gene with protein product	Kinase	CLK3	1	1	1	1	1	11111	5	3	1	
+HGNC:13659	CLK4	gene with protein product	Kinase	CLK4	1	1	1	1	1	11111	5		0	
+HGNC:2152	CNGA4	gene with protein product	Ion channel	CNGA4	1	0	0	0	0	10000	1		0	
+HGNC:16812	COQ8A	gene with protein product	Kinase	COQ8A	1	1	1	1	1	11111	5		0	
+HGNC:19041	COQ8B	gene with protein product	Kinase	COQ8B	1	1	1	1	1	11111	5		0	
+HGNC:20289	CSNK1A1L	gene with protein product	Kinase	CSNK1A1L	0	1	1	1	1	01111	4		0	
+HGNC:2454	CSNK1G1	gene with protein product	Kinase	CSNK1G1	1	1	1	1	1	11111	5		0	
+HGNC:2455	CSNK1G2	gene with protein product	Kinase	CSNK1G2	1	1	1	1	1	11111	5		0	
+HGNC:2456	CSNK1G3	gene with protein product	Kinase	CSNK1G3	1	1	1	1	1	11111	5		0	
+HGNC:2459	CSNK2A2	gene with protein product	Kinase	CSNK2A2	1	0	0	0	0	10000	1		0	
+HGNC:2458	CSNK2A3	gene with protein product	Kinase	CSNK2A3	0	1	1	1	1	01111	4		0	
+HGNC:19005	DCLK3	gene with protein product	Kinase	DCLK3	0	1	1	1	1	01111	4		0	
+HGNC:29043	DSTYK	gene with protein product	Kinase	DSTYK	1	1	1	1	1	11111	5		0	
+HGNC:3092	DYRK1B	gene with protein product	Kinase	DYRK1B	1	1	1	1	1	11111	5	3;5	2	
+HGNC:3093	DYRK2	gene with protein product	Kinase	DYRK2	1	1	1	1	0	11110	4	3	2	
+HGNC:3094	DYRK3	gene with protein product	Kinase	DYRK3	1	1	1	1	1	11111	5	3	1	
+HGNC:3095	DYRK4	gene with protein product	Kinase	DYRK4	1	1	1	1	1	11111	5	3	1	
+HGNC:24615	EEF2K	gene with protein product	Kinase	EEF2K	1	1	1	1	1	11111	5		0	
+HGNC:16942	ERN2	gene with protein product	Kinase	ERN2	1	1	1	1	1	11111	5		0	
+HGNC:4027	FXYD3	gene with protein product	Ion channel	FXYD3	1	0	0	0	0	10000	1		0	
+HGNC:4034	FXYD7	gene with protein product	Ion channel	FXYD7	1	0	0	0	0	10000	1		0	
+HGNC:4039	FZD10	gene with protein product	GPCR	FZD10	1	1	1	1	1	11111	5		0	
+HGNC:4086	GABRG1	gene with protein product	Ion channel	GABRG1	1	0	0	0	0	10000	1		0	
+HGNC:4089	GABRP	gene with protein product	Ion channel	GABRP	1	1	1	1	1	11111	5		0	
+HGNC:4090	GABRR1	gene with protein product	Ion channel	GABRR1	1	0	0	0	0	10000	1		0	
+HGNC:4328	GLRA3	gene with protein product	Ion channel	GLRA3	1	0	0	0	0	10000	1		0	
+HGNC:31715	GLRA4	pseudogene	Ion channel	GLRA4	1	0	0	0	0	10000	1		0	
+HGNC:4329	GLRB	gene with protein product	Ion channel	GLRB	1	0	0	0	0	10000	1		0	
+HGNC:16341	GNRHR2	pseudogene	GPCR	GNRHR2	1	1	1	1	1	11111	5		0	
+HGNC:31984	GPHRA	gene with protein product	Ion channel	GPR89A	1	1	1	1	1	11111	5		0	
+HGNC:13840	GPHRB	gene with protein product	Ion channel	GPR89B	1	1	1	1	1	11111	5		0	
+HGNC:14963	GPR101	gene with protein product	GPCR	GPR101	1	1	1	1	1	11111	5		0	
+HGNC:4466	GPR12	gene with protein product	GPCR	GPR12	1	1	1	1	1	11111	5	1	1	
+HGNC:19991	GPR135	gene with protein product	GPCR	GPR135	1	1	1	1	1	11111	5	1;4	2	
+HGNC:24300	GPR137	gene with protein product	GPCR	GPR137	1	1	1	1	1	11111	5		0	
+HGNC:19995	GPR139	gene with protein product	GPCR	GPR139	1	1	1	1	1	11111	5		0	
+HGNC:19997	GPR141	gene with protein product	GPCR	GPR141	1	1	1	1	1	11111	5		0	
+HGNC:20088	GPR142	gene with protein product	GPCR	GPR142	1	1	1	1	1	11111	5		0	
+HGNC:20145	GPR143	gene with protein product	GPCR	GPR143	1	0	0	0	0	10000	1		0	
+HGNC:21718	GPR146	gene with protein product	GPCR	GPR146	1	1	1	1	1	11111	5		0	
+HGNC:23627	GPR149	gene with protein product	GPCR	GPR149	1	1	1	1	1	11111	5	3	1	
+HGNC:23628	GPR150	gene with protein product	GPCR	GPR150	1	1	1	1	1	11111	5		0	
+HGNC:23624	GPR151	gene with protein product	GPCR	GPR151	1	1	1	1	1	11111	5	1	1	
+HGNC:23622	GPR152	gene with protein product	GPCR	GPR152	1	1	1	1	1	11111	5		0	
+HGNC:23618	GPR153	gene with protein product	GPCR	GPR153	1	1	1	1	1	11111	5		0	
+HGNC:20844	GPR156	gene with protein product	GPCR	GPR156	1	1	1	1	1	11111	5		0	
+HGNC:23687	GPR157	gene with protein product	GPCR	GPR157	1	1	1	1	1	11111	5		0	
+HGNC:23693	GPR160	gene with protein product	GPCR	GPR160	1	1	1	1	1	11111	5		0	
+HGNC:16693	GPR162	gene with protein product	GPCR	GPR162	1	1	1	1	1	11111	5	2;3	2	
+HGNC:30057	GPR171	gene with protein product	GPCR	GPR171	1	1	1	1	1	11111	5	3	1	
+HGNC:18186	GPR173	gene with protein product	GPCR	GPR173	1	1	1	1	1	11111	5		0	
+HGNC:30245	GPR174	gene with protein product	GPCR	GPR174	1	1	1	1	1	11111	5		0	
+HGNC:4472	GPR18	gene with protein product	GPCR	GPR18	1	1	1	1	1	11111	5		0	
+HGNC:4473	GPR19	gene with protein product	GPCR	GPR19	1	1	1	1	1	11111	5	1	1	
+HGNC:4475	GPR20	gene with protein product	GPCR	GPR20	1	1	1	1	1	11111	5		0	
+HGNC:4476	GPR21	gene with protein product	GPCR	GPR21	1	1	1	1	1	11111	5		0	
+HGNC:4477	GPR22	gene with protein product	GPCR	GPR22	1	1	1	1	1	11111	5	1	1	
+HGNC:4480	GPR25	gene with protein product	GPCR	GPR25	1	1	1	1	1	11111	5		0	
+HGNC:4481	GPR26	gene with protein product	GPCR	GPR26	1	1	1	1	1	11111	5		0	
+HGNC:4482	GPR27	gene with protein product	GPCR	GPR27	1	1	1	1	1	11111	5	1	1	
+HGNC:4484	GPR3	gene with protein product	GPCR	GPR3	0	1	1	1	1	01111	4		0	
+HGNC:4486	GPR31	gene with protein product	GPCR	GPR31	1	1	1	1	1	11111	5	2	2	
+HGNC:4487	GPR32	gene with protein product	GPCR	GPR32	1	1	1	1	1	11111	5	3	1	
+HGNC:4488	GPR32P1	pseudogene	GPCR	GPR32P1	1	0	0	0	0	10000	1		0	
+HGNC:4490	GPR34	gene with protein product	GPCR	GPR34	1	1	1	1	1	11111	5		0	
+HGNC:14923	GPR37L1	gene with protein product	GPCR	GPR37L1	1	1	1	1	1	11111	5		0	
+HGNC:4496	GPR39	gene with protein product	GPCR	GPR39	1	0	0	0	0	10000	1		0	
+HGNC:4497	GPR4	gene with protein product	GPCR	GPR4	1	1	1	1	1	11111	5	1	1	
+HGNC:4503	GPR45	gene with protein product	GPCR	GPR45	1	1	1	1	1	11111	5	4	1	
+HGNC:4506	GPR50	gene with protein product	GPCR	GPR50	1	0	0	0	0	10000	1	1	1	
+HGNC:4508	GPR52	gene with protein product	GPCR	GPR52	1	1	1	1	1	11111	5		0	
+HGNC:4515	GPR6	gene with protein product	GPCR	GPR6	1	1	1	1	1	11111	5	1	1	
+HGNC:13300	GPR61	gene with protein product	GPCR	GPR61	1	1	1	1	1	11111	5	1;3	2	
+HGNC:13301	GPR62	gene with protein product	GPCR	GPR62	1	1	1	1	1	11111	5		0	
+HGNC:13302	GPR63	gene with protein product	GPCR	GPR63	1	1	1	1	1	11111	5	4	1	
+HGNC:4517	GPR65	gene with protein product	GPCR	GPR65	0	1	1	1	1	01111	4	3	1	
+HGNC:4519	GPR68	gene with protein product	GPCR	GPR68	1	1	1	0	0	11100	3	1;3	3	
+HGNC:4526	GPR75	gene with protein product	GPCR	GPR75	1	1	1	1	1	11111	5	5	1	
+HGNC:4528	GPR78	gene with protein product	GPCR	GPR78	1	1	1	1	1	11111	5		0	
+HGNC:4533	GPR82	gene with protein product	GPCR	GPR82	1	1	1	1	1	11111	5		0	
+HGNC:4536	GPR85	gene with protein product	GPCR	GPR85	1	1	1	1	1	11111	5	1;2	2	
+HGNC:4538	GPR87	gene with protein product	GPCR	GPR87	1	1	1	1	1	11111	5		0	
+HGNC:4539	GPR88	gene with protein product	GPCR	GPR88	1	1	1	1	1	11111	5	2	1	
+HGNC:9836	GPRC5A	gene with protein product	GPCR	GPRC5A	1	1	1	1	1	11111	5		0	
+HGNC:13308	GPRC5B	gene with protein product	GPCR	GPRC5B	1	1	1	1	1	11111	5	3;4	2	
+HGNC:13309	GPRC5C	gene with protein product	GPCR	GPRC5C	1	1	1	1	1	11111	5		0	
+HGNC:13310	GPRC5D	gene with protein product	GPCR	GPRC5D	1	1	1	1	1	11111	5		0	
+HGNC:4575	GRID1	gene with protein product	Ion channel	GRID1	1	1	1	1	1	11111	5	3	1	
+HGNC:4581	GRIK3	gene with protein product	Ion channel	GRIK3	1	0	0	0	0	10000	1		0	
+HGNC:4532	HCAR1	gene with protein product	GPCR	HCAR1	1	1	1	1	1	11111	5	5	1	
+HGNC:16824	HCAR3	gene with protein product	GPCR	HCAR3	1	1	1	1	1	11111	5	1;2	2	
+HGNC:19006	HIPK1	gene with protein product	Kinase	HIPK1	0	1	1	1	1	01111	4	2	1	
+HGNC:4915	HIPK3	gene with protein product	Kinase	HIPK3	0	1	1	1	1	01111	4		0	
+HGNC:19007	HIPK4	gene with protein product	Kinase	HIPK4	1	1	1	1	1	11111	5		0	
+HGNC:24003	HTR3C	gene with protein product	Ion channel	HTR3C	1	0	0	0	0	10000	1		0	
+HGNC:24004	HTR3D	gene with protein product	Ion channel	HTR3D	1	0	0	0	0	10000	1		0	
+HGNC:24005	HTR3E	gene with protein product	Ion channel	HTR3E	1	0	0	0	0	10000	1		0	
+HGNC:6225	KCNA6	gene with protein product	Ion channel	KCNA6	1	1	1	1	1	11111	5	2;5	2	
+HGNC:6226	KCNA7	gene with protein product	Ion channel	KCNA7	1	1	1	1	1	11111	5		0	
+HGNC:6229	KCNAB2	gene with protein product	Ion channel	KCNAB2	1	1	1	1	1	11111	5	2	1	
+HGNC:6230	KCNAB3	gene with protein product	Ion channel	KCNAB3	1	1	1	1	1	11111	5		0	
+HGNC:6236	KCNC4	gene with protein product	Ion channel	KCNC4	1	0	0	0	0	10000	1		0	
+HGNC:6237	KCND1	gene with protein product	Ion channel	KCND1	1	1	1	1	1	11111	5		0	
+HGNC:6249	KCNG2	gene with protein product	Ion channel	KCNG2	1	1	1	1	1	11111	5	4	1	
+HGNC:18306	KCNG3	gene with protein product	Ion channel	KCNG3	1	1	1	1	1	11111	5	4	1	
+HGNC:19697	KCNG4	gene with protein product	Ion channel	KCNG4	1	1	1	1	1	11111	5	4	1	
+HGNC:6253	KCNH4	gene with protein product	Ion channel	KCNH4	1	1	1	1	1	11111	5	4	1	
+HGNC:18862	KCNH6	gene with protein product	Ion channel	KCNH6	1	1	1	1	1	11111	5		0	
+HGNC:18864	KCNH8	gene with protein product	Ion channel	KCNH8	1	1	1	1	1	11111	5	4	1	
+HGNC:15521	KCNIP1	gene with protein product	Ion channel	KCNIP1	1	0	0	0	0	10000	1		0	
+HGNC:30083	KCNIP4	gene with protein product	Ion channel	KCNIP4	1	0	0	0	0	10000	1		0	
+HGNC:6260	KCNJ14	gene with protein product	Ion channel	KCNJ14	1	0	0	0	0	10000	1		0	
+HGNC:6261	KCNJ15	gene with protein product	Ion channel	KCNJ15	1	1	1	1	1	11111	5	3	1	
+HGNC:39080	KCNJ18	gene with protein product	Ion channel	KCNJ18	1	1	1	1	1	11111	5		0	
+HGNC:6274	KCNK12	gene with protein product	Ion channel	KCNK12	1	1	1	1	1	11111	5	5	1	
+HGNC:6279	KCNK4	gene with protein product	Ion channel	KCNK4	1	0	0	0	0	10000	1		0	
+HGNC:6282	KCNK7	gene with protein product	Ion channel	KCNK7	1	1	1	1	1	11111	5		0	
+HGNC:6287	KCNMB3	gene with protein product	Ion channel	KCNMB3	1	1	1	1	1	11111	5		0	
+HGNC:6289	KCNMB4	gene with protein product	Ion channel	KCNMB4	1	0	0	0	0	10000	1		0	
+HGNC:6290	KCNN1	gene with protein product	Ion channel	KCNN1	1	1	1	1	1	11111	5	5	1	
+HGNC:6300	KCNS1	gene with protein product	Ion channel	KCNS1	1	1	1	1	1	11111	5	4	1	
+HGNC:6301	KCNS2	gene with protein product	Ion channel	KCNS2	1	1	1	1	1	11111	5		0	
+HGNC:6302	KCNS3	gene with protein product	Ion channel	KCNS3	1	0	0	0	0	10000	1		0	
+HGNC:18865	KCNT1	gene with protein product	Ion channel	KCNT1	1	0	0	0	0	10000	1		0	
+HGNC:18866	KCNT2	gene with protein product	Ion channel	KCNT2	1	0	0	0	0	10000	1		0	
+HGNC:18861	KCNV1	gene with protein product	Ion channel	KCNV1	1	0	0	0	0	10000	1		0	
+HGNC:17880	LMTK2	gene with protein product	Kinase	LMTK2	0	1	1	1	1	01111	4		0	
+HGNC:19295	LMTK3	gene with protein product	Kinase	LMTK3	1	1	1	1	1	11111	5		0	
+HGNC:15520	LPAR6	gene with protein product	GPCR	LPAR6	1	1	1	1	1	11111	5		0	
+HGNC:27005	LRRC38	gene with protein product	Ion channel	LRRC38	1	1	1	1	1	11111	5		0	
+HGNC:32324	LRRC55	gene with protein product	Ion channel	LRRC55	1	1	1	1	1	11111	5		0	
+HGNC:18608	LRRK1	gene with protein product	Kinase	LRRK1	1	1	1	1	1	11111	5		0	
+HGNC:6721	LTK	gene with protein product	Kinase	LTK	1	1	1	1	0	11110	4		0	
+HGNC:6849	MAP3K10	gene with protein product	Kinase	MAP3K10	1	1	1	1	1	11111	5	5	1	
+HGNC:6853	MAP3K14	gene with protein product	Kinase	MAP3K14	1	1	1	1	1	11111	5		0	
+HGNC:31689	MAP3K15	gene with protein product	Kinase	MAP3K15	0	1	1	1	1	01111	4		0	
+HGNC:29798	MAP3K21	gene with protein product	Kinase	MAP3K21	0	1	1	1	1	01111	4		0	
+HGNC:24667	MAPK15	gene with protein product	Kinase	MAPK15	1	1	1	1	1	11111	5	4	1	
+HGNC:6878	MAPK4	gene with protein product	Kinase	MAPK4	1	1	1	1	1	11111	5	4	1	
+HGNC:6896	MARK1	gene with protein product	Kinase	MARK1	0	1	1	1	1	01111	4		0	
+HGNC:6897	MARK3	gene with protein product	Kinase	MARK3	0	1	1	1	0	01110	3		0	
+HGNC:13538	MARK4	gene with protein product	Kinase	MARK4	1	1	1	1	1	11111	5		0	
+HGNC:13961	MAS1L	gene with protein product	GPCR	MAS1L	1	0	0	0	0	10000	1		0	
+HGNC:19035	MAST2	gene with protein product	Kinase	MAST2	1	1	1	1	1	11111	5		0	
+HGNC:19036	MAST3	gene with protein product	Kinase	MAST3	1	1	1	1	1	11111	5	3	1	
+HGNC:19037	MAST4	gene with protein product	Kinase	MAST4	1	1	1	1	1	11111	5	5	1	
+HGNC:7111	MKNK2	gene with protein product	Kinase	MKNK2	1	1	1	1	1	11111	5		0	
+HGNC:30694	MRGPRE	gene with protein product	GPCR	MRGPRE	1	1	1	1	1	11111	5		0	
+HGNC:24828	MRGPRF	gene with protein product	GPCR	MRGPRF	1	1	1	1	1	11111	5		0	
+HGNC:24829	MRGPRG	gene with protein product	GPCR	MRGPRG	1	1	1	1	1	11111	5		0	
+HGNC:17962	MRGPRX1	gene with protein product	GPCR	MRGPRX1	0	1	1	1	1	01111	4		0	
+HGNC:17983	MRGPRX2	gene with protein product	GPCR	MRGPRX2	1	1	1	1	0	11110	4		0	
+HGNC:17980	MRGPRX3	gene with protein product	GPCR	MRGPRX3	1	1	1	1	1	11111	5		0	
+HGNC:17617	MRGPRX4	gene with protein product	GPCR	MRGPRX4	1	1	1	1	0	11110	4		0	
+HGNC:7744	NEK1	gene with protein product	Kinase	NEK1	0	1	1	1	1	01111	4		0	
+HGNC:18592	NEK10	gene with protein product	Kinase	NEK10	1	1	1	1	1	11111	5		0	
+HGNC:18593	NEK11	gene with protein product	Kinase	NEK11	1	1	1	1	1	11111	5		0	
+HGNC:7746	NEK3	gene with protein product	Kinase	NEK3	0	1	1	1	1	01111	4		0	
+HGNC:11399	NEK4	gene with protein product	Kinase	NEK4	1	1	1	1	1	11111	5		0	
+HGNC:7748	NEK5	gene with protein product	Kinase	NEK5	1	1	1	1	1	11111	5	2	1	
+HGNC:7749	NEK6	gene with protein product	Kinase	NEK6	1	1	1	1	1	11111	5	3	1	
+HGNC:13386	NEK7	gene with protein product	Kinase	NEK7	1	1	1	1	1	11111	5	3	1	
+HGNC:18591	NEK9	gene with protein product	Kinase	NEK9	0	1	1	1	0	01110	3	3	1	
+HGNC:28646	NIM1K	gene with protein product	Kinase	NIM1K	1	1	1	1	1	11111	5		0	
+HGNC:4522	NPBWR1	gene with protein product	GPCR	NPBWR1	1	1	1	1	1	11111	5	2	1	
+HGNC:4530	NPBWR2	gene with protein product	GPCR	NPBWR2	1	1	1	1	1	11111	5		0	
+HGNC:7957	NPY2R	gene with protein product	GPCR	NPY2R	1	0	0	0	0	10000	1	1	1	
+HGNC:7958	NPY5R	gene with protein product	GPCR	NPY5R	1	0	0	0	0	10000	1		0	
+HGNC:19339	NRBP2	gene with protein product	Kinase	NRBP2	1	1	1	1	1	11111	5		0	
+HGNC:25391	NRK	gene with protein product	Kinase	NRK	1	1	1	1	1	11111	5		0	
+HGNC:29558	NUAK2	gene with protein product	Kinase	NUAK2	0	1	1	1	1	01111	4	2	1	
+HGNC:24884	OXER1	gene with protein product	GPCR	OXER1	1	1	1	1	1	11111	5		0	
+HGNC:4531	OXGR1	gene with protein product	GPCR	OXGR1	1	1	1	1	1	11111	5		0	
+HGNC:19906	P2RY10	gene with protein product	GPCR	P2RY10	1	1	1	1	1	11111	5		0	
+HGNC:8540	P2RY11	gene with protein product	GPCR	P2RY11	1	0	0	0	0	10000	1		0	
+HGNC:8592	PAK3	gene with protein product	Kinase	PAK3	1	1	1	1	1	11111	5	2	1	
+HGNC:15916	PAK5	gene with protein product	Kinase	PAK5	1	1	1	1	1	11111	5		0	
+HGNC:16061	PAK6	gene with protein product	Kinase	PAK6	1	1	1	1	1	11111	5		0	
+HGNC:29991	PAN3	gene with protein product	Kinase	PAN3	1	1	1	1	1	11111	5		0	
+HGNC:8600	PANX2	gene with protein product	Ion channel	PANX2	1	0	0	0	0	10000	1		0	
+HGNC:18981	PDIK1L	gene with protein product	Kinase	PDIK1L	1	1	1	1	1	11111	5		0	
+HGNC:8930	PHKG1	gene with protein product	Kinase	PHKG1	1	1	1	1	0	11110	4		0	
+HGNC:8931	PHKG2	gene with protein product	Kinase	PHKG2	1	1	1	1	1	11111	5		0	
+HGNC:8983	PI4KA	gene with protein product	Kinase	PI4KA	1	1	1	1	1	11111	5		0	
+HGNC:8972	PIK3C2B	gene with protein product	Kinase	PIK3C2B	1	1	1	1	1	11111	5		0	
+HGNC:8973	PIK3C2G	gene with protein product	Kinase	PIK3C2G	1	1	1	1	1	11111	5		0	
+HGNC:23786	PIP4K2C	gene with protein product	Kinase	PIP4K2C	1	1	1	1	0	11110	4		0	
+HGNC:8994	PIP5K1A	gene with protein product	Kinase	PIP5K1A	1	1	1	1	1	11111	5	3;5	2	
+HGNC:8995	PIP5K1B	gene with protein product	Kinase	PIP5K1B	1	1	1	1	1	11111	5	5	1	
+HGNC:8996	PIP5K1C	gene with protein product	Kinase	PIP5K1C	0	1	1	1	1	01111	4		0	
+HGNC:21715	PKD1L2	gene with protein product	Ion channel	PKD1L2	1	1	1	1	1	11111	5		0	
+HGNC:21716	PKD1L3	gene with protein product	Ion channel	PKD1L3	1	1	1	1	1	11111	5		0	
+HGNC:9012	PKD2L2	gene with protein product	Ion channel	PKD2L2	1	1	1	1	1	11111	5	4	2	
+HGNC:29650	PKMYT1	gene with protein product	Kinase	PKMYT1	1	1	1	1	1	11111	5		0	
+HGNC:17999	PKN3	gene with protein product	Kinase	PKN3	1	1	1	1	1	11111	5	1	1	
+HGNC:18553	PLLP	gene with protein product	Ion channel	PLLP	1	1	1	1	1	11111	5		0	
+HGNC:13415	PNCK	gene with protein product	Kinase	PNCK	1	1	1	1	1	11111	5	5	1	
+HGNC:26267	POMK	gene with protein product	Kinase	POMK	1	1	1	1	1	11111	5		0	
+HGNC:25438	PRAG1	gene with protein product	Kinase	PRAG1	1	0	0	0	0	10000	1		0	
+HGNC:9381	PRKACB	gene with protein product	Kinase	PRKACB	1	1	1	1	1	11111	5	1	1	3
+HGNC:9382	PRKACG	gene with protein product	Kinase	PRKACG	1	1	1	1	1	11111	5		0	3
+HGNC:9410	PRKCQ	gene with protein product	Kinase	PRKCQ	1	0	0	0	0	10000	1	1	1	
+HGNC:4524	PROKR1	gene with protein product	GPCR	PROKR1	1	1	1	1	1	11111	5	1	1	
+HGNC:17346	PRP4K	gene with protein product	Kinase	PRPF4B	1	1	1	1	1	11111	5		0	
+HGNC:9529	PSKH1	gene with protein product	Kinase	PSKH1	1	1	1	1	1	11111	5		0	
+HGNC:18997	PSKH2	gene with protein product	Kinase	PSKH2	1	1	1	1	1	11111	5		0	
+HGNC:23326	PXK	gene with protein product	Kinase	PXK	1	1	1	1	1	11111	5		0	
+HGNC:15565	QRFPR	gene with protein product	GPCR	QRFPR	1	1	1	1	1	11111	5		0	
+HGNC:18656	RIOK1	gene with protein product	Kinase	RIOK1	1	1	1	1	1	11111	5		0	
+HGNC:18999	RIOK2	gene with protein product	Kinase	RIOK2	1	1	1	1	0	11110	4	2	1	
+HGNC:11451	RIOK3	gene with protein product	Kinase	RIOK3	1	1	1	1	1	11111	5	1	1	
+HGNC:10439	RPS6KC1	gene with protein product	Kinase	RPS6KC1	1	1	1	1	1	11111	5		0	
+HGNC:20222	RPS6KL1	gene with protein product	Kinase	RPS6KL1	1	1	1	1	1	11111	5		0	
+HGNC:26314	RSKR	gene with protein product	Kinase	SGK494	1	1	1	1	1	11111	5		0	
+HGNC:24883	RXFP3	gene with protein product	GPCR	RXFP3	1	0	0	0	0	10000	1		0	
+HGNC:14666	RXFP4	gene with protein product	GPCR	RXFP4	1	1	1	1	1	11111	5		0	
+HGNC:17699	SBK1	gene with protein product	Kinase	SBK1	1	0	0	0	0	10000	1		0	
+HGNC:34416	SBK2	gene with protein product	Kinase	SBK2	1	1	1	1	1	11111	5		0	
+HGNC:44121	SBK3	gene with protein product	Kinase	SBK3	1	1	1	1	1	11111	5		0	
+HGNC:10589	SCN2B	gene with protein product	Ion channel	SCN2B	1	0	0	0	0	10000	1		0	
+HGNC:20665	SCN3B	gene with protein product	Ion channel	SCN3B	1	0	0	0	0	10000	1		0	
+HGNC:10594	SCN7A	gene with protein product	Ion channel	SCN7A	1	1	1	1	1	11111	5		0	
+HGNC:10600	SCNN1B	gene with protein product	Ion channel	SCNN1B	1	0	0	0	0	10000	1		0	
+HGNC:10601	SCNN1D	gene with protein product	Ion channel	SCNN1D	1	0	0	0	0	10000	1		0	
+HGNC:14372	SCYL1	gene with protein product	Kinase	SCYL1	1	0	0	0	0	10000	1		0	
+HGNC:19286	SCYL2	gene with protein product	Kinase	SCYL2	1	1	1	1	1	11111	5		0	
+HGNC:19285	SCYL3	gene with protein product	Kinase	SCYL3	1	1	1	1	1	11111	5		0	
+HGNC:10993	SLC26A1	gene with protein product	Ion channel	SLC26A1	1	1	1	1	1	11111	5		0	
+HGNC:11402	SRPK3	gene with protein product	Kinase	SRPK3	1	1	1	1	1	11111	5		0	
+HGNC:11395	STK17A	gene with protein product	Kinase	STK17A	1	1	1	1	1	11111	5	2	1	
+HGNC:11396	STK17B	gene with protein product	Kinase	STK17B	0	1	1	1	0	01110	3	2	1	
+HGNC:11406	STK3	gene with protein product	Kinase	STK3	1	1	1	1	1	11111	5		0	
+HGNC:11407	STK31	gene with protein product	Kinase	STK31	1	1	1	1	1	11111	5		0	
+HGNC:28317	STK32A	gene with protein product	Kinase	STK32A	1	1	1	1	1	11111	5		0	
+HGNC:14217	STK32B	gene with protein product	Kinase	STK32B	1	1	1	1	1	11111	5	2	1	
+HGNC:21332	STK32C	gene with protein product	Kinase	STK32C	1	1	1	1	1	11111	5		0	
+HGNC:14568	STK33	gene with protein product	Kinase	STK33	1	1	1	1	1	11111	5		0	
+HGNC:17209	STK36	gene with protein product	Kinase	STK36	1	1	1	1	1	11111	5		0	
+HGNC:17848	STK38L	gene with protein product	Kinase	STK38L	1	1	1	1	1	11111	5		0	
+HGNC:21373	STK40	gene with protein product	Kinase	STK40	1	1	1	1	1	11111	5		0	
+HGNC:28669	STKLD1	gene with protein product	Kinase	STKLD1	1	1	1	1	1	11111	5		0	
+HGNC:4542	SUCNR1	gene with protein product	GPCR	SUCNR1	1	0	0	0	0	10000	1		0	
+HGNC:4514	TAAR2	gene with protein product	GPCR	TAAR2	1	1	1	1	1	11111	5	5	1	
+HGNC:4513	TAAR3P	pseudogene	GPCR	TAAR3/TAAR3P	1	1	1	1	1	11111	5		0	
+HGNC:14964	TAAR8	gene with protein product	GPCR	TAAR8	1	1	1	1	1	11111	5		0	
+HGNC:20977	TAAR9	gene with protein product	GPCR	TAAR9	1	1	1	1	1	11111	5		0	
+HGNC:29259	TAOK1	gene with protein product	Kinase	TAOK1	0	1	1	1	1	01111	4		0	
+HGNC:16835	TAOK2	gene with protein product	Kinase	TAOK2	0	1	1	1	1	01111	4		0	
+HGNC:14909	TAS2R1	gene with protein product	GPCR	TAS2R1	0	1	1	1	1	01111	4		0	
+HGNC:14918	TAS2R10	gene with protein product	GPCR	TAS2R10	0	1	1	1	1	01111	4		0	
+HGNC:14919	TAS2R13	gene with protein product	GPCR	TAS2R13	0	1	1	1	1	01111	4		0	
+HGNC:14920	TAS2R14	gene with protein product	GPCR	TAS2R14	0	1	1	1	1	01111	4		0	
+HGNC:14921	TAS2R16	gene with protein product	GPCR	TAS2R16	0	1	1	1	1	01111	4		0	
+HGNC:19108	TAS2R19	gene with protein product	GPCR	TAS2R19	0	1	1	1	1	01111	4		0	
+HGNC:19109	TAS2R20	gene with protein product	GPCR	TAS2R20	0	1	1	1	1	01111	4		0	
+HGNC:14910	TAS2R3	gene with protein product	GPCR	TAS2R3	0	1	1	1	1	01111	4		0	
+HGNC:19112	TAS2R30	gene with protein product	GPCR	TAS2R30	0	1	1	1	1	01111	4		0	
+HGNC:19113	TAS2R31	gene with protein product	GPCR	TAS2R31	0	1	1	1	1	01111	4		0	
+HGNC:18886	TAS2R39	gene with protein product	GPCR	TAS2R39	0	1	1	1	1	01111	4		0	
+HGNC:14911	TAS2R4	gene with protein product	GPCR	TAS2R4	0	1	1	1	1	01111	4		0	
+HGNC:18885	TAS2R40	gene with protein product	GPCR	TAS2R40	0	1	1	1	1	01111	4		0	
+HGNC:18883	TAS2R41	gene with protein product	GPCR	TAS2R41	0	1	1	1	1	01111	4		0	
+HGNC:18888	TAS2R42	gene with protein product	GPCR	TAS2R42	0	1	1	1	1	01111	4		0	
+HGNC:18875	TAS2R43	gene with protein product	GPCR	TAS2R43	0	1	1	1	1	01111	4		0	
+HGNC:18877	TAS2R46	gene with protein product	GPCR	TAS2R46	0	1	1	1	1	01111	4		0	
+HGNC:14912	TAS2R5	gene with protein product	GPCR	TAS2R5	0	1	1	1	1	01111	4		0	
+HGNC:18882	TAS2R50	gene with protein product	GPCR	TAS2R50	0	1	1	1	1	01111	4		0	
+HGNC:20639	TAS2R60	gene with protein product	GPCR	TAS2R60	0	1	1	1	1	01111	4		0	
+HGNC:14913	TAS2R7	gene with protein product	GPCR	TAS2R7	0	1	1	1	1	01111	4		0	
+HGNC:14915	TAS2R8	gene with protein product	GPCR	TAS2R8	0	1	1	1	1	01111	4		0	
+HGNC:14917	TAS2R9	gene with protein product	GPCR	TAS2R9	0	1	1	1	1	01111	4		0	
+HGNC:28261	TBCK	gene with protein product	Kinase	TBCK	1	1	1	1	1	11111	5		0	
+HGNC:11731	TESK1	gene with protein product	Kinase	TESK1	1	1	1	1	1	11111	5		0	
+HGNC:11732	TESK2	gene with protein product	Kinase	TESK2	1	1	1	1	1	11111	5		0	
+HGNC:11841	TLK1	gene with protein product	Kinase	TLK1	1	1	1	1	1	11111	5		0	
+HGNC:11842	TLK2	gene with protein product	Kinase	TLK2	1	1	1	1	1	11111	5	1	1	
+HGNC:22995	TMC3	gene with protein product	Ion channel	TMC3	1	1	1	1	1	11111	5		0	
+HGNC:22998	TMC4	gene with protein product	Ion channel	TMC4	1	1	1	1	1	11111	5		0	
+HGNC:22999	TMC5	gene with protein product	Ion channel	TMC5	1	1	1	1	1	11111	5		0	
+HGNC:23000	TMC7	gene with protein product	Ion channel	TMC7	1	1	1	1	1	11111	5		0	
+HGNC:25535	TMEM38B	gene with protein product	Ion channel	TMEM38B	1	1	1	1	1	11111	5	3	1	
+HGNC:29118	TMEM63A	gene with protein product	Ion channel	TMEM63A	1	1	1	1	1	11111	5		0	
+HGNC:17735	TMEM63B	gene with protein product	Ion channel	TMEM63B	1	1	1	1	1	11111	5		0	
+HGNC:23787	TMEM63C	gene with protein product	Ion channel	TMEM63C	1	0	0	0	0	10000	1		0	
+HGNC:16197	TP53RK	gene with protein product	Kinase	TP53RK	1	1	1	1	1	11111	5		0	
+HGNC:30413	TPRA1	gene with protein product	GPCR	TPRA1	1	0	0	0	0	10000	1		0	
+HGNC:14968	TSSK1B	gene with protein product	Kinase	TSSK1B	1	1	1	1	1	11111	5		0	
+HGNC:11401	TSSK2	gene with protein product	Kinase	TSSK2	0	1	1	1	1	01111	4		0	
+HGNC:15473	TSSK3	gene with protein product	Kinase	TSSK3	1	1	1	1	1	11111	5		0	
+HGNC:19825	TSSK4	gene with protein product	Kinase	TSSK4	1	1	1	1	1	11111	5		0	
+HGNC:30410	TSSK6	gene with protein product	Kinase	TSSK6	1	1	1	1	1	11111	5	1	1	
+HGNC:19140	TTBK1	gene with protein product	Kinase	TTBK1	1	1	1	1	1	11111	5		0	
+HGNC:19141	TTBK2	gene with protein product	Kinase	TTBK2	1	1	1	1	1	11111	5	2	1	
+HGNC:13476	TTYH1	gene with protein product	Ion channel	TTYH1	1	1	1	1	1	11111	5	5	1	
+HGNC:13877	TTYH2	gene with protein product	Ion channel	TTYH2	1	1	1	1	1	11111	5	5	1	
+HGNC:15784	ULK4	gene with protein product	Kinase	ULK4	1	1	1	1	1	11111	5		0	
+HGNC:12719	VRK2	gene with protein product	Kinase	VRK2	1	1	1	1	1	11111	5	2;4	2	
+HGNC:18996	VRK3	gene with protein product	Kinase	VRK3	1	1	1	1	1	11111	5		0	
+HGNC:19684	WEE2	gene with protein product	Kinase	WEE2	1	1	1	1	1	11111	5		0	
+HGNC:11398	WHR1	gene with protein product	Kinase	STK19	0	1	1	1	1	01111	4		0	
+HGNC:14542	WNK2	gene with protein product	Kinase	WNK2	1	1	1	1	1	11111	5		0	
+HGNC:14543	WNK3	gene with protein product	Kinase	WNK3	0	1	1	1	1	01111	4		0	

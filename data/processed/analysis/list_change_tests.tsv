@@ -1,0 +1,40 @@
+change	measure	n_removed	n_stayed	removed	stayed	effect	p	p_adj
+2018->2019	got an R01 in window	56	272	12/56 (21%)	34/272 (12%)	+9 pts (-1 to +22)	0.0914	0.178
+2018->2019	first-ever R01 in window	56	272	6/56 (11%)	27/272 (10%)	+1 pts (-6 to +12)	0.81	0.957
+2018->2019	Jensen gained in window	55	269	median 8.69	median 3.01	P(removed higher) = 0.71	1.43e-06	1.39e-05
+2018->2019	PubTator gained in window	56	272	median 4.98	median 1.87	P(removed higher) = 0.71	8.12e-07	1.06e-05
+2018->2019	Jensen change (window - earlier 3y)	55	269	median 0.97	median 0.63	P(removed higher) = 0.51	0.75	0.914
+2018->2019	PubTator change (window - earlier 3y)	56	272	median 0.52	median 0.28	P(removed higher) = 0.54	0.314	0.438
+2018->2019	Jensen growth in proportion	55	269	median 0.11	median 0.13	P(removed higher) = 0.42	0.0639	0.138
+2018->2019	PubTator growth in proportion	56	272	median 0.10	median 0.11	P(removed higher) = 0.46	0.293	0.438
+2018->2019	Jensen end level, allowing for start + family	55	269			removed -2.0% vs expected (-8.5 to +4.9)	0.557	0.7
+2018->2019	PubTator end level, allowing for start + family	56	272			removed -3.2% vs expected (-8.9 to +3.0)	0.308	0.438
+2018->2019	Jensen before window (start level)	55	269	median 26.11	median 6.39	P(removed higher) = 0.79	1.74e-11	4.55e-10
+2018->2019	PubTator before window (start level)	56	272	median 19.77	median 4.82	P(removed higher) = 0.78	2.33e-11	4.55e-10
+2018->2019	R01s before window (start level)	56	272	median 0.00	median 0.00	P(removed higher) = 0.56	0.0246	0.0687
+2020->2021	got an R01 in window	7	322	1/7 (14%)	48/322 (15%)	-1 pts (-13 to +37)	1	1
+2020->2021	first-ever R01 in window	7	322	0/7 (0%)	23/322 (7%)	-7 pts (-10 to +28)	1	1
+2020->2021	Jensen gained in window	7	319	median 5.80	median 4.22	P(removed higher) = 0.58	0.486	0.653
+2020->2021	PubTator gained in window	7	322	median 7.48	median 2.76	P(removed higher) = 0.68	0.11	0.205
+2020->2021	Jensen change (window - earlier 3y)	7	319	median 2.18	median 0.98	P(removed higher) = 0.65	0.173	0.307
+2020->2021	PubTator change (window - earlier 3y)	7	322	median 3.39	median 0.62	P(removed higher) = 0.77	0.0157	0.0556
+2020->2021	Jensen growth in proportion	7	319	median 0.13	median 0.14	P(removed higher) = 0.49	0.943	1
+2020->2021	PubTator growth in proportion	7	322	median 0.11	median 0.12	P(removed higher) = 0.49	0.925	1
+2020->2021	Jensen end level, allowing for start + family	7	319			removed +1.0% vs expected (-13.4 to +17.8)	0.899	1
+2020->2021	PubTator end level, allowing for start + family	7	322			removed -4.6% vs expected (-16.9 to +9.5)	0.504	0.656
+2020->2021	Jensen before window (start level)	7	319	median 25.35	median 8.75	P(removed higher) = 0.64	0.195	0.331
+2020->2021	PubTator before window (start level)	7	322	median 21.89	median 6.69	P(removed higher) = 0.71	0.0615	0.138
+2020->2021	R01s before window (start level)	7	322	median 0.00	median 0.00	P(removed higher) = 0.59	0.266	0.432
+2021->2022	got an R01 in window	12	311	5/12 (42%)	45/311 (14%)	+27 pts (+4 to +54)	0.0246	0.0687
+2021->2022	first-ever R01 in window	12	311	0/12 (0%)	20/311 (6%)	-6 pts (-10 to +18)	1	1
+2021->2022	Jensen gained in window	12	308	median 14.70	median 4.99	P(removed higher) = 0.73	0.00717	0.028
+2021->2022	PubTator gained in window	12	311	median 9.84	median 3.29	P(removed higher) = 0.77	0.00162	0.00904
+2021->2022	Jensen change (window - earlier 3y)	12	308	median 3.84	median 1.28	P(removed higher) = 0.68	0.0346	0.0843
+2021->2022	PubTator change (window - earlier 3y)	12	311	median 3.50	median 0.99	P(removed higher) = 0.74	0.00513	0.0222
+2021->2022	Jensen growth in proportion	12	308	median 0.18	median 0.14	P(removed higher) = 0.66	0.0686	0.141
+2021->2022	PubTator growth in proportion	12	311	median 0.16	median 0.13	P(removed higher) = 0.59	0.296	0.438
+2021->2022	Jensen end level, allowing for start + family	12	308			removed +22.2% vs expected (+8.5 to +37.7)	0.000941	0.00734
+2021->2022	PubTator end level, allowing for start + family	12	311			removed +13.7% vs expected (+1.9 to +26.8)	0.0216	0.0687
+2021->2022	Jensen before window (start level)	12	308	median 25.67	median 9.55	P(removed higher) = 0.68	0.0317	0.0824
+2021->2022	PubTator before window (start level)	12	311	median 20.21	median 7.12	P(removed higher) = 0.74	0.00413	0.0201
+2021->2022	R01s before window (start level)	12	311	median 1.00	median 0.00	P(removed higher) = 0.72	0.00116	0.00753

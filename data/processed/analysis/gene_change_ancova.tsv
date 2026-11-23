@@ -1,0 +1,19 @@
+comparison	part	measure	n_funded	n_never	slope_before	funded_coef_log10	pct_above_expected	range_95	p	p_adj
+funded vs never	5a	jensen	98	226	0.819	0.0184	4.3	-8.7% to +19.2%	0.5338	0.8204
+round-1 funded vs never	5a	jensen	27	226	0.826	0.0068	1.6	-20.9% to +30.4%	0.9022	0.9661
+funded vs never	5a	pubtator	98	230	0.941	0.0131	3.1	-8.6% to +16.2%	0.6227	0.8204
+round-1 funded vs never	5a	pubtator	27	230	0.954	0.0001	0.0	-19.1% to +23.7%	0.9985	0.9985
+funded vs never	5a	r01	98	230	0.376	0.0702	17.5	-1.0% to +39.6%	0.06531	0.4465
+round-1 funded vs never	5a	r01	27	230	0.381	0.0724	18.1	-12.5% to +59.6%	0.2774	0.7132
+funded vs never	5b	papers	98	228	0.804	0.033	7.9	-5.2% to +22.8%	0.2508	0.7132
+round-1 funded vs never	5b	papers	27	228	0.827	-0.0093	-2.1	-23.0% to +24.4%	0.8609	0.9661
+funded vs never	5b	grants	98	230	0.489	0.0638	15.8	-7.1% to +44.4%	0.1923	0.7132
+round-1 funded vs never	5b	grants	27	230	0.452	0.1613	45.0	-2.4% to +115.5%	0.06612	0.4465
+funded vs never	5b	partners	98	230	0.364	0.0408	9.9	-13.6% to +39.7%	0.4438	0.8045
+round-1 funded vs never	5b	partners	27	230	0.33	0.1111	29.2	-14.9% to +96.0%	0.2294	0.7132
+funded vs never	5b	go	98	230	0.098	0.0045	1.0	-16.0% to +21.6%	0.9124	0.9661
+round-1 funded vs never	5b	go	27	230	0.092	0.0636	15.8	-16.9% to +61.2%	0.3863	0.8045
+funded vs never	5b	compounds	98	230	0.696	0.0454	11.0	-15.2% to +45.3%	0.4469	0.8045
+round-1 funded vs never	5b	compounds	27	230	0.678	-0.0518	-11.2	-46.0% to +45.9%	0.6381	0.8204
+funded vs never	5b	structures	98	230	0.701	0.0319	7.6	-18.5% to +42.1%	0.6054	0.8204
+round-1 funded vs never	5b	structures	27	230	0.663	0.1937	56.2	-4.3% to +155.0%	0.07442	0.4465

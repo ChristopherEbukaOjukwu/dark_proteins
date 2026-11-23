@@ -1,0 +1,72 @@
+finding	check	gene	family	jensen_level	from_year	to_year	new_items	r03_tied	any_new	chance_family	chance_family_level	reference_genes_level	reference_note
+structure	new PDB entries	ADGRB3	GPCR	mid	2023	2026	2	0	1	0.387	0.194	11	GPCR
+structure	new PDB entries	PKD2L2	Ion channel	low	2022	2026	0	0	0	0.172	0.258	12	Ion channel
+structure	new PDB entries	TLK2	Kinase	mid	2019	2026	1	1	1	0.314	0.306	10	Kinase
+new ligand	new compounds tested	CDC42BPG	Kinase	low	2021	2024	125	0	1	0.939	0.814	7	Kinase
+new ligand	new compounds tested	DYRK1B	Kinase	high	2021	2024	673	0	1	0.939	0.96	15	Kinase
+new ligand	new compounds tested	GPR4	GPCR	high	2019	2024	9	0	1	0.923	0.916	6	GPCR
+new ligand	new compounds tested	GPR68	GPCR	high	2019	2024	62	0	1	0.923	0.916	6	GPCR
+new ligand	new compounds tested	GPR85	GPCR	high	2020	2024	2	0	1	0.923	0.916	6	GPCR
+new ligand	new compounds tested	GPR88	GPCR	high	2020	2024	158	35	1	0.923	0.916	6	GPCR
+new ligand	new compounds tested	HCAR3	GPCR	low	2019	2024	2	0	1	0.923	0.939	9	GPCR
+new ligand	new compounds tested	NEK5	Kinase	low	2020	2024	143	0	1	0.939	0.814	7	Kinase
+new ligand	new compounds tested	NPBWR1	GPCR	mid	2020	2024	95	48	1	0.923	0.794	11	GPCR
+binding partners	new small-scale partners	ADGRB3	GPCR	mid	2023	2023	0	0	0	0.0	0.018	11	GPCR
+binding partners	new small-scale partners	CDC42BPG	Kinase	low	2021	2023	1	0	1	0.5	0.344	8	Kinase
+binding partners	new small-scale partners	CLCA4	Ion channel	high	2021	2023	0	0	0	0.143	0.18	6	Ion channel
+binding partners	new small-scale partners	MAPK15	Kinase	high	2022	2023	0	0	0	0.429	0.594	12	Kinase
+binding partners	new small-scale partners	MAPK4	Kinase	high	2022	2023	0	0	0	0.429	0.594	12	Kinase
+binding partners	new small-scale partners	PIP5K1A	Kinase	mid	2021	2023	3	0	1	0.5	0.244	8	Kinase
+binding partners	new small-scale partners	RIOK3	Kinase	mid	2019	2023	4	0	1	0.571	0.348	8	Kinase
+binding partners	new small-scale partners	TLK2	Kinase	mid	2019	2023	12	0	1	0.571	0.348	8	Kinase
+binding partners	new small-scale partners	TTBK2	Kinase	high	2020	2023	0	0	0	0.571	0.677	12	Kinase
+binding partners	new small-scale partners	TTYH1	Ion channel	mid	2023	2023	0	0	0	0.036	0.112	9	Ion channel
+binding partners	new small-scale partners	VRK2	Kinase	high	2020	2023	6	0	1	0.571	0.677	12	Kinase
+role / mechanism / location	new experimental GO terms	ADGRF5	GPCR	mid	2021	2024	0	0	0	0.158	0.013	7	GPCR
+role / mechanism / location	new experimental GO terms	CACNA2D2	Ion channel	high	2022	2024	0	0	0	0.0	0.056	18	any family
+role / mechanism / location	new experimental GO terms	CACNA2D3	Ion channel	mid	2022	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	CACNA2D4	Ion channel	high	2019	2024	0	0	0	0.0	0.164	18	any family
+role / mechanism / location	new experimental GO terms	CACNB1	Ion channel	low	2019	2024	0	0	0	0.0	0.025	9	Ion channel
+role / mechanism / location	new experimental GO terms	CALHM5	Ion channel	low	2020	2024	0	0	0	0.0	0.015	9	Ion channel
+role / mechanism / location	new experimental GO terms	CALHM6	Ion channel	mid	2022	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	CDC42BPG	Kinase	low	2021	2024	0	0	0	0.0	0.101	19	any family
+role / mechanism / location	new experimental GO terms	CDKL1	Kinase	low	2021	2024	0	0	0	0.0	0.101	19	any family
+role / mechanism / location	new experimental GO terms	CLCA4	Ion channel	high	2021	2024	0	0	0	0.0	0.056	18	any family
+role / mechanism / location	new experimental GO terms	CLIC6	Ion channel	mid	2022	2024	1	1	1	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	CLK3	Kinase	mid	2021	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	DYRK1B	Kinase	high	2021	2024	0	0	0	0.0	0.01	10	Kinase
+role / mechanism / location	new experimental GO terms	DYRK2	Kinase	high	2021	2024	1	0	1	0.0	0.01	10	Kinase
+role / mechanism / location	new experimental GO terms	GPR12	GPCR	low	2019	2024	0	0	0	0.263	0.41	6	GPCR
+role / mechanism / location	new experimental GO terms	GPR135	GPCR	high	2022	2024	0	0	0	0.158	0.14	6	GPCR
+role / mechanism / location	new experimental GO terms	GPR162	GPCR	mid	2020	2024	0	0	0	0.211	0.018	7	GPCR
+role / mechanism / location	new experimental GO terms	GPR171	GPCR	low	2021	2024	0	0	0	0.158	0.265	6	GPCR
+role / mechanism / location	new experimental GO terms	GPR31	GPCR	mid	2020	2024	0	0	0	0.211	0.018	7	GPCR
+role / mechanism / location	new experimental GO terms	GPR63	GPCR	low	2022	2024	0	0	0	0.158	0.265	6	GPCR
+role / mechanism / location	new experimental GO terms	GPR68	GPCR	high	2019	2024	1	0	1	0.263	0.285	6	GPCR
+role / mechanism / location	new experimental GO terms	GPR75	GPCR	low	2023	2024	0	0	0	0.105	0.26	6	GPCR
+role / mechanism / location	new experimental GO terms	GPRC5B	GPCR	mid	2021	2024	1	0	1	0.158	0.013	7	GPCR
+role / mechanism / location	new experimental GO terms	GRID1	Ion channel	high	2021	2024	6	0	1	0.0	0.056	18	any family
+role / mechanism / location	new experimental GO terms	KCNAB2	Ion channel	high	2020	2024	0	0	0	0.0	0.108	18	any family
+role / mechanism / location	new experimental GO terms	KCNG4	Ion channel	mid	2022	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	KCNK12	Ion channel	low	2023	2024	0	0	0	0.0	0.007	9	Ion channel
+role / mechanism / location	new experimental GO terms	KCNN1	Ion channel	mid	2023	2024	0	0	0	0.0	0.005	13	any family
+role / mechanism / location	new experimental GO terms	MAP3K10	Kinase	mid	2023	2024	0	0	0	0.0	0.005	13	any family
+role / mechanism / location	new experimental GO terms	MAST3	Kinase	low	2021	2024	0	0	0	0.0	0.101	19	any family
+role / mechanism / location	new experimental GO terms	MAST4	Kinase	mid	2023	2024	0	0	0	0.0	0.005	13	any family
+role / mechanism / location	new experimental GO terms	NEK5	Kinase	low	2020	2024	0	0	0	0.0	0.103	19	any family
+role / mechanism / location	new experimental GO terms	NPY2R	GPCR	high	2019	2024	2	0	1	0.263	0.285	6	GPCR
+role / mechanism / location	new experimental GO terms	NPY5R	GPCR	high	2019	2024	0	0	0	0.263	0.285	6	GPCR
+role / mechanism / location	new experimental GO terms	PAK3	Kinase	mid	2020	2024	0	0	0	0.0	0.011	13	any family
+role / mechanism / location	new experimental GO terms	PIP5K1A	Kinase	mid	2021	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	PIP5K1B	Kinase	mid	2023	2024	0	0	0	0.0	0.005	13	any family
+role / mechanism / location	new experimental GO terms	PNCK	Kinase	low	2023	2024	0	0	0	0.0	0.099	19	any family
+role / mechanism / location	new experimental GO terms	PRKACB	Kinase	high	2019	2024	1	0	1	0.118	0.107	10	Kinase
+role / mechanism / location	new experimental GO terms	PRKCQ	Kinase	high	2019	2024	1	0	1	0.118	0.107	10	Kinase
+role / mechanism / location	new experimental GO terms	RIOK2	Kinase	high	2020	2024	0	0	0	0.0	0.013	10	Kinase
+role / mechanism / location	new experimental GO terms	RIOK3	Kinase	mid	2019	2024	0	0	0	0.118	0.085	13	any family
+role / mechanism / location	new experimental GO terms	STK17A	Kinase	mid	2020	2024	0	0	0	0.0	0.011	13	any family
+role / mechanism / location	new experimental GO terms	TAAR2	GPCR	mid	2023	2024	0	0	0	0.105	0.009	7	GPCR
+role / mechanism / location	new experimental GO terms	TMEM38B	Ion channel	mid	2021	2024	0	0	0	0.0	0.008	13	any family
+role / mechanism / location	new experimental GO terms	TSSK6	Kinase	high	2019	2024	0	0	0	0.118	0.107	10	Kinase
+role / mechanism / location	new experimental GO terms	TTYH1	Ion channel	mid	2023	2024	0	0	0	0.0	0.005	13	any family
+role / mechanism / location	new experimental GO terms	TTYH2	Ion channel	low	2023	2024	0	0	0	0.0	0.007	9	Ion channel

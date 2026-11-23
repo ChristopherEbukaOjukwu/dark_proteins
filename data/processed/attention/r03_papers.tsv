@@ -1,0 +1,185 @@
+award	award_genes	award_start	pmid	year	status	funded_genes_found	journal	title	review_about_funded_gene	review_notes
+R03TR004178	CLIC6	2022	27846824	2016	before award start		BMC Pregnancy Childbirth	Group based prenatal care in a low-and high risk population in the Netherlands: a study protocol for a stepped wedge cluster randomized controlled trial.		
+R03TR002908	GPR4; GPR68; HCAR3	2019	29284676	2018	before award start		J Biol Chem	Coordinated regulation of intracellular pH by two glucose-sensing pathways in yeast.		
+R03TR003386	NEK5	2020	31941153	2020	cites, no funded gene found		Molecules	In Depth Analysis of Kinase Cross Screening Data to Identify CAMKK2 Inhibitory Scaffolds.		
+R03TR002947	PRKACB	2019	32124520	2020	cites, no funded gene found		BJOG	Effects of tocolysis with nifedipine or atosiban on child outcome: follow-up of the APOSTEL III trial.		
+R03TR004144	CDC42BPG	2022	32160132	2020	before award start		Circ Res	PTH/PTHrP Receptor Signaling Restricts Arterial Fibrosis in Diabetic LDLR(-/-) Mice by Inhibiting Myocardin-Related Transcription Factor Relays.		
+R03NS115653	CACNA2D4	2019	32161339	2020	family-level (manual review)		Nat Rev Neurosci	Presynaptic calcium channels: specialized control of synaptic neurotransmitter release.	family	presynaptic CaV channels review
+R03CA250020	PKN3	2019	32298120	2020	cites, no funded gene found		J Med Chem	Discovery and Structure-Activity Relationship Study of (Z)-5-Methylenethiazolidin-4-one Derivatives as Potent and Selective Pan-phosphatidylinositol 5-Phosphate 4-Kinase Inhibitors.	no	PI5P4K inhibitors, not PKN3
+R03TR002908	GPR4; GPR68; HCAR3	2019	32358068	2020	tied	GPR68	J Biol Chem	CRISPR-addressable yeast strains with applications in human G protein-coupled receptor profiling and synthetic biology.		
+R03TR002908	GPR4; GPR68; HCAR3	2019	32434907	2020	tied	GPR4; GPR68	Proc Natl Acad Sci U S A	DCyFIR: a high-throughput CRISPR platform for multiplexed G protein-coupled receptor profiling and ligand discovery.		
+R03DA051066	GPR12	2019	32534899	2020	cites, no funded gene found		Neurosci Biobehav Rev	Opposite regulation of conditioned place preference and intravenous drug self-administration in rodent models: Motivational and non-motivational examples.		
+R03TR002908	GPR4; GPR68; HCAR3	2019	32729927	2020	cites, no funded gene found		Biochem J	An acidic residue buried in the dimer interface of isocitrate dehydrogenase 1 (IDH1) helps regulate catalysis and pH sensitivity.		
+R03TR003381	GPR31	2020	32918516	2020	tied	GPR31	FASEB J	A 12-lipoxygenase-Gpr31 signaling axis is required for pancreatic organogenesis in the zebrafish.		
+R03TR002908	GPR4; GPR68; HCAR3	2019	33009526	2020	tied	HCAR3	Nat Rev Drug Discov	HCAR3: an underexplored metabolite sensor.		
+R03TR003386	NEK5	2020	33012852	2020	cites, no funded gene found		Tetrahedron Lett	Concise, gram-scale synthesis of furo[2,3-b]pyridines with functional handles for chemoselective cross-coupling.		
+R03TR002947	PRKACB	2019	33058759	2020	tied	PRKACB	Am J Hum Genet	Germline and Mosaic Variants in PRKACA and PRKACB Cause a Multiple Congenital Malformation Syndrome.		
+R03NS120516	PAK3	2020	33064840	2021	cites, no funded gene found		J Neurochem	Unbiased proteomic screening identifies a novel role for the E3 ubiquitin ligase Nedd4-2 in translational suppression during ER stress.		
+R03TR002873	CACNB1	2019	33103016	2020	cites, no funded gene found		Curr Opin Physiol	Calcium regulation of T cell metabolism.	no	T cell calcium review, no CaVbeta
+R03TR002914	PRKCQ	2019	33166426	2020	family-level (manual review)		IUBMB Life	Hypothesis: Unifying model of domain architecture for conventional and novel protein kinase C isozymes.	family	all conventional/novel PKCs; PKCtheta not named
+R03TR003386	NEK5	2020	33215924	2020	cites, no funded gene found		J Med Chem	A Chemical Probe for Dark Kinase STK17B Derives Its Potency and High Selectivity through a Unique P-Loop Conformation.		
+R03TR003313	HCAR3	2020	33250721	2020	cites, no funded gene found		Front Neural Circuits	Activation of the ARC(POMC)→MeA Projection Reduces Food Intake.		
+R03TR003313	HCAR3	2020	33293550	2020	cites, no funded gene found		Nat Commun	Optogenetic stimulation of the liver-projecting melanocortinergic pathway promotes hepatic glucose production.		
+R03TR003386	NEK5	2020	33429995	2021	cites, no funded gene found		Int J Mol Sci	The Kinase Chemogenomic Set (KCGS): An Open Science Resource for Kinase Vulnerability Identification.		
+R03TR002937	RIOK3	2019	33652597	2021	tied	RIOK3	Viruses	The Atypical Kinase RIOK3 Limits RVFV Propagation and Is Regulated by Alternative Splicing.		
+R03TR003386	NEK5	2020	33749548	2021	tied	NEK5	Curr Med Chem	Targeting Never-In-Mitosis-A Related Kinase 5 in Cancer: A Review.		
+R03HL156574	RIOK2	2020	33753942	2021	tied	RIOK2	Nat Immunol	Blockade of IL-22 signaling reverses erythroid dysfunction in stress-induced anemias.		
+R03TR003381	GPR31	2020	34064822	2021	tied	GPR31	Biomolecules	Regulation of Tissue Inflammation by 12-Lipoxygenases.		
+R03CA250020	PKN3	2019	34143170	2021	tied	PKN3	Chem Soc Rev	Chemoproteomic methods for covalent drug discovery.		
+R03TR003386	NEK5	2020	34196902	2021	tied	NEK5	Breast Cancer Res Treat	NEK5 activity regulates the mesenchymal and migratory phenotype in breast cancer cells.		
+R03TR003386	NEK5	2020	34264658	2021	cites, no funded gene found		J Med Chem	Hinge Binder Scaffold Hopping Identifies Potent Calcium/Calmodulin-Dependent Protein Kinase Kinase 2 (CAMKK2) Inhibitor Chemotypes.		
+R03TR002947	PRKACB	2019	34330820	2022	tied	PRKACB	Mol Pharmacol	The Tails of Protein Kinase A.		
+R03TR003358	GPR31	2020	34365229	2021	cites, no funded gene found		Curr Opin Struct Biol	Post-translational modification of RAS proteins.		
+R03AA029013	GPR88	2020	34387471	2021	tied	GPR88	J Med Chem	Evaluation of Amide Bioisosteres Leading to 1,2,3-Triazole Containing Compounds as GPR88 Agonists: Design, Synthesis, and Structure-Activity Relationship Studies.		
+R03TR003381	GPR31	2020	34414399	2020	cites, no funded gene found		Arch Autoimmune Dis	Adiponectin receptor fragmentation in mouse models of type 1 and type 2 diabetes.		
+R03NS115653	CACNA2D4	2019	34480956	2021	cites, no funded gene found		J Neurosci Methods	NeuriteNet: A convolutional neural network for assessing morphological parameters of neurite growth.		
+R03TR003386	NEK5	2020	34712241	2021	cites, no funded gene found		Front Immunol	Calcium/Calmodulin Dependent Protein Kinase Kinase 2 Regulates the Expansion of Tumor-Induced Myeloid-Derived Suppressor Cells.		
+R03TR003306	GPR32	2021	34737341	2021	cites, no funded gene found		Nat Commun	Structural basis of human ghrelin receptor signaling by ghrelin and the synthetic agonist ibutamoren.		
+R03TR003350	GPR162	2020	34801552	2022	cites, no funded gene found		J Biol Chem	A high-fat diet catalyzes progression to hyperglycemia in mice with selective impairment of insulin action in Glut4-expressing tissues.		
+R03HL156574	RIOK2	2020	34937919	2022	tied	RIOK2	Nat Immunol	Identification of RIOK2 as a master regulator of human blood cell development.		
+R03TR003350	GPR162	2020	34986353	2022	cites, no funded gene found		Cell Rep	Intestinal Gpr17 deficiency improves glucose metabolism by promoting GLP-1 secretion.		
+R03DA051066	GPR12	2019	35064871	2022	cites, no funded gene found		Neuroinformatics	A Learning Based Framework for Disease Prediction from Images of Human-Derived Pluripotent Stem Cells of Schizophrenia Patients.		
+R03TR003370	NPBWR1	2020	35101647	2022	tied	NPBWR1	Eur J Med Chem	Neuropeptide B/W receptor 1 peptidomimetic agonists: Structure-activity relationships and plasma stability.		
+R03TR002937	RIOK3	2019	35127560	2021	tied	RIOK3	Front Cell Infect Microbiol	Tra2beta-Dependent Regulation of RIO Kinase 3 Splicing During Rift Valley Fever Virus Infection Underscores the Links Between Alternative Splicing and Innate Antiviral Immunity.		
+R03TR002912	TLK2	2019	35136069	2022	tied	TLK2	Nat Commun	Tousled-like kinase 2 targets ASF1 histone chaperones through client mimicry.		
+R03TR003306	GPR32	2021	35217703	2022	cites, no funded gene found		Nat Commun	Molecular recognition of formylpeptides and diverse agonists by the formylpeptide receptors FPR1 and FPR2.		
+R03NS115653	CACNA2D4	2019	35353835	2022	tied	CACNA2D4	PLoS One	The voltage-gated Ca2+ channel subunit α2δ-4 regulates locomotor behavior and sensorimotor gating in mice.		
+R03TR002873	CACNB1	2019	35440113	2022	tied	CACNB1	Nat Commun	Cavβ1 regulates T cell expansion and apoptosis independently of voltage-gated Ca(2+) channel function.		
+R03TR003387	CLK3	2021	35484036	2022	cites, no funded gene found		Trends Cell Biol	Ectopic biomolecular phase transitions: fusion proteins in cancer pathologies.		
+R03TR003648	CDK19	2021	35553110		cites, no funded gene found					
+R03TR003368	ADGRF5; GPR61; GPRC5B	2021	35628521	2022	tied	ADGRF5; GPR61; GPRC5B	Int J Mol Sci	Orphan G-Protein Coupled Receptor GPRC5B Is Critical for Lymphatic Development.		
+R03NS115653	CACNA2D4	2019	35650675	2022	tied	CACNA2D4	Annu Rev Vis Sci	Calcium Channels in Retinal Function and Disease.		
+R03TR003307	CACNA2D3; KCNA6; KCNAB2	2020	35788155	2022	tied	KCNA6; KCNAB2	J Neurophysiol	The potassium channel auxiliary subunit Kvβ2 (Kcnab2) regulates Kv1 channels and dopamine neuron firing.		
+R03TR003313	HCAR3	2020	35830691	2022	cites, no funded gene found		Am J Physiol Endocrinol Metab	Overexpressing the hydroxycarboxylic acid receptor 1 in mouse brown adipose tissue restores glucose tolerance and insulin sensitivity in diet-induced obese mice.		
+R03DK124904		2019	35951356	2022	award has no confirmed gene		ACS Sens	A Superfolder Green Fluorescent Protein-Based Biosensor Allows Monitoring of Chloride in the Endoplasmic Reticulum.		
+R03TR003673	CLCA4	2021	35998009	2022	cites, no funded gene found		Curr Protoc	Production of Eukaryotic Glycoproteins for Structural and Functional Studies Using Expi293F Cells.		
+R03TR003313	HCAR3	2020	36007929	2022	cites, no funded gene found		Life Sci Alliance	Magel2 knockdown in hypothalamic POMC neurons innervating the medial amygdala reduces susceptibility to diet-induced obesity.		
+R03TR003343	VRK2	2020	36040810	2022	tied	VRK2	JCI Insight	VRK1 as a synthetic lethal target in VRK2 promoter-methylated cancers of the nervous system.		
+R03TR002937	RIOK3	2019	36146870	2022	tied	RIOK3	Viruses	RIOK3 and Its Alternatively Spliced Isoform Have Disparate Roles in the Innate Immune Response to Rift Valley Fever Virus (MP12) Infection.		
+R03TR003324	CDC42BPA; CDC42BPB; CDC42BPG	2021	36200848	2022	cites, no funded gene found		Mol Biol Cell	Agent-based modeling predicts RAC1 is critical for ovarian cancer metastasis.		
+R03TR002947	PRKACB	2019	36202993	2022	tied	PRKACB	Nat Struct Mol Biol	A PKA inhibitor motif within SMOOTHENED controls Hedgehog signal transduction.		
+R03TR004178	CLIC6	2022	36269835	2022	cites, no funded gene found		Sci Adv	CLIC4 localizes to mitochondrial-associated membranes and mediates cardioprotection.		
+R03TR003392	TTBK2	2020	36322399	2023	tied	TTBK2	Mol Biol Cell	TTBK2 controls cilium stability by regulating distinct modules of centrosomal proteins.		
+R03TR003624	PIP5K1A	2021	36376561	2023	tied	PIP5K1A	Nat Rev Drug Discov	Beyond PI3Ks: targeting phosphoinositide kinases in disease.		
+R03TR003670	KCNJ15	2021	36524992	2023	cites, no funded gene found		J Gen Physiol	Seeing spermine blocking of K+ ion movement through inward rectifier Kir2.2 channels.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	36527762	2023	cites, no funded gene found		Cell Calcium	Centering on synaptic vesicle release.		
+R03TR002838	PROKR1	2019	36539034	2023	tied	PROKR1	J Biol Chem	Activation of amygdala prokineticin receptor 2 neurons drives the anorexigenic activity of the neuropeptide PK2.		
+R03TR004209	GPR135; GPR45; GPR63	2022	36580912	2023	cites, no funded gene found		Cell	SARS-CoV-2 replication in airway epithelia requires motile cilia and microvillar reprogramming.		
+R03AA029013	GPR88	2020	36587872	2023	tied	GPR88	Bioorg Med Chem Lett	Synthesis and pharmacological validation of a novel radioligand for the orphan GPR88 receptor.		
+R03TR003308	CAMK1D; CDK10; NUAK2; STK17A; STK17B; STK32B	2020	36736316	2023	tied (manual review)	CDK10; NUAK2; STK17A; STK17B	Mol Cell	Multiplexed kinase interactome profiling quantifies cellular network activity and plasticity.	yes	kinome interactome profiling; BioGRID records interactions for these 4 funded kinases
+R03TR003392	TTBK2	2020	36778451	2023	tied	TTBK2	bioRxiv	TTBK2 mutations associated with spinocerebellar ataxia type 11 disrupt peroxisome dynamics and ciliary localization of SHH signaling proteins.		
+R03TR003299	CALHM4; CALHM5; CALHM6	2020	36861806	2023	tied	CALHM6	EMBO J	The ion channel CALHM6 controls bacterial infection-induced cellular cross-talk at the immunological synapse.		
+R03TR003686	CDKL1	2021	36921719	2023	cites, no funded gene found		Kidney Int	Zinc finger protein 24-dependent transcription factor SOX9 up-regulation protects tubular epithelial cells during acute kidney injury.		
+R03TR003667	GPR171	2021	36933620	2023	tied	GPR171	Pharmacol Biochem Behav	A small molecule ligand for the novel pain target, GPR171, produces minimal reward in mice.		
+R03TR003670	KCNJ15	2021	36993294	2023	cites, no funded gene found		Res Sq	Subunit gating resulting from individual protonation events in Kir2 channels.		
+R03TR003344		2022	37014740	2023	award has no confirmed gene		Hum Mol Genet	Dissection of a Down syndrome-associated trisomy to separate the gene dosage-dependent and -independent effects of an extra chromosome.		
+R03TR003386	NEK5	2020	37046733	2023	tied	NEK5	Cancers (Basel)	NEK Family Review and Correlations with Patient Survival Outcomes in Various Cancer Types.		
+R03TR004209	GPR135; GPR45; GPR63	2022	37164543	2023	cites, no funded gene found		Methods Cell Biol	Single-molecule imaging in the primary cilium.		
+R03TR003670	KCNJ15	2021	37168492	2023	cites, no funded gene found		Function (Oxf)	Oxidation Driven Reversal of PIP(2)-dependent Gating in GIRK2 Channels.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	37276687	2023	cites, no funded gene found		Hear Res	Development and evaluation of helper dependent adenoviral vectors for inner ear gene delivery.		
+R03TR004472	ADGRB3	2023	37337931	2023	tied	ADGRB3	Basic Clin Pharmacol Toxicol	Generation and initial characterization of mice lacking full-length BAI3 (ADGRB3) expression.		
+R03TR004472	ADGRB3	2023	37358504	2023	tied	ADGRB3	Compr Physiol	Noncanonical Regulation of cAMP-Dependent Insulin Secretion and Its Implications in Type 2 Diabetes.		
+R03TR004472	ADGRB3	2023	37367869	2023	tied	ADGRB3	Metabolites	Loss of Brain Angiogenesis Inhibitor-3 (BAI3) G-Protein Coupled Receptor in Mice Regulates Adaptive Thermogenesis by Enhancing Energy Expenditure.		
+R03TR003670	KCNJ15	2021	37507406	2023	cites, no funded gene found		Nat Commun	Subunit gating resulting from individual protonation events in Kir2 channels.		
+R03TR002937	RIOK3	2019	37515252	2023	tied	RIOK3	Viruses	Alternative Splicing of RIOK3 Engages the Noncanonical NFκB Pathway during Rift Valley Fever Virus Infection.		
+R03TR003624	PIP5K1A	2021	37534432	2023	tied	PIP5K1A	J Cell Sci	A novel homeostatic mechanism tunes PI(4,5)P2-dependent signaling at the plasma membrane.		
+R03TR003307	CACNA2D3; KCNA6; KCNAB2	2020	37566654	2023	cites, no funded gene found		Sci Adv	Temporal scaling of dopamine neuron firing and dopamine release by distinct ion channels shape behavior.		
+R03TR003621	GPRC5B	2022	37567783	2023	cites, no funded gene found		Mol Pharmacol	Gα Protein Signaling Bias at Serotonin 1A Receptor.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	37638292	2023	cites, no funded gene found		Bio Protoc	Stereotactic Delivery of Helper-dependent Adenoviral Viral Vectors at Distinct Developmental Time Points to Perform Age-dependent Molecular Manipulations of the Mouse Calyx of Held.		
+R03TR003386	NEK5	2020	37642371	2023	cites, no funded gene found		Biochem J	How many kinases are druggable? A review of our current understanding.		
+R03TR004452	MAP3K10	2023	37706319	2023	cites, no funded gene found		Arterioscler Thromb Vasc Biol	Sex and Racial Disparities in Peripheral Artery Disease.		
+R03TR004471	KCNN1	2023	37742783	2023	family-level (manual review)		J Mol Cell Cardiol	To block or not to block: Targeting SK channels in diseased hearts.	family	SK channels in general
+R03TR004178	CLIC6	2022	37838179	2023	tied	CLIC6	J Biol Chem	Biophysical characterization of chloride intracellular channel 6 (CLIC6).		
+R03TR003350	GPR162	2020	37838950	2023	cites, no funded gene found		Islets	Dynamic regulation of pancreatic β cell function and gene expression by the SND1 coregulator in vitro.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	37849785	2023	cites, no funded gene found		Bio Protoc	Confocal Imaging and 3D Reconstruction to Determine How Genetic Perturbations Impact Presynaptic Morphology at the Mouse Calyx of Held.		
+R03TR004191	TTYH1	2023	37870193	2024	tied	TTYH1	Glia	Drosophila tweety facilitates autophagy to regulate mitochondrial homeostasis and bioenergetics in Glia.		
+R03TR004135	KCNH4; KCNH8	2022	37873384	2024	cites, no funded gene found		bioRxiv	Measuring conformational equilibria in allosteric proteins with time-resolved tmFRET.		
+R03TR004135	KCNH4; KCNH8	2022	37873407	2024	cites, no funded gene found		bioRxiv	Long-distance tmFRET using bipyridyl- and phenanthroline-based ligands.		
+R03TR004452	MAP3K10	2023	37905100	2023	cites, no funded gene found		bioRxiv	Inflammatory stress-mediated chromatin changes underlie dysfunction in endothelial cells.		
+R03TR003380	GRID1	2021	37944084	2024	tied	GRID1	Hum Mol Genet	Clinical features, functional consequences, and rescue pharmacology of missense GRID1 and GRID2 human variants.		
+R03TR003387	CLK3	2021	37949765	2024	cites, no funded gene found		Trends Biochem Sci	Dissecting the biophysics and biology of intrinsically disordered proteins.		
+R03TR003669		2022	38077417	2023	award has no confirmed gene		PeerJ	pH-sensing G protein-coupled orphan receptor GPR68 is expressed in human cartilage and correlates with degradation of extracellular matrix during OA progression.		
+R03TR004144	CDC42BPG	2022	38123514	2023	cites, no funded gene found		Endocrinology	Wnt16 Promotes Vascular Smooth Muscle Contractile Phenotype and Function via Taz (Wwtr1) Activation in Male LDLR-/- Mice.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	38155373	2024	cites, no funded gene found		J Physiol	Ca(V) 2.1 α(1)  subunit motifs that control presynaptic Ca(V) 2.1 subtype abundance are distinct from Ca(V) 2.1 preference.		
+R03TR003655	GPR149	2021	38282864	2024	tied	GPR149	PeerJ	Gpr149 is involved in energy homeostasis in the male mouse.		
+R03TR004135	KCNH4; KCNH8	2022	38303511	2024	cites, no funded gene found		Biophys J	Measuring conformational equilibria in allosteric proteins with time-resolved tmFRET.		
+R03TR004200	KCNG2; KCNG3; KCNG4; KCNS1	2022	38328147	2024	tied	KCNG4; KCNS1	bioRxiv	Electrically silent KvS subunits associate with native Kv2 channels in brain and impact diverse properties of channel function.		
+R03TR004135	KCNH4; KCNH8	2022	38350449	2024	cites, no funded gene found		Biophys J	Long-distance tmFRET using bipyridyl- and phenanthroline-based ligands.		
+R03TR004200	KCNG2; KCNG3; KCNG4; KCNS1	2022	38352561	2025	tied	KCNG2; KCNG3; KCNG4; KCNS1	bioRxiv	A Kv2 inhibitor combination reveals native neuronal conductances consistent with Kv2/KvS heteromers.		
+R03TR004144	CDC42BPG	2022	38429163	2024	cites, no funded gene found		Trends Endocrinol Metab	Parathyroid hormone-PTH1R signaling in cardiovascular disease and homeostasis.		
+R03TR003386	NEK5	2020	38523660	2024	tied	NEK5	Front Mol Biosci	Illumination of understudied ciliary kinases.		
+R03TR003686	CDKL1	2021	38530359	2024	cites, no funded gene found		J Am Soc Nephrol	Genome-Wide CRISPR Screen Identifies Phospholipid Scramblase 3 as the Biological Target of Mitoprotective Drug SS-31.		
+R03TR004450	CDK19	2023	38542359	2024	cites, no funded gene found		Int J Mol Sci	Pharmacological Activities, Therapeutic Effects, and Mechanistic Actions of Trigonelline.		
+R03TR004178	CLIC6	2022	38561252	2024	cites, no funded gene found		Physiol Rep	The BK(Ca) (slo) channel regulates the cardiac function of Drosophila.		
+R03TR004473	PIP5K1A	2023	38565949	2024	tied	PIP5K1A	EMBO J	Nuclear phosphoinositide signaling promotes YAP/TAZ-TEAD transcriptional activity in breast cancer.		
+R03TR004178	CLIC6	2022	38573803	2024	tied	CLIC6	Biosci Rep	Chloride ions in health and disease.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	38605812	2024	cites, no funded gene found		Mol Ther Methods Clin Dev	Development of adenoviral vectors that transduce Purkinje cells and other cerebellar cell-types in the cerebellum of a humanized mouse model.		
+R03TR004450	CDK19	2023	38612964	2024	cites, no funded gene found		Nutrients	Chlorogenic Acid: A Systematic Review on the Biological Functions, Mechanistic Actions, and Therapeutic Potentials.		
+R03TR004445	ADCK2	2023	38645692	2024	cites, no funded gene found		Front Physiol	Exploring the role of pyroptosis in the pathogenicity of heart disease.		
+R03TR004478	GPR75	2023	38697309	2024	tied	GPR75	Biochem Pharmacol	The fatty acid omega hydroxylase genes (CYP4 family) in the progression of metabolic dysfunction-associated steatotic liver disease (MASLD): An RNA sequence database analysis and review.		
+R03TR002940	GPR135; GPR151; GPR19; GPR22; GPR27; GPR50; GPR6; GPR61; GPR68; GPR85	2019	38705568	2024	cites, no funded gene found		Neuropharmacology	Environmental enrichment enhances ethanol preference over social reward in male swiss mice: Involvement of oxytocin-dopamine interactions.		
+R03TR002914	PRKCQ	2019	38752473	2024	tied	PRKCQ	Biochem J	Cancer-associated mutations in protein kinase C theta are loss-of-function.		
+R03CA250021	TSSK6	2019	38762178	2024	tied	TSSK6	J Biol Chem	Testis-specific serine kinase 6 (TSSK6) is abnormally expressed in colorectal cancer and promotes oncogenic behaviors.		
+R03TR004452	MAP3K10	2023	38767050	2024	family-level (manual review)		Cytoskeleton (Hoboken)	TNF-alpha promotes cilia elongation via mixed lineage kinases signaling in mouse fibroblasts and human RPE-1 cells.	family	mixed-lineage kinases; MLK2 not named
+R03TR003673	CLCA4	2021	38825009	2024	tied	CLCA4	J Biol Chem	Modulation of TMEM16B channel activity by the calcium-activated chloride channel regulator 4 (CLCA4) in human cells.		
+R03DC019290	ADGRB3	2020	38858133	2024	cites, no funded gene found		FEBS Lett	Creation of a novel CRISPR-generated allele to express HA epitope-tagged C1QL1 and improved methods for its detection at synapses.		
+R03TR004478	GPR75	2023	38876306	2024	cites, no funded gene found		J Biol Chem	Loss-of-function G6PD variant moderated high-fat diet-induced obesity, adipocyte hypertrophy, and fatty liver in male rats.		
+R03TR004206		2022	38937710	2024	award has no confirmed gene		J Proteome Res	trans-Interacting Plasma Membrane Proteins and Binding Partner Identification.		
+R03TR004445	ADCK2	2023	39070968	2024	cites, no funded gene found		Curr Opin Physiol	Unheralded Adrenergic Receptor Signaling in Cellular Oxidative Stress and Death.		
+R03TR003381	GPR31	2020	39091839	2024	cites, no funded gene found		bioRxiv	12-Lipoxygenase inhibition delays onset of autoimmune diabetes in human gene replacement mice.		
+R03TR002940	GPR135; GPR151; GPR19; GPR22; GPR27; GPR50; GPR6; GPR61; GPR68; GPR85	2019	39103231	2024	cites, no funded gene found		J Pharmacol Exp Ther	Regulation of Cannabinoid and Opioid Receptor Levels by Endogenous and Pharmacological Chaperones.		
+R03HL156574	RIOK2	2020	39164231	2024	tied	RIOK2	Nat Commun	RIOK2 transcriptionally regulates TRiC and dyskerin complexes to prevent telomere shortening.		
+R03TR004452	MAP3K10	2023	39213161	2025	cites, no funded gene found		Antioxid Redox Signal	Endothelial Reactive Oxygen Species: Key Players in Cardiovascular Health and Disease.		
+R03DC019290	ADGRB3	2020	39257292	2025	cites, no funded gene found		FEBS J	C1ql1 expression in oligodendrocyte progenitor cells promotes oligodendrocyte differentiation.		
+R03TR004471	KCNN1	2023	39355981	2024	cites, no funded gene found		J Physiol	The yellow brick road to understanding the RyR2 signalosome.		
+R03TR003313	HCAR3	2020	39436946	2024	cites, no funded gene found		PLoS Biol	The development of hepatic steatosis depends on the presence of liver-innervating parasympathetic cholinergic neurons in mice fed a high-fat diet.		
+R03TR003381	GPR31	2020	39531315	2024	cites, no funded gene found		JCI Insight	12-Lipoxygenase inhibition delays onset of autoimmune diabetes in human gene replacement mice.		
+R03TR003308	CAMK1D; CDK10; NUAK2; STK17A; STK17B; STK32B	2020	39605566	2024	cites, no funded gene found		bioRxiv	diaPASEF-Powered Chemoproteomics Enables Deep Kinome Interaction Profiling.		
+R03TR004157	CALHM6	2022	39669557	2024	cites, no funded gene found		Front Immunol	Do K(ATP) channels have a role in immunity?		
+R03TR004459	TTYH2	2023	39669557	2024	cites, no funded gene found		Front Immunol	Do K(ATP) channels have a role in immunity?		
+R03TR004157	CALHM6	2022	39687626	2024	cites, no funded gene found		Front Immunol	Kir6.1, a component of an ATP-sensitive potassium channel, regulates natural killer cell development.		
+R03TR004459	TTYH2	2023	39687626	2024	cites, no funded gene found		Front Immunol	Kir6.1, a component of an ATP-sensitive potassium channel, regulates natural killer cell development.		
+R03TR004178	CLIC6	2022	39747826	2025	cites, no funded gene found		Nat Commun	Functional large-conductance calcium and voltage-gated potassium channels in extracellular vesicles act as gatekeepers of structural and functional integrity.		
+R03TR004193	ADGRA3	2022	39753689	2025	cites, no funded gene found		Nat Rev Nephrol	Roles of sensory receptors in non-sensory organs: the kidney and beyond.		
+R03TR003701	DYRK1B; DYRK2; DYRK3; DYRK4	2021	39846842	2025	tied	DYRK1B	Immunohorizons	Defining a novel DYRK1A-gp130/IL-6R-pSTAT axis that regulates Th17 differentiation.		
+R03TR003381	GPR31	2020	39868153	2025	tied	GPR31	bioRxiv	12-Lipoxygenase inhibition improves glucose homeostasis and obesity-associated inflammation in human gene replacement mice.		
+R03TR002929	NPY2R; NPY5R	2019	39900506	2025	cites, no funded gene found		eNeuro	Mouse Adrenal Macrophages Are Associated with Pre- and Postsynaptic Neuronal Elements and Respond to Multiple Neuromodulators.	no	adrenal macrophages, no NPY receptor
+R03TR004200	KCNG2; KCNG3; KCNG4; KCNS1	2022	39933932	2025	cites, no funded gene found		J Neurosci	The Electrically Silent Kv5.1 Subunit Forms Heteromeric Kv2 Channels in Cortical Neurons and Confers Distinct Functional Properties.		
+R03TR004478	GPR75	2023	39959811	2024	tied	GPR75	Front Physiol	The CYP4/20-HETE/GPR75 axis in the progression metabolic dysfunction-associated steatosis liver disease (MASLD) to chronic liver disease.		
+R03TR004480		2023	39975196	2025	award has no confirmed gene		bioRxiv	Phosphatidylinositol 4,5-bisphosphate Impacts Extracellular Vesicle Shedding from C. elegans Ciliated Sensory Neurons.		
+R03TR003670	KCNJ15	2021	40074079	2025	cites, no funded gene found		J Biol Chem	Dynein light chains 1 and 2 are auxiliary proteins of pH-sensitive Kir4.1 channels.		
+R03TR003381	GPR31	2020	40186458	2025	cites, no funded gene found		Endocrinology	12-Lipoxygenase Inhibition Improves Glycemia and Obesity-associated Inflammation in Male Human Gene Replacement Mice.		
+R03TR004178	CLIC6	2022	40188360	2025	cites, no funded gene found		Biophys J	Biophysical characterization of anion channels in mitochondrion-endoplasmic-reticulum contact sites.		
+R03TR004452	MAP3K10	2023	40314847	2025	tied	MAP3K10	Angiogenesis	Mixed lineage kinase (MLK) controls tumor development and angiogenesis.		
+R03TR003619	CACNG3; CACNG4; CACNG5; CACNG7; CACNG8	2021	40316023	2025	tied	CACNG3; CACNG5	J Biol Chem	The impact of subunit type, alternative splicing, and auxiliary proteins on AMPA receptor trafficking.		
+R03TR004161	CACNA2D2; CACNA2D3	2022	40367942	2025	tied (manual review)	CACNA2D2; CACNA2D3	Neuron	Presynaptic α(2)δs specify synaptic gain, not synaptogenesis, in the mammalian brain.	yes	presynaptic alpha2delta triple knockout
+R03TR003350	GPR162	2020	40387487	2025	cites, no funded gene found		Physiol Rep	Microbiome affects mice metabolic homeostasis via differential regulation of gene expression in the brain and gut.		
+R03TR004200	KCNG2; KCNG3; KCNG4; KCNS1	2022	40423692	2025	tied	KCNG2; KCNG3; KCNG4; KCNS1	Elife	A Kv2 inhibitor combination reveals native neuronal conductances consistent with Kv2/KvS heteromers.		
+R03TR004471	KCNN1	2023	40438932	2025	family-level (manual review)		Circ Res	Pharmacological Enhancement of Small Conductance Ca(2+)-Activated K(+) Channels Suppresses Cardiac Arrhythmias in a Mouse Model of Catecholaminergic Polymorphic Ventricular Tachycardia.	family	pan-SK enhancer NS309; no isoform
+R03TR004191	TTYH1	2023	40450042	2025	tied	TTYH1	Nat Commun	Endolysosomal processing of neuron-derived signaling lipids regulates autophagy and lipid droplet degradation in astrocytes.		
+R03TR004478	GPR75	2023	40452921	2024	tied	GPR75	Genome Biol Mol Genet	The Synergistic and Opposing Roles of ω-Fatty Acid Hydroxylase (CYP4A11) and ω-1 Fatty Acid Hydroxylase (CYP2E1) in Chronic Liver Disease.		
+R03TR003350	GPR162	2020	40460721	2025	cites, no funded gene found		Eur J Med Chem	Discovery of novel and selective GPR17 antagonists as pharmacological tools for developing new therapeutic strategies in diabetes and obesity.		
+R03TR004209	GPR135; GPR45; GPR63	2022	40593758	2025	cites, no funded gene found		Nat Commun	The human ciliopathy protein RSG1 links the CPLANE complex to transition zone architecture.		
+R03TR003308	CAMK1D; CDK10; NUAK2; STK17A; STK17B; STK32B	2020	40862632	2025	cites, no funded gene found		J Proteome Res	diaPASEF-Powered Chemoproteomics Enables Deep Kinome Interaction Profiling.		
+R03TR004200	KCNG2; KCNG3; KCNG4; KCNS1	2022	40919874	2025	tied	KCNG4; KCNS1	Eur J Neurosci	Kv2/Kv6.4 Heteromeric Potassium Channels Are Expressed in Spinal Motoneurons and Localized at C-Bouton Synapses.		
+R03TR003350	GPR162	2020	41016636	2025	cites, no funded gene found		J Biol Chem	Leptin and G-protein coupled receptor (GPCR) signaling: Therapeutic potential in obesity.		
+R03TR003670	KCNJ15	2021	41042208	2025	cites, no funded gene found		J Gen Physiol	PIP2-driven cytoplasmic domain motions are coupled to Kir2 channel gating.		
+R03TR004480		2023	41064964	2025	award has no confirmed gene		J Cell Sci	Phosphatidylinositol 4,5-bisphosphate impacts extracellular vesicle shedding from C. elegans ciliated sensory neurons.		
+R03TR003669		2022	41148822	2025	award has no confirmed gene		Cells	Joint Acidosis and Acid-Sensing Receptors and Ion Channels in Osteoarthritis Pathobiology and Therapy.		
+R03TR003670	KCNJ15	2021	41172239	2025	cites, no funded gene found		Function (Oxf)	From Selective Permeation to Physiology in Potassium Channels.		
+R03TR003621	GPRC5B	2022	41204039	2025	tied	GPRC5B	Mol Neurobiol	Orphan Receptor GPRC5B Controls Adult Hippocampal Neurogenesis and Affects Retinoic Acid-Mediated Behaviors.		
+R03TR002914	PRKCQ	2019	41207627	2025	tied	PRKCQ	J Biol Chem	C-spine mutations of protein kinase C and Akt as a novel generalizable approach to create stable pseudokinases.		
+R03TR004477	TAAR2	2023	41330508	2026	tied	TAAR2	Cell Signal	Localization, trafficking, and signaling of trace amine-associated receptor 2 in mouse neuroblastoma cells.		
+R03TR004471	KCNN1	2023	41347808	2026	family-level (manual review)		J Physiol	Small-conductance Ca(2)⁺-activated K⁺ channels in cardiac excitation-contraction coupling: Bridging mitochondria, sarcolemma and antiarrhythmic therapy.	family	review naming SK1-3 together
+R03TR004157	CALHM6	2022	41407878	2025	cites, no funded gene found		NPJ Digit Med	Artificial intelligence for surgical scene understanding: a systematic review and reporting quality meta-analysis.		
+R03TR003350	GPR162	2020	41509321	2025	cites, no funded gene found		bioRxiv	Tirzepatide Synergizes with Leptin on Weight Loss and Restoring Metabolic Homeostasis in Diet-induced Obesity Model.		
+R03TR004178	CLIC6	2022	41715063	2026	cites, no funded gene found		BMC Biol	Chloride Intracellular Channel 4 (CLIC4) controls volume regulation in sperm development via Protein Kinase C (PKC).		
+R03TR004450	CDK19	2023	41861053	2026	cites, no funded gene found		Cardiovasc Res	Nuclear export by COPS5/CSN5/JAB1 mediates vascular smooth muscle cell dedifferentiation in neointimal hyperplasia.		
+R03CA250021	TSSK6	2019	41959133	2026	tied	TSSK6	bioRxiv	Aberrant expression of the testis kinase TSSK6activates FAK-STAT3 signaling to promote tumorigenic growth.		
+R03TR002914	PRKCQ	2019	41979916	2026	tied	PRKCQ	Biochem J	Protein kinase C theta: evolution, regulation, and function.		
+R03TR004452	MAP3K10	2023	42021732	2026	cites, no funded gene found		Arterioscler Thromb Vasc Biol	Common Coronary Artery Disease Risk Variants in Endothelial Regulatory Elements Modulate Tetraspanin 14 Expression and Notch Signaling.		
+R03TR004471	KCNN1	2023	42107762	2026	family-level (manual review)		J Mol Cell Cardiol	Restoration of mitochondrial Ca(2+) and redox homeostasis by enhancement of SK channels rescues Ca(2+) cycling in HFpEF cardiomyocytes.	family	SK enhancement; no isoform
+R03TR004157	CALHM6	2022	42286007	2026	cites, no funded gene found		Sci Data	Appendix300: Surgical video and patient metadata of 330 laparoscopic appendectomy cases from five institutions.		
+R03TR004460	KCNK12	2023	42368005	2026	tied	KCNK12	bioRxiv	A Forward Genetic Screen in Caenorhabditis elegans for Genes that Modulate α-synuclein-Induced Neurodegeneration through the Mitochondrial UPR.		
+R03DC019290	ADGRB3	2020	42565524	2026	cites, no funded gene found		J Comp Neurol	Brain-Wide Mapping and Synaptic Localization of C1QL3 Using a Novel Epitope-Tagged Knock-In Mouse.		
+R03TR004494	ADGRB3	2023	42565524	2026	cites, no funded gene found		J Comp Neurol	Brain-Wide Mapping and Synaptic Localization of C1QL3 Using a Novel Epitope-Tagged Knock-In Mouse.		

@@ -1,0 +1,31 @@
+comparison	part	measure	test	n_funded	n_never	funded	never	effect	range_95	p	p_adj
+funded vs never	5a	jensen	Mann-Whitney	98	226	median change +0.971; 97% rose	median change +0.734; 91% rose	P(funded change higher) = 0.55		0.1424	0.794
+funded vs never	5a	pubtator	Mann-Whitney	98	230	median change +0.399; 86% rose	median change +0.42; 80% rose	P(funded change higher) = 0.51		0.7664	0.9818
+funded vs never	5a	r01	Mann-Whitney	98	230	median change +0; 32% rose	median change +0; 23% rose	P(funded change higher) = 0.54		0.1588	0.794
+funded vs never	5b	papers	Mann-Whitney	98	228	median change +2.19; 91% rose	median change +1.61; 84% rose	P(funded change higher) = 0.54		0.2805	0.8678
+funded vs never	5b	grants	Mann-Whitney	98	230	median change +0.075; 54% rose	median change +0; 42% rose	P(funded change higher) = 0.56		0.05527	0.4145
+funded vs never	5b	partners	Mann-Whitney	98	230	median change +0; 23% rose	median change +0; 24% rose	P(funded change higher) = 0.51		0.7316	0.9818
+funded vs never	5b	go	Mann-Whitney	98	230	median change +0; 18% rose	median change +0; 13% rose	P(funded change higher) = 0.52		0.4095	0.9303
+funded vs never	5b	compounds	Mann-Whitney	98	230	median change +0; 48% rose	median change +0; 41% rose	P(funded change higher) = 0.53		0.4342	0.9303
+funded vs never	5b	structures	Mann-Whitney	98	230	median change +0; 35% rose	median change +0; 30% rose	P(funded change higher) = 0.53		0.3182	0.8678
+funded vs never	milestone	first_r01	Fisher	72	176	23/72 = 32%	45/176 = 26%	+6.4 points	-5.5 to +19.2	0.3474	0.8686
+funded vs never	milestone	first_structure	Fisher	84	188	28/84 = 33%	55/188 = 29%	+4.1 points	-7.4 to +16.3	0.5689	0.9451
+funded vs never	milestone	first_potent	Fisher	62	166	7/62 = 11%	14/166 = 8%	+2.9 points	-4.9 to +13.6	0.6068	0.9451
+funded vs never	milestone	first_partner	Fisher	54	142	8/54 = 15%	19/142 = 13%	+1.4 points	-8.2 to +14.1	0.8182	0.9818
+funded vs never	milestone	first_go	Fisher	33	88	6/33 = 18%	14/88 = 16%	+2.3 points	-10.9 to +19.6	0.7866	0.9818
+funded vs never	milestone	first_disease	Fisher	88	200	5/88 = 6%	13/200 = 6%	-0.8 points	-6.2 to +6.6	1	1
+round-1 funded vs never	5a	jensen	Mann-Whitney	27	226	median change +1.17; 96% rose	median change +0.734; 91% rose	P(funded change higher) = 0.56		0.3085	0.8678
+round-1 funded vs never	5a	pubtator	Mann-Whitney	27	230	median change +0.574; 81% rose	median change +0.42; 80% rose	P(funded change higher) = 0.51		0.8097	0.9818
+round-1 funded vs never	5a	r01	Mann-Whitney	27	230	median change +0; 37% rose	median change +0; 23% rose	P(funded change higher) = 0.54		0.4725	0.9449
+round-1 funded vs never	5b	papers	Mann-Whitney	27	228	median change +2.26; 78% rose	median change +1.61; 84% rose	P(funded change higher) = 0.54		0.5211	0.9451
+round-1 funded vs never	5b	grants	Mann-Whitney	27	230	median change +0.125; 63% rose	median change +0; 42% rose	P(funded change higher) = 0.63		0.0236	0.2375
+round-1 funded vs never	5b	partners	Mann-Whitney	27	230	median change +0; 26% rose	median change +0; 24% rose	P(funded change higher) = 0.56		0.2542	0.8678
+round-1 funded vs never	5b	go	Mann-Whitney	27	230	median change +0; 26% rose	median change +0; 13% rose	P(funded change higher) = 0.51		0.9181	1
+round-1 funded vs never	5b	compounds	Mann-Whitney	27	230	median change +0.133; 52% rose	median change +0; 41% rose	P(funded change higher) = 0.47		0.6301	0.9451
+round-1 funded vs never	5b	structures	Mann-Whitney	27	230	median change +0.125; 56% rose	median change +0; 30% rose	P(funded change higher) = 0.62		0.02375	0.2375
+round-1 funded vs never	milestone	first_r01	Fisher	18	176	6/18 = 33%	45/176 = 26%	+7.8 points	-10.6 to +31.4	0.5739	0.9451
+round-1 funded vs never	milestone	first_structure	Fisher	25	188	14/25 = 56%	55/188 = 29%	+26.7 points	+6.6 to +45.1	0.01135	0.2375
+round-1 funded vs never	milestone	first_potent	Fisher	15	166	1/15 = 7%	14/166 = 8%	-1.8 points	-9.3 to +21.6	1	1
+round-1 funded vs never	milestone	first_partner	Fisher	15	142	2/15 = 13%	19/142 = 13%	-0.0 points	-11.7 to +24.9	1	1
+round-1 funded vs never	milestone	first_go	Fisher	6	88	2/6 = 33%	14/88 = 16%	+17.4 points	-7.9 to +54.6	0.2697	0.8678
+round-1 funded vs never	milestone	first_disease	Fisher	23	200	1/23 = 4%	13/200 = 6%	-2.2 points	-7.7 to +14.7	1	1

@@ -1,0 +1,1024 @@
+{
+ "cores": [
+  "R03AA029013",
+  "R03CA250020",
+  "R03CA250021",
+  "R03DA051066",
+  "R03DA054712",
+  "R03DC019290",
+  "R03DK124904",
+  "R03HL156574",
+  "R03MH122261",
+  "R03NS115653",
+  "R03NS120516",
+  "R03TR002838",
+  "R03TR002873",
+  "R03TR002907",
+  "R03TR002908",
+  "R03TR002912",
+  "R03TR002914",
+  "R03TR002929",
+  "R03TR002937",
+  "R03TR002940",
+  "R03TR002947",
+  "R03TR003299",
+  "R03TR003306",
+  "R03TR003307",
+  "R03TR003308",
+  "R03TR003313",
+  "R03TR003324",
+  "R03TR003343",
+  "R03TR003344",
+  "R03TR003350",
+  "R03TR003358",
+  "R03TR003368",
+  "R03TR003370",
+  "R03TR003380",
+  "R03TR003381",
+  "R03TR003384",
+  "R03TR003386",
+  "R03TR003387",
+  "R03TR003392",
+  "R03TR003400",
+  "R03TR003402",
+  "R03TR003619",
+  "R03TR003621",
+  "R03TR003624",
+  "R03TR003626",
+  "R03TR003639",
+  "R03TR003641",
+  "R03TR003644",
+  "R03TR003648",
+  "R03TR003650",
+  "R03TR003655",
+  "R03TR003660",
+  "R03TR003667",
+  "R03TR003669",
+  "R03TR003670",
+  "R03TR003673",
+  "R03TR003679",
+  "R03TR003686",
+  "R03TR003694",
+  "R03TR003700",
+  "R03TR003701",
+  "R03TR003705",
+  "R03TR003706",
+  "R03TR004114",
+  "R03TR004135",
+  "R03TR004144",
+  "R03TR004157",
+  "R03TR004158",
+  "R03TR004161",
+  "R03TR004164",
+  "R03TR004173",
+  "R03TR004178",
+  "R03TR004179",
+  "R03TR004191",
+  "R03TR004193",
+  "R03TR004196",
+  "R03TR004200",
+  "R03TR004204",
+  "R03TR004206",
+  "R03TR004209",
+  "R03TR004445",
+  "R03TR004450",
+  "R03TR004452",
+  "R03TR004459",
+  "R03TR004460",
+  "R03TR004465",
+  "R03TR004471",
+  "R03TR004472",
+  "R03TR004473",
+  "R03TR004477",
+  "R03TR004478",
+  "R03TR004480",
+  "R03TR004481",
+  "R03TR004483",
+  "R03TR004487",
+  "R03TR004489",
+  "R03TR004494",
+  "R03TR004497"
+ ],
+ "results": [
+  {
+   "coreproject": "R03TR004494",
+   "pmid": 42565524,
+   "applid": 10667127
+  },
+  {
+   "coreproject": "R03TR004480",
+   "pmid": 39975196,
+   "applid": 10666794
+  },
+  {
+   "coreproject": "R03TR004480",
+   "pmid": 41064964,
+   "applid": 10666794
+  },
+  {
+   "coreproject": "R03TR004478",
+   "pmid": 39959811,
+   "applid": 10666762
+  },
+  {
+   "coreproject": "R03TR004478",
+   "pmid": 38876306,
+   "applid": 10666762
+  },
+  {
+   "coreproject": "R03TR004478",
+   "pmid": 38697309,
+   "applid": 10666762
+  },
+  {
+   "coreproject": "R03TR004478",
+   "pmid": 40452921,
+   "applid": 10666762
+  },
+  {
+   "coreproject": "R03TR004477",
+   "pmid": 41330508,
+   "applid": 10666759
+  },
+  {
+   "coreproject": "R03TR004473",
+   "pmid": 38565949,
+   "applid": 10666257
+  },
+  {
+   "coreproject": "R03TR004472",
+   "pmid": 37337931,
+   "applid": 10666206
+  },
+  {
+   "coreproject": "R03TR004472",
+   "pmid": 37358504,
+   "applid": 10666206
+  },
+  {
+   "coreproject": "R03TR004472",
+   "pmid": 37367869,
+   "applid": 10666206
+  },
+  {
+   "coreproject": "R03TR004471",
+   "pmid": 39355981,
+   "applid": 10666164
+  },
+  {
+   "coreproject": "R03TR004471",
+   "pmid": 37742783,
+   "applid": 10666164
+  },
+  {
+   "coreproject": "R03TR004471",
+   "pmid": 40438932,
+   "applid": 10666164
+  },
+  {
+   "coreproject": "R03TR004471",
+   "pmid": 42107762,
+   "applid": 10666164
+  },
+  {
+   "coreproject": "R03TR004471",
+   "pmid": 41347808,
+   "applid": 10666164
+  },
+  {
+   "coreproject": "R03TR004460",
+   "pmid": 42368005,
+   "applid": 10665836
+  },
+  {
+   "coreproject": "R03TR004459",
+   "pmid": 39669557,
+   "applid": 10665494
+  },
+  {
+   "coreproject": "R03TR004459",
+   "pmid": 39687626,
+   "applid": 10665494
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 37905100,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 42021732,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 38767050,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 39213161,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 37706319,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004452",
+   "pmid": 40314847,
+   "applid": 10664335
+  },
+  {
+   "coreproject": "R03TR004450",
+   "pmid": 38612964,
+   "applid": 10664327
+  },
+  {
+   "coreproject": "R03TR004450",
+   "pmid": 41861053,
+   "applid": 10664327
+  },
+  {
+   "coreproject": "R03TR004450",
+   "pmid": 38542359,
+   "applid": 10664327
+  },
+  {
+   "coreproject": "R03TR004445",
+   "pmid": 39070968,
+   "applid": 11014779
+  },
+  {
+   "coreproject": "R03TR004445",
+   "pmid": 38645692,
+   "applid": 11014779
+  },
+  {
+   "coreproject": "R03TR004209",
+   "pmid": 37164543,
+   "applid": 10452377
+  },
+  {
+   "coreproject": "R03TR004209",
+   "pmid": 40593758,
+   "applid": 10452377
+  },
+  {
+   "coreproject": "R03TR004209",
+   "pmid": 36580912,
+   "applid": 10452377
+  },
+  {
+   "coreproject": "R03TR004206",
+   "pmid": 38937710,
+   "applid": 10452320
+  },
+  {
+   "coreproject": "R03TR004200",
+   "pmid": 40423692,
+   "applid": 10452154
+  },
+  {
+   "coreproject": "R03TR004200",
+   "pmid": 38352561,
+   "applid": 10452154
+  },
+  {
+   "coreproject": "R03TR004200",
+   "pmid": 40919874,
+   "applid": 10452154
+  },
+  {
+   "coreproject": "R03TR004200",
+   "pmid": 39933932,
+   "applid": 10452154
+  },
+  {
+   "coreproject": "R03TR004200",
+   "pmid": 38328147,
+   "applid": 10452154
+  },
+  {
+   "coreproject": "R03TR004193",
+   "pmid": 39753689,
+   "applid": 10452011
+  },
+  {
+   "coreproject": "R03TR004191",
+   "pmid": 37870193,
+   "applid": 10666127
+  },
+  {
+   "coreproject": "R03TR004191",
+   "pmid": 40450042,
+   "applid": 10666127
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 38561252,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 37838179,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 40188360,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 38573803,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 39747826,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 41715063,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 27846824,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004178",
+   "pmid": 36269835,
+   "applid": 10451254
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 37276687,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 37849785,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 38155373,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 38605812,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 37638292,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 40367942,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004161",
+   "pmid": 36527762,
+   "applid": 10450212
+  },
+  {
+   "coreproject": "R03TR004157",
+   "pmid": 39687626,
+   "applid": 10449780
+  },
+  {
+   "coreproject": "R03TR004157",
+   "pmid": 39669557,
+   "applid": 10449780
+  },
+  {
+   "coreproject": "R03TR004157",
+   "pmid": 42286007,
+   "applid": 10449780
+  },
+  {
+   "coreproject": "R03TR004157",
+   "pmid": 41407878,
+   "applid": 10449780
+  },
+  {
+   "coreproject": "R03TR004144",
+   "pmid": 38123514,
+   "applid": 10448070
+  },
+  {
+   "coreproject": "R03TR004144",
+   "pmid": 32160132,
+   "applid": 10448070
+  },
+  {
+   "coreproject": "R03TR004144",
+   "pmid": 38429163,
+   "applid": 10448070
+  },
+  {
+   "coreproject": "R03TR004135",
+   "pmid": 37873384,
+   "applid": 10445688
+  },
+  {
+   "coreproject": "R03TR004135",
+   "pmid": 38350449,
+   "applid": 10445688
+  },
+  {
+   "coreproject": "R03TR004135",
+   "pmid": 38303511,
+   "applid": 10445688
+  },
+  {
+   "coreproject": "R03TR004135",
+   "pmid": 37873407,
+   "applid": 10445688
+  },
+  {
+   "coreproject": "R03TR003701",
+   "pmid": 39846842,
+   "applid": 10217878
+  },
+  {
+   "coreproject": "R03TR003686",
+   "pmid": 36921719,
+   "applid": 10217716
+  },
+  {
+   "coreproject": "R03TR003686",
+   "pmid": 38530359,
+   "applid": 10217716
+  },
+  {
+   "coreproject": "R03TR003673",
+   "pmid": 35998009,
+   "applid": 10217542
+  },
+  {
+   "coreproject": "R03TR003673",
+   "pmid": 38825009,
+   "applid": 10217542
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 41042208,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 36993294,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 41172239,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 37507406,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 36524992,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 37168492,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003670",
+   "pmid": 40074079,
+   "applid": 10217510
+  },
+  {
+   "coreproject": "R03TR003669",
+   "pmid": 38077417,
+   "applid": 10452259
+  },
+  {
+   "coreproject": "R03TR003669",
+   "pmid": 41148822,
+   "applid": 10452259
+  },
+  {
+   "coreproject": "R03TR003667",
+   "pmid": 36933620,
+   "applid": 10217478
+  },
+  {
+   "coreproject": "R03TR003655",
+   "pmid": 38282864,
+   "applid": 10216693
+  },
+  {
+   "coreproject": "R03TR003648",
+   "pmid": 35553110,
+   "applid": 10216549
+  },
+  {
+   "coreproject": "R03TR003624",
+   "pmid": 36376561,
+   "applid": 10214915
+  },
+  {
+   "coreproject": "R03TR003624",
+   "pmid": 37534432,
+   "applid": 10214915
+  },
+  {
+   "coreproject": "R03TR003621",
+   "pmid": 37567783,
+   "applid": 10450922
+  },
+  {
+   "coreproject": "R03TR003621",
+   "pmid": 41204039,
+   "applid": 10450922
+  },
+  {
+   "coreproject": "R03TR003619",
+   "pmid": 40316023,
+   "applid": 10214790
+  },
+  {
+   "coreproject": "R03TR003392",
+   "pmid": 36322399,
+   "applid": 10047605
+  },
+  {
+   "coreproject": "R03TR003392",
+   "pmid": 36778451,
+   "applid": 10047605
+  },
+  {
+   "coreproject": "R03TR003387",
+   "pmid": 37949765,
+   "applid": 10217666
+  },
+  {
+   "coreproject": "R03TR003387",
+   "pmid": 35484036,
+   "applid": 10217666
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 31941153,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 33215924,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 34712241,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 34264658,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 37046733,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 34196902,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 33749548,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 38523660,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 33429995,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 33012852,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003386",
+   "pmid": 37642371,
+   "applid": 10047560
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 32918516,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 34414399,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 34064822,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 39091839,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 40186458,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 39868153,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003381",
+   "pmid": 39531315,
+   "applid": 10047529
+  },
+  {
+   "coreproject": "R03TR003380",
+   "pmid": 37944084,
+   "applid": 10217304
+  },
+  {
+   "coreproject": "R03TR003370",
+   "pmid": 35101647,
+   "applid": 10047390
+  },
+  {
+   "coreproject": "R03TR003368",
+   "pmid": 35628521,
+   "applid": 10216726
+  },
+  {
+   "coreproject": "R03TR003358",
+   "pmid": 34365229,
+   "applid": 10047185
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 34986353,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 40387487,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 37838950,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 41016636,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 41509321,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 40460721,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003350",
+   "pmid": 34801552,
+   "applid": 10046905
+  },
+  {
+   "coreproject": "R03TR003344",
+   "pmid": 37014740,
+   "applid": 10451169
+  },
+  {
+   "coreproject": "R03TR003343",
+   "pmid": 36040810,
+   "applid": 10046375
+  },
+  {
+   "coreproject": "R03TR003324",
+   "pmid": 36200848,
+   "applid": 10216717
+  },
+  {
+   "coreproject": "R03TR003313",
+   "pmid": 33250721,
+   "applid": 10046030
+  },
+  {
+   "coreproject": "R03TR003313",
+   "pmid": 35830691,
+   "applid": 10046030
+  },
+  {
+   "coreproject": "R03TR003313",
+   "pmid": 39436946,
+   "applid": 10046030
+  },
+  {
+   "coreproject": "R03TR003313",
+   "pmid": 33293550,
+   "applid": 10046030
+  },
+  {
+   "coreproject": "R03TR003313",
+   "pmid": 36007929,
+   "applid": 10046030
+  },
+  {
+   "coreproject": "R03TR003308",
+   "pmid": 36736316,
+   "applid": 10045760
+  },
+  {
+   "coreproject": "R03TR003308",
+   "pmid": 40862632,
+   "applid": 10045760
+  },
+  {
+   "coreproject": "R03TR003308",
+   "pmid": 39605566,
+   "applid": 10045760
+  },
+  {
+   "coreproject": "R03TR003307",
+   "pmid": 35788155,
+   "applid": 10045757
+  },
+  {
+   "coreproject": "R03TR003307",
+   "pmid": 37566654,
+   "applid": 10045757
+  },
+  {
+   "coreproject": "R03TR003306",
+   "pmid": 35217703,
+   "applid": 10217380
+  },
+  {
+   "coreproject": "R03TR003306",
+   "pmid": 34737341,
+   "applid": 10217380
+  },
+  {
+   "coreproject": "R03TR003299",
+   "pmid": 36861806,
+   "applid": 10044119
+  },
+  {
+   "coreproject": "R03TR002947",
+   "pmid": 36202993,
+   "applid": 9813753
+  },
+  {
+   "coreproject": "R03TR002947",
+   "pmid": 33058759,
+   "applid": 9813753
+  },
+  {
+   "coreproject": "R03TR002947",
+   "pmid": 32124520,
+   "applid": 9813753
+  },
+  {
+   "coreproject": "R03TR002947",
+   "pmid": 34330820,
+   "applid": 9813753
+  },
+  {
+   "coreproject": "R03TR002940",
+   "pmid": 39103231,
+   "applid": 9813714
+  },
+  {
+   "coreproject": "R03TR002940",
+   "pmid": 38705568,
+   "applid": 9813714
+  },
+  {
+   "coreproject": "R03TR002937",
+   "pmid": 33652597,
+   "applid": 9813704
+  },
+  {
+   "coreproject": "R03TR002937",
+   "pmid": 35127560,
+   "applid": 9813704
+  },
+  {
+   "coreproject": "R03TR002937",
+   "pmid": 36146870,
+   "applid": 9813704
+  },
+  {
+   "coreproject": "R03TR002937",
+   "pmid": 37515252,
+   "applid": 9813704
+  },
+  {
+   "coreproject": "R03TR002929",
+   "pmid": 39900506,
+   "applid": 9813589
+  },
+  {
+   "coreproject": "R03TR002914",
+   "pmid": 41979916,
+   "applid": 9813191
+  },
+  {
+   "coreproject": "R03TR002914",
+   "pmid": 38752473,
+   "applid": 9813191
+  },
+  {
+   "coreproject": "R03TR002914",
+   "pmid": 33166426,
+   "applid": 9813191
+  },
+  {
+   "coreproject": "R03TR002914",
+   "pmid": 41207627,
+   "applid": 9813191
+  },
+  {
+   "coreproject": "R03TR002912",
+   "pmid": 35136069,
+   "applid": 9813105
+  },
+  {
+   "coreproject": "R03TR002908",
+   "pmid": 32358068,
+   "applid": 9812865
+  },
+  {
+   "coreproject": "R03TR002908",
+   "pmid": 29284676,
+   "applid": 9812865
+  },
+  {
+   "coreproject": "R03TR002908",
+   "pmid": 32729927,
+   "applid": 9812865
+  },
+  {
+   "coreproject": "R03TR002908",
+   "pmid": 32434907,
+   "applid": 9812865
+  },
+  {
+   "coreproject": "R03TR002908",
+   "pmid": 33009526,
+   "applid": 9812865
+  },
+  {
+   "coreproject": "R03TR002873",
+   "pmid": 35440113,
+   "applid": 9811165
+  },
+  {
+   "coreproject": "R03TR002873",
+   "pmid": 33103016,
+   "applid": 9811165
+  },
+  {
+   "coreproject": "R03TR002838",
+   "pmid": 36539034,
+   "applid": 9807745
+  },
+  {
+   "coreproject": "R03NS120516",
+   "pmid": 33064840,
+   "applid": 10046413
+  },
+  {
+   "coreproject": "R03NS115653",
+   "pmid": 35353835,
+   "applid": 9813213
+  },
+  {
+   "coreproject": "R03NS115653",
+   "pmid": 32161339,
+   "applid": 9813213
+  },
+  {
+   "coreproject": "R03NS115653",
+   "pmid": 34480956,
+   "applid": 9813213
+  },
+  {
+   "coreproject": "R03NS115653",
+   "pmid": 35650675,
+   "applid": 9813213
+  },
+  {
+   "coreproject": "R03HL156574",
+   "pmid": 39164231,
+   "applid": 10046930
+  },
+  {
+   "coreproject": "R03HL156574",
+   "pmid": 34937919,
+   "applid": 10046930
+  },
+  {
+   "coreproject": "R03HL156574",
+   "pmid": 33753942,
+   "applid": 10046930
+  },
+  {
+   "coreproject": "R03DK124904",
+   "pmid": 35951356,
+   "applid": 9813755
+  },
+  {
+   "coreproject": "R03DC019290",
+   "pmid": 42565524,
+   "applid": 10044199
+  },
+  {
+   "coreproject": "R03DC019290",
+   "pmid": 39257292,
+   "applid": 10044199
+  },
+  {
+   "coreproject": "R03DC019290",
+   "pmid": 38858133,
+   "applid": 10044199
+  },
+  {
+   "coreproject": "R03DA051066",
+   "pmid": 35064871,
+   "applid": 9813292
+  },
+  {
+   "coreproject": "R03DA051066",
+   "pmid": 32534899,
+   "applid": 9813292
+  },
+  {
+   "coreproject": "R03CA250021",
+   "pmid": 38762178,
+   "applid": 9811702
+  },
+  {
+   "coreproject": "R03CA250021",
+   "pmid": 41959133,
+   "applid": 9811702
+  },
+  {
+   "coreproject": "R03CA250020",
+   "pmid": 34143170,
+   "applid": 9813666
+  },
+  {
+   "coreproject": "R03CA250020",
+   "pmid": 32298120,
+   "applid": 9813666
+  },
+  {
+   "coreproject": "R03AA029013",
+   "pmid": 34387471,
+   "applid": 10038885
+  },
+  {
+   "coreproject": "R03AA029013",
+   "pmid": 36587872,
+   "applid": 10038885
+  }
+ ]
+}

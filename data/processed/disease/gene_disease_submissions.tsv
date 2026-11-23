@@ -1,0 +1,379 @@
+gene	hgnc_id	disease_curie	disease_title	grade	moderate_plus	moi	submitter	submitted_year	pmids	first_paper_year	r03_for_this_gene
+CACNA1D	HGNC:1391	MONDO:0014200	aldosterone-producing adenoma with seizures and neurological abnormalities	Moderate	1	Autosomal dominant	Ambry Genetics	2018			
+CACNA2D2	HGNC:1400	MONDO:0032788	cerebellar atrophy with seizures and variable developmental delay	Strong	1	Autosomal recessive	Ambry Genetics	2020			
+CLCNKA	HGNC:2026	MONDO:0000909	Bartter disease type 4B	Moderate	1	Unknown	Ambry Genetics	2018			
+CLIC5	HGNC:13517	MONDO:0014469	autosomal recessive nonsyndromic hearing loss 103	Limited	0	Autosomal recessive	Ambry Genetics	2020			
+DSTYK	HGNC:29043	MONDO:0012561	congenital anomalies of kidney and urinary tract 1	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+GLRB	HGNC:4329	MONDO:0013828	hyperekplexia 2	Strong	1	Autosomal recessive	Ambry Genetics	2018			
+KCNT2	HGNC:18866	MONDO:0033366	developmental and epileptic encephalopathy, 57	Moderate	1	Autosomal dominant	Ambry Genetics	2020			
+BCKDK	HGNC:16902	MONDO:0013970	branched-chain keto acid dehydrogenase kinase deficiency	Strong	1	Autosomal recessive	Ambry Genetics	2018			
+CACNB2	HGNC:1402	MONDO:0012743	Brugada syndrome 4	Disputed	0	Autosomal dominant	Ambry Genetics	2020			
+CDK19	HGNC:19338	MONDO:0030059	developmental and epileptic encephalopathy, 87	Limited	0	Autosomal dominant	Ambry Genetics	2020			
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Moderate	1	Autosomal dominant	Ambry Genetics	2018			
+CLIC2	HGNC:2063	MONDO:0010473	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	Disputed	0	X-linked	Ambry Genetics	2018			
+GPR68	HGNC:4519	MONDO:0014971	amelogenesis imperfecta, hypomaturation type, IIa6	Limited	0	Autosomal recessive	Ambry Genetics	2024			
+GPR88	HGNC:4539	MONDO:0014839	chorea, childhood-onset, with psychomotor retardation	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+KCNJ18	HGNC:39080	MONDO:0013193	thyrotoxic periodic paralysis, susceptibility to, 2	Strong	1	Autosomal dominant	Ambry Genetics	2018			
+KCNK4	HGNC:6279	MONDO:0032714	facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome	Moderate	1	Autosomal dominant	Ambry Genetics	2024			
+KCNT1	HGNC:18865	MONDO:0013989	developmental and epileptic encephalopathy, 14	Moderate	1	Autosomal dominant	Ambry Genetics	2018			
+KCNT1	HGNC:18865	MONDO:0014002	autosomal dominant nocturnal frontal lobe epilepsy 5	Moderate	1	Autosomal dominant	Ambry Genetics	2018			
+LPAR6	HGNC:15520	MONDO:0010206	hypotrichosis 8	Strong	1	Autosomal recessive	Ambry Genetics	2018			
+MARK3	HGNC:6897	MONDO:0032655	visual impairment and progressive phthisis bulbi	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+NEK10	HGNC:18592	MONDO:0032914	ciliary dyskinesia, primary, 44	Limited	0	Autosomal recessive	Ambry Genetics	2020			
+PAK3	HGNC:8592	MONDO:0010361	intellectual disability, X-linked 30	Moderate	1	X-linked	Ambry Genetics	2017			
+POMK	HGNC:26267	MONDO:0014101	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12	Moderate	1	Autosomal recessive	Ambry Genetics	2018			
+RPS6KC1	HGNC:10439	MONDO:0015742	periventricular leukomalacia	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+SCN2B	HGNC:10589	MONDO:0014156	atrial fibrillation, familial, 14	Moderate	1	Autosomal dominant	Ambry Genetics	2018			
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Moderate	1	Autosomal recessive	Ambry Genetics	2015			
+SCYL2	HGNC:19286	MONDO:0032903	arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum	Moderate	1	Autosomal recessive	Ambry Genetics	2020			
+SLC26A1	HGNC:10993	MONDO:0020722	nephrolithiasis susceptibility caused by SLC26A1	Moderate	1	Autosomal recessive	Ambry Genetics	2018			
+SRPK3	HGNC:11402	MONDO:0001071	intellectual disability	Limited	0	X-linked	Ambry Genetics	2020			
+STKLD1	HGNC:28669	MONDO:0021003	polydactyly	Limited	0	Autosomal dominant	Ambry Genetics	2019			
+TAOK1	HGNC:29259	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal dominant	Ambry Genetics	2019			
+TAOK2	HGNC:16835	MONDO:0021094	immunodeficiency disease	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+TAOK2	HGNC:16835	MONDO:0005258	autism spectrum disorder	Limited	0	Autosomal dominant	Ambry Genetics	2020			
+TLK2	HGNC:11842	MONDO:0054837	intellectual disability, autosomal dominant 57	Definitive	1	Autosomal dominant	Ambry Genetics	2018			
+TMEM63A	HGNC:29118	MONDO:0032871	leukodystrophy, hypomyelinating, 19, transient infantile	Limited	0	Autosomal dominant	Ambry Genetics	2019			
+TP53RK	HGNC:16197	MONDO:0033008	Galloway-Mowat syndrome 4	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+ULK4	HGNC:15784	MONDO:0008315	prostate cancer	Limited	0	Autosomal dominant	Ambry Genetics	2020			
+WEE2	HGNC:19684	MONDO:0020837	oocyte maturation defect 5	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+ADGRG4	HGNC:18992	MONDO:0005258	autism spectrum disorder	Limited	0	Autosomal dominant	Ambry Genetics	2020			
+CDC42BPB	HGNC:1738	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal dominant	Ambry Genetics	2020			
+CDK20	HGNC:21420	MONDO:0100038	complex neurodevelopmental disorder	Limited	0	Autosomal recessive	Ambry Genetics	2018			
+CSNK1G1	HGNC:2454	MONDO:0100038	complex neurodevelopmental disorder	Limited	0	Autosomal dominant	Ambry Genetics	2020			
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Moderate	1	Semidominant	Ambry Genetics	2022			
+CLCN6	HGNC:2024	MONDO:0030947	neuronal ceroid lipofuscinosis 15	Limited	0	Autosomal dominant	Ambry Genetics	2023			
+COQ8B	HGNC:19041	MONDO:0014257	nephrotic syndrome, type 9	Definitive	1	Autosomal recessive	Ambry Genetics	2022			
+DYRK1B	HGNC:3092	MONDO:0014352	abdominal obesity-metabolic syndrome 3	Moderate	1	Autosomal dominant	Ambry Genetics	2022			
+NEK9	HGNC:18591	MONDO:0014870	NEK9-related lethal skeletal dysplasia	Moderate	1	Autosomal recessive	Ambry Genetics	2022			
+PRKACB	HGNC:9381	MONDO:0030877	cardioacrofacial dysplasia 2	Moderate	1	Autosomal dominant	Ambry Genetics	2023			
+TMEM63C	HGNC:23787	MONDO:0031019	spastic paraplegia 87, autosomal recessive	Limited	0	Autosomal recessive	Ambry Genetics	2022			
+GPRC5B	HGNC:13308	MONDO:0957533	megalencephalic leukoencephalopathy with subcortical cysts 3	Limited	0	Autosomal dominant	Ambry Genetics	2023			
+PIP5K1C	HGNC:8996	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal dominant	Ambry Genetics	2023			
+TMEM63B	HGNC:17735	MONDO:0100038	complex neurodevelopmental disorder	Strong	1	Autosomal dominant	Ambry Genetics	2023			
+CHRNB1	HGNC:1961	MONDO:0014581	congenital myasthenic syndrome 2A	Moderate	1	Autosomal dominant	Ambry Genetics	2024			
+GPR156	HGNC:20844	MONDO:0957825	hearing loss, autosomal recessive 121	Moderate	1	Autosomal recessive	Ambry Genetics	2024			
+KCNA6	HGNC:6225	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal dominant	Ambry Genetics	2024			
+SCNN1B	HGNC:10600	MONDO:0859317	pseudohypoaldosteronism, type IB2, autosomal recessive	Definitive	1	Autosomal recessive	Ambry Genetics	2024			
+SCNN1B	HGNC:10600	MONDO:0008887	bronchiectasis with or without elevated sweat chloride 1	Limited	0	Semidominant	Ambry Genetics	2024			
+SCNN1B	HGNC:10600	MONDO:0020607	Liddle syndrome 1	Definitive	1	Autosomal dominant	Ambry Genetics	2024			
+STK36	HGNC:17209	MONDO:0030332	ciliary dyskinesia, primary, 46	Limited	0	Autosomal recessive	Ambry Genetics	2024			
+LMTK3	HGNC:19295	MONDO:0100038	complex neurodevelopmental disorder	Limited	0	Autosomal dominant	Ambry Genetics	2025			
+SRPK3	HGNC:11402	MONDO:0975828	intellectual developmental disorder, X-linked 114	Limited	0	X-linked	Ambry Genetics	2025			
+KCNJ18	HGNC:39080	MONDO:0013193	thyrotoxic periodic paralysis, susceptibility to, 2	Limited	0	Autosomal dominant	Ambry Genetics	2025			
+WEE2	HGNC:19684	MONDO:0020837	oocyte maturation defect 5	Definitive	1	Autosomal recessive	Ambry Genetics	2024			
+DSTYK	HGNC:29043	MONDO:0015150	complex hereditary spastic paraplegia	Moderate	1	Autosomal recessive	ClinGen	2023	28157540	2017	
+PAK3	HGNC:8592	MONDO:0100148	X-linked complex neurodevelopmental disorder	Definitive	1	X-linked	ClinGen	2026	9731525;10946356;12676796;12884430;16014725;17537723;17853471;18523455;24556213;25533962;25666757;27753653;28126652;28481730;29246092;31843706;31943058;41223971	1998	
+GPR143	HGNC:20145	MONDO:0700230	GPR143-related foveal hypoplasia	Definitive	1	X-linked	ClinGen	2022	7647783;8634705;10471510;11092754;11520764;12515581;17516023;18523664;18697795;18978956;19390656;19717472;25690007;27720922;28211458;29847651;30239781;31606330	1995	
+BCKDK	HGNC:16902	MONDO:0013970	branched-chain keto acid dehydrogenase kinase deficiency	Definitive	1	Autosomal recessive	ClinGen	2019	8064409;16875466;22956686;24449431;26809120;27472223	1994	
+CDK16	HGNC:8749	MONDO:0100148	X-linked complex neurodevelopmental disorder	Limited	0	X-linked	ClinGen	2021	16461345;20510931;25644381;26205494;29667327;30880224	2006	
+TAOK1	HGNC:29259	MONDO:0000508	syndromic intellectual disability	Definitive	1	Autosomal dominant	ClinGen	2021	14517247;26996505;31230721;33565190	2003	
+CACNA2D4	HGNC:20202	MONDO:0700244	CACNA2D4-related retinopathy	Definitive	1	Autosomal recessive	ClinGen	2023	17033974;25356976;26560832;28041643;31834350	2006	
+NEK1	HGNC:7744	MONDO:0054750	amyotrophic lateral sclerosis, susceptibility to, 24	Definitive	1	Autosomal dominant	ClinGen	2022	25700176;26945885;27455347;28935222;29149916;29929116;30093141;30940688;30976013;30992335;31108397;31475037;31768050;32462798;32772750;32920598;33445179;34544842;34564799	2015	
+CACNB4	HGNC:1404	MONDO:0005027	epilepsy	Refuted	0	Autosomal dominant	ClinGen	2022	9039265;9442082;10762541;18755274;24875574;27959697;32042491	1997	
+ALPK3	HGNC:17574	MONDO:0005045	hypertrophic cardiomyopathy	Definitive	1	Autosomal recessive	ClinGen	2022	11418590;21441111;26846950;27106955;28630369;30046096;31074094;32480058;33076350;34862804	2001	
+CHRNA2	HGNC:1956	MONDO:0017615	benign familial infantile epilepsy	Disputed	0	Autosomal dominant	ClinGen	2020	25847220	2015	
+COQ8B	HGNC:19041	MONDO:0044970	mitochondrial disease	Definitive	1	Autosomal recessive	ClinGen	2023	24270420;32381600	2013	
+CHRNA2	HGNC:1956	MONDO:0000030	familial sleep-related hypermotor epilepsy	Limited	0	Autosomal dominant	ClinGen	2020	16826524;25770198;30809122	2006	
+NEK10	HGNC:18592	MONDO:0032914	ciliary dyskinesia, primary, 44	Definitive	1	Autosomal recessive	ClinGen	2025	29581457;31959991;32414360;33875846;35728977;37998386	2018	
+CACNA2D2	HGNC:1400	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal recessive	ClinGen	2023	11756448;14660671;23339110;24358150;29997391;30410802;31130284;31402629;33798445	2002	
+CACNA1D	HGNC:1391	MONDO:0013960	sinoatrial node dysfunction and deafness	Moderate	1	Autosomal recessive	ClinGen	2024	10929716;15357422;21131953;22678062;30498240;32747562	2000	
+CLIC2	HGNC:2063	MONDO:0100148	X-linked complex neurodevelopmental disorder	Disputed	0	X-linked	ClinGen	2021	22814392;28333917;31349857	2012	
+KCNT1	HGNC:18865	MONDO:0020072	childhood-onset epilepsy syndrome	Definitive	1	Autosomal dominant	ClinGen	2022	23086397;24029078;26725113;29196579;32167590;33113364	2012	
+CDK13	HGNC:1733	MONDO:0000508	syndromic intellectual disability	Definitive	1	Autosomal dominant	ClinGen	2021	27479907;28807008;29021403;29222009	2016	
+MAP3K14	HGNC:6853	MONDO:0018642	NIK deficiency	Moderate	1	Autosomal recessive	ClinGen	2025	10319865;15084608;25406581;26593098;28580957;29230214;30445060	1999	
+SCN2B	HGNC:10589	MONDO:0011001	Brugada syndrome 1	Disputed	0	Autosomal dominant	ClinGen	2017	19808477;23559163;26173111;26179811;27932425	2009	
+KCNK4	HGNC:6279	MONDO:0032714	facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome	Moderate	1	Autosomal dominant	ClinGen	2024	30290154;32913098;32981868;36225112;36683851;37750049;37931962;39146707	2018	
+CACNA1D	HGNC:1391	MONDO:0100038	complex neurodevelopmental disorder	Definitive	1	Autosomal dominant	ClinGen	2024	22495309;22542183;23913001;25533962;28318089;28472301;28726809;30698561;32583268;36208199;37122292;38785745	2012	
+PRKACG	HGNC:9382	MONDO:0014518	platelet-type bleeding disorder 19	Disputed	0	Autosomal recessive	ClinGen	2024	25061177	2014	
+MAST2	HGNC:19035	MONDO:0000831	thrombotic disease	Limited	0	Autosomal dominant	ClinGen	2025	33465109	2021	
+ALPK3	HGNC:17574	MONDO:0005045	hypertrophic cardiomyopathy	Strong	1	Autosomal dominant	ClinGen	2025	11418590;30046096;32480058;33191771;33302605;34263907;36321451;39196058	2001	
+CACNB2	HGNC:1402	MONDO:0100547	cardiogenetic disease	Disputed	0	Autosomal dominant	ClinGen	2025	17224476;17556655;19358333;21111744;21357697;24309898;28614222;34307509	2007	
+STK36	HGNC:17209	MONDO:0030332	ciliary dyskinesia, primary, 46	Moderate	1	Autosomal recessive	ClinGen	2024	10806483;16055717;19305393;28543983;36786090;36989043;37584603	2000	
+TLK2	HGNC:11842	MONDO:0100038	complex neurodevelopmental disorder	Definitive	1	Autosomal dominant	ClinGen	2024	25363768;29861108;29955062;33323470;34821460	2014	
+CHRNB1	HGNC:1961	MONDO:0014581	congenital myasthenic syndrome 2A	Moderate	1	Autosomal dominant	ClinGen	2025	8651643;8872460;10562302;14991812;16624571;20562457;21822932;25613900;27375219;29054425;29874875;32895905;36099689	1996	
+CLCN6	HGNC:2024	MONDO:0030947	neuronal ceroid lipofuscinosis 15	Moderate	1	Autosomal dominant	ClinGen	2026	33217309;33590434;37831762;38877824	2020	
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Definitive	1	Autosomal recessive	ClinGen	2025	10562302;17959719;25613900;26633542;27364156;29874875;32504635;33060286;33296147	1999	
+PHKG2	HGNC:8931	MONDO:0013091	glycogen storage disease IXc	Definitive	1	Autosomal recessive	ClinGen	2024	6962066;8896567;9384616;10487978;21646031;24389071;25266922;30659246;32697758;34083142;34876562;35549678	1982	
+TBCK	HGNC:28261	MONDO:0800439	syndromic complex neurodevelopmental disorder	Definitive	1	Autosomal recessive	ClinGen	2024	27040691;29283439;30591081;34816123;35095425;36317458	2016	
+CACNB2	HGNC:1402	MONDO:0012743	Brugada syndrome 4	Limited	0	Unknown	Genomics England PanelApp	2021			
+SCN2B	HGNC:10589	MONDO:0015263	Brugada syndrome	Limited	0	Autosomal dominant	Genomics England PanelApp	2021			
+SCN3B	HGNC:20665	MONDO:0013146	Brugada syndrome 7	Limited	0	Autosomal dominant	Genomics England PanelApp	2021			
+CLCA2	HGNC:2016	MONDO:0000992	heart conduction disease	Moderate	1	Autosomal dominant	Genomics England PanelApp	2020			
+DYRK1B	HGNC:3092	MONDO:0014352	abdominal obesity-metabolic syndrome 3	Strong	1	Autosomal dominant	Genomics England PanelApp	2021			
+PHKG2	HGNC:8931	MONDO:0013091	glycogen storage disease IXc	Strong	1	Autosomal recessive	Genomics England PanelApp	2020			
+NEK1	HGNC:7744	MONDO:0054750	amyotrophic lateral sclerosis, susceptibility to, 24	Moderate	1	Autosomal dominant	Genomics England PanelApp	2021			
+CHRNB1	HGNC:1961	MONDO:0014581	congenital myasthenic syndrome 2A	Strong	1	Autosomal dominant	Genomics England PanelApp	2021			
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Strong	1	Autosomal recessive	Genomics England PanelApp	2021			
+CHRND	HGNC:1965	MONDO:0014583	congenital myasthenic syndrome 3A	Strong	1	Autosomal dominant	Genomics England PanelApp	2021			
+CHRND	HGNC:1965	MONDO:0014585	congenital myasthenic syndrome 3C	Strong	1	Autosomal recessive	Genomics England PanelApp	2021			
+CHRND	HGNC:1965	MONDO:0014584	congenital myasthenic syndrome 3B	Strong	1	Autosomal recessive	Genomics England PanelApp	2021			
+POMK	HGNC:26267	MONDO:0014101	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12	Strong	1	Autosomal recessive	Genomics England PanelApp	2021			
+CLIC2	HGNC:2063	MONDO:0010473	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	Moderate	1	X-linked	Genomics England PanelApp	2022	22814392;25927380;28333917;31349857	2012	
+CILK1	HGNC:21219	MONDO:0012980	endocrine-cerebro-osteodysplasia syndrome	Moderate	1	Autosomal recessive	Genomics England PanelApp	2021			
+TLK2	HGNC:11842	MONDO:0054837	intellectual disability, autosomal dominant 57	Strong	1	Autosomal dominant	Illumina	2020	26931568;27479843;28708136;29861108;29955062	2016	
+CHRNA2	HGNC:1956	MONDO:0012474	autosomal dominant nocturnal frontal lobe epilepsy 4	Limited	0	Autosomal dominant	Illumina	2019	16826524;20016990;25770198;25847220;30809122	2006	
+COQ8A	HGNC:16812	MONDO:0018151	coenzyme Q10 deficiency	Definitive	1	Autosomal recessive	Illumina	2018	18319072;18319074;27499294;29159460;32337771	2008	
+CACNA1D	HGNC:1391	MONDO:0014200	aldosterone-producing adenoma with seizures and neurological abnormalities	Definitive	1	Autosomal dominant	Illumina	2020	11031246;23913001;25620733;25907736;28318089;28472301;30465465;31921405	2000	
+CDK13	HGNC:1733	MONDO:0044302	congenital heart defects, dysmorphic facial features, and intellectual developmental disorder	Strong	1	Autosomal dominant	Illumina	2021	22547058;27479907;29393965	2012	
+SLC26A1	HGNC:10993	MONDO:0020722	nephrolithiasis susceptibility caused by SLC26A1	Limited	0	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2023	24250268;27210743	2013	
+CDK12	HGNC:24224	MONDO:0007661	Tourette syndrome	No Known	0	Unknown	Labcorp Genetics (formerly Invitae)	2017	28472652;30333958	2017	
+CSNK1G3	HGNC:2456	MONDO:0007661	Tourette syndrome	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2018			
+ADGRE2	HGNC:3337	MONDO:0007447	autosomal dominant vibratory urticaria	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2017	26841242;30445064;32222457;33726816	2016	
+BCKDK	HGNC:16902	MONDO:0013970	branched-chain keto acid dehydrogenase kinase deficiency	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2023	16875466;22956686;24449431	2006	
+CHRNA2	HGNC:1956	MONDO:0012474	autosomal dominant nocturnal frontal lobe epilepsy 4	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	16826524;25770198;25847220;26309560;30809122;33240318;33391346	2006	
+PAK3	HGNC:8592	MONDO:0010361	intellectual disability, X-linked 30	Strong	1	X-linked	Labcorp Genetics (formerly Invitae)	2022	9731525;10946356;12884430;16014725;17537723;18523455;21115725;24556213	1998	
+PIP5K1C	HGNC:8996	MONDO:0012656	lethal congenital contracture syndrome 3	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	17701898	2007	
+TMEM38B	HGNC:25535	MONDO:0014029	osteogenesis imperfecta type 14	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	17611541;23054245;23499310;26911354	2007	
+TP53RK	HGNC:16197	MONDO:0033008	Galloway-Mowat syndrome 4	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2022	124354;126234;28805828;30053862	1975	
+TTBK2	HGNC:19141	MONDO:0011464	spinocerebellar ataxia type 11	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	2314154;18037885;20667868;21548880;23141541;27165044;30532139;31485862	1990	
+COQ8B	HGNC:19041	MONDO:0014257	nephrotic syndrome, type 9	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2022	24270420;28204945	2013	
+DYRK1B	HGNC:3092	MONDO:0014352	abdominal obesity-metabolic syndrome 3	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	24827035	2014	
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	23175812;25984793;26581903	2012	
+TBCK	HGNC:28261	MONDO:0014823	hypotonia, infantile, with psychomotor retardation and characteristic facies 3	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2023	27040692;30103036	2016	
+CDK13	HGNC:1733	MONDO:0044302	congenital heart defects, dysmorphic facial features, and intellectual developmental disorder	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	27479907;28554332;29021403;29393965;31238879;35063350	2016	
+KCNK4	HGNC:6279	MONDO:0032714	facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	30290154;37750049	2018	
+TMEM63A	HGNC:29118	MONDO:0032871	leukodystrophy, hypomyelinating, 19, transient infantile	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	23999434;31587869	2013	
+CDK19	HGNC:19338	MONDO:0030059	developmental and epileptic encephalopathy, 87	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	20563892;32330417;33495529	2010	
+CHRNB1	HGNC:1961	MONDO:0014581	congenital myasthenic syndrome 2A	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	8651643;12141316;14719537;15907919	1996	
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2020	10562302	1999	
+CHRND	HGNC:1965	MONDO:0014583	congenital myasthenic syndrome 3A	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	11782989;12141316;25264167;27375219;27779167	2002	
+DSTYK	HGNC:29043	MONDO:0012561	congenital anomalies of kidney and urinary tract 1	Limited	0	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2017	23862974;25400726;28566479;28618409;32164334;32723786;33226606;34059960;34608560	2013	
+GPR101	HGNC:14963	MONDO:0010492	pituitary adenoma, growth hormone-secreting, 2	Strong	1	X-linked	Labcorp Genetics (formerly Invitae)	2022	27245663;29678281;30525125;30711029	2016	
+GPR68	HGNC:4519	MONDO:0014971	amelogenesis imperfecta, hypomaturation type, IIa6	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2018	12955148;27693231	2003	
+CILK1	HGNC:21219	MONDO:0012980	endocrine-cerebro-osteodysplasia syndrome	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	251352;19185282;27069622;27466187;29098359	1978	
+NEK1	HGNC:7744	MONDO:0009894	short-rib thoracic dysplasia 6 with or without polydactyly	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	9070925;21211617;22499340;22795106;27530628;29068549	1997	
+NEK10	HGNC:18592	MONDO:0032914	ciliary dyskinesia, primary, 44	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2020	31959991;32414360	2020	
+NUAK2	HGNC:29558	MONDO:0030338	anencephaly 2	Limited	0	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	32845958	2020	
+SCNN1B	HGNC:10600	MONDO:0009917	pseudohypoaldosteronism, type IB1, autosomal recessive	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	251370;10403853;12107247;12107427;18424465;23426840;26807262	1978	
+SCNN1B	HGNC:10600	MONDO:0020607	Liddle syndrome 1	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	7777572;7954808;9794716;15483078	1994	
+SCYL2	HGNC:19286	MONDO:0032903	arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	26203146;29437892;30125339;31960134	2015	
+TLK2	HGNC:11842	MONDO:0054837	intellectual disability, autosomal dominant 57	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	23911319;25849321;27479843;27694994;29861108	2013	
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2020	21441111;26846950;27106955;27106995;85360505	2012	
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2020	26846950	2016	
+GPR143	HGNC:20145	MONDO:0021019	X-linked recessive ocular albinism	Strong	1	X-linked	Labcorp Genetics (formerly Invitae)	2022	9529334;9887374;15965158;16023414;21541274;28211458;29345414	1998	
+GPR143	HGNC:20145	MONDO:0010435	nystagmus 6, congenital, X-linked	Strong	1	X-linked	Labcorp Genetics (formerly Invitae)	2021	18523664;18978956;19390656;26160353	2008	
+CACNA1D	HGNC:1391	MONDO:0014200	aldosterone-producing adenoma with seizures and neurological abnormalities	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	10929716;23913001;28318089;28726809;29286531;30698561	2000	
+CACNA1D	HGNC:1391	MONDO:0013960	sinoatrial node dysfunction and deafness	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	10929716;30498240	2000	
+CACNA2D2	HGNC:1400	MONDO:0032788	cerebellar atrophy with seizures and variable developmental delay	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	11487633;23339110;24358150;30410802;31402629	2001	
+CACNA2D4	HGNC:20202	MONDO:0012507	retinal cone dystrophy 4	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2018	16877424;17033974;25356976;26560832;28726569;28837078;30902645	2006	
+CACNB2	HGNC:1402	MONDO:0012743	Brugada syndrome 4	Limited	0	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2017	17224476;19358333;20817017;22584458;22840528;25637381;30662450	2007	
+CACNB4	HGNC:1404	MONDO:0011892	epilepsy, idiopathic generalized, susceptibility to, 9	Limited	0	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2019	10328888;10514818;10762541;18755274;22892567;24811917;24875574;25497044;27959697;31056551	1999	
+CHRND	HGNC:1965	MONDO:0014585	congenital myasthenic syndrome 3C	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	1143546;11435464;23108489;25264167;26578207	1975	
+CHRND	HGNC:1965	MONDO:0009668	lethal multiple pterygium syndrome	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2018	11435464;18252226	2001	
+CLCN6	HGNC:2024	MONDO:0030947	neuronal ceroid lipofuscinosis 15	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	28135719;33217309	2017	
+CLIC2	HGNC:2063	MONDO:0010473	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2021	24700761;25927380;28333917	2014	
+CLIC5	HGNC:13517	MONDO:0014469	autosomal recessive nonsyndromic hearing loss 103	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2020	17021174;24781754	2006	
+GLRB	HGNC:4329	MONDO:0013828	hyperekplexia 2	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	7920630;20301437;23182654;23184146	1993	
+GPR88	HGNC:4539	MONDO:0014839	chorea, childhood-onset, with psychomotor retardation	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2019	26188600;27123486	2016	
+GPRC5B	HGNC:13308	MONDO:0024555	megalencephalic leukoencephalopathy with subcortical cysts 1	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	37143309	2023	
+PRKACG	HGNC:9382	MONDO:0014518	platelet-type bleeding disorder 19	Limited	0	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2018	25061177;30550360;30819905	2014	
+KCNT1	HGNC:18865	MONDO:0014002	autosomal dominant nocturnal frontal lobe epilepsy 5	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	23086396;24463883;24591078;26122718	2012	
+KCNT1	HGNC:18865	MONDO:0013989	developmental and epileptic encephalopathy, 14	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	23086397;24591078;25042079;26122718;26140313;29196579	2012	
+KCNT2	HGNC:18866	MONDO:0033366	developmental and epileptic encephalopathy, 57	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	29069600;29740868	2017	
+CDK10	HGNC:1770	MONDO:0044324	Al Kaissi syndrome	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2022	26539891;28886341;29130579	2015	
+LPAR6	HGNC:15520	MONDO:0010206	hypotrichosis 8	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2020	18297070;18297072;18461368;19944572;20015179;21426374;22385360;22531990;22621192;25828854	2008	
+MARK3	HGNC:6897	MONDO:0032655	visual impairment and progressive phthisis bulbi	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2019	29771303	2018	
+NEK1	HGNC:7744	MONDO:0054750	amyotrophic lateral sclerosis, susceptibility to, 24	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	25700176;26945885;27455347;28935222;29149916;29650794;30093141;32462798;32920598;35047667;35426263;35495032;36443167	2015	
+NEK9	HGNC:18591	MONDO:0014870	NEK9-related lethal skeletal dysplasia	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2019	21271645;26633546;26908619;29096039	2011	
+PHKG2	HGNC:8931	MONDO:0013091	glycogen storage disease IXc	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2022	8896567;17689125;21646031;24326380	1996	
+PI4KA	HGNC:8983	MONDO:0014679	polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2022	29738522;30614210;34415310;34415322	2018	
+POMK	HGNC:26267	MONDO:0014101	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12	Strong	1	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2020	24925318	2014	
+PRKACB	HGNC:9381	MONDO:0030877	cardioacrofacial dysplasia 2	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	33058759	2020	R03TR002947
+TAOK1	HGNC:29259	MONDO:0859199	developmental delay with or without intellectual impairment or behavioral abnormalities	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2021	27247625;31230721;33565190	2016	
+CDC42BPB	HGNC:1738	MONDO:0859239	Chilton-Okur-Chung neurodevelopmental syndrome	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2022	32031333	2020	
+SCN2B	HGNC:10589	MONDO:0014156	atrial fibrillation, familial, 14	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2019	19808477	2009	
+SCN2B	HGNC:10589	MONDO:0014156	atrial fibrillation, familial, 14	Limited	0	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2019	23559163	2013	
+SCN3B	HGNC:20665	MONDO:0013146	Brugada syndrome 7	Limited	0	Unknown	Labcorp Genetics (formerly Invitae)	2019	20558140;21051419	2010	
+SCN3B	HGNC:20665	MONDO:0013146	Brugada syndrome 7	Limited	0	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2019	20031595;20226894;21051419;23257389;30847666	2009	
+MAST3	HGNC:19036	MONDO:0859314	developmental and epileptic encephalopathy 108	Strong	1	Autosomal dominant	Labcorp Genetics (formerly Invitae)	2023	34185323	2021	
+STK36	HGNC:17209	MONDO:0030332	ciliary dyskinesia, primary, 46	Limited	0	Autosomal recessive	Labcorp Genetics (formerly Invitae)	2021	28543983	2017	
+CACNA2D4	HGNC:20202	MONDO:0012507	retinal cone dystrophy 4	Moderate	1	Autosomal recessive	Laboratory for Molecular Medicine	2020			
+CACNB2	HGNC:1402	MONDO:0012743	Brugada syndrome 4	Limited	0	Autosomal dominant	Laboratory for Molecular Medicine	2020			
+SCNN1B	HGNC:10600	MONDO:0008323	Liddle syndrome	Supportive	0	Autosomal dominant	Orphanet	2021			
+SCNN1B	HGNC:10600	MONDO:0009917	pseudohypoaldosteronism, type IB1, autosomal recessive	Supportive	0	Autosomal recessive	Orphanet	2021	19571553;23426840	2009	
+CACNB4	HGNC:1404	MONDO:0009696	juvenile myoclonic epilepsy	Supportive	0	Autosomal dominant	Orphanet	2021	23756480	2013	
+CACNB4	HGNC:1404	MONDO:0013464	episodic ataxia type 5	Supportive	0	Autosomal dominant	Orphanet	2021	10762541	2000	
+CHRND	HGNC:1965	MONDO:0009668	lethal multiple pterygium syndrome	Supportive	0	Autosomal recessive	Orphanet	2021	18252226	2008	
+GLRB	HGNC:4329	MONDO:0021022	hereditary hyperekplexia	Supportive	0	Autosomal dominant	Orphanet	2021	20301437	1993	
+GPR143	HGNC:20145	MONDO:0021019	X-linked recessive ocular albinism	Supportive	0	X-linked	Orphanet	2021			
+COQ8A	HGNC:16812	MONDO:0012784	autosomal recessive ataxia due to ubiquinone deficiency	Supportive	0	Autosomal recessive	Orphanet	2021	20301317	1993	
+LPAR6	HGNC:15520	MONDO:0008686	isolated familial wooly hair disorder	Supportive	0	Autosomal dominant	Orphanet	2021	21426374	2011	
+LPAR6	HGNC:15520	MONDO:0018914	hypotrichosis simplex	Supportive	0	Autosomal dominant	Orphanet	2021	18461368	2008	
+TTBK2	HGNC:19141	MONDO:0011464	spinocerebellar ataxia type 11	Supportive	0	Autosomal dominant	Orphanet	2021	20301317	1993	
+CHRNA2	HGNC:1956	MONDO:0020300	autosomal dominant nocturnal frontal lobe epilepsy	Supportive	0	Autosomal dominant	Orphanet	2021	16826524;20301348	1993	
+CLCNKA	HGNC:2026	MONDO:0019524	Bartter syndrome type 4	Supportive	0	Autosomal recessive	Orphanet	2021	12920401;18310267;18776122	2003	
+PHKG2	HGNC:8931	MONDO:0020693	glycogen storage disease due to liver phosphorylase kinase deficiency	Supportive	0	Autosomal recessive	Orphanet	2021			
+CACNA2D4	HGNC:20202	MONDO:0015993	cone-rod dystrophy	Supportive	0	Autosomal dominant	Orphanet	2021	17033974	2006	
+PIP5K1C	HGNC:8996	MONDO:0012656	lethal congenital contracture syndrome 3	Supportive	0	Autosomal recessive	Orphanet	2021	17701898	2007	
+CILK1	HGNC:21219	MONDO:0009696	juvenile myoclonic epilepsy	Supportive	0	Autosomal dominant	Orphanet	2021	29539279	2018	
+CILK1	HGNC:21219	MONDO:0012980	endocrine-cerebro-osteodysplasia syndrome	Supportive	0	Autosomal recessive	Orphanet	2021	19185282	2009	
+SCN3B	HGNC:20665	MONDO:0018054	familial atrial fibrillation	Supportive	0	Autosomal dominant	Orphanet	2021	20558140;21051419	2010	
+NEK1	HGNC:7744	MONDO:0009642	orofaciodigital syndrome type II	Supportive	0	Autosomal recessive	Orphanet	2021	27530628	2016	
+NEK1	HGNC:7744	MONDO:0019662	short rib-polydactyly syndrome, Majewski type	Supportive	0	Autosomal recessive	Orphanet	2021	21211617;22499340;22791528	2011	
+BCKDK	HGNC:16902	MONDO:0013970	branched-chain keto acid dehydrogenase kinase deficiency	Supportive	0	Autosomal recessive	Orphanet	2021	22956686	2012	
+KCNT1	HGNC:18865	MONDO:0020300	autosomal dominant nocturnal frontal lobe epilepsy	Supportive	0	Autosomal dominant	Orphanet	2021	23086396	2012	
+KCNT1	HGNC:18865	MONDO:0017385	malignant migrating partial seizures of infancy	Supportive	0	Autosomal dominant	Orphanet	2021	23086397	2012	
+CACNA1D	HGNC:1391	MONDO:0013960	sinoatrial node dysfunction and deafness	Supportive	0	Autosomal recessive	Orphanet	2021	21131953	2011	
+CLIC2	HGNC:2063	MONDO:0010473	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	Supportive	0	X-linked	Orphanet	2021	22814392	2012	
+TMEM38B	HGNC:25535	MONDO:0008148	osteogenesis imperfecta type 4	Supportive	0	Autosomal dominant	Orphanet	2021	23313006;25046257	2013	
+POMK	HGNC:26267	MONDO:0000171	muscular dystrophy-dystroglycanopathy, type A	Supportive	0	Autosomal recessive	Orphanet	2021	23519211	2013	
+POMK	HGNC:26267	MONDO:0018277	congenital muscular dystrophy with cerebellar involvement	Supportive	0	Autosomal recessive	Orphanet	2021	24925318	2014	
+POMK	HGNC:26267	MONDO:0014489	limb-girdle muscular dystrophy due to POMK deficiency	Supportive	0	Autosomal recessive	Orphanet	2021	24925318	2014	
+SCN2B	HGNC:10589	MONDO:0015263	Brugada syndrome	Supportive	0	Autosomal dominant	Orphanet	2021	23559163;30821013	2013	
+SCN2B	HGNC:10589	MONDO:0018054	familial atrial fibrillation	Supportive	0	Autosomal dominant	Orphanet	2021	19808477	2009	
+COQ8B	HGNC:19041	MONDO:0019006	familial idiopathic steroid-resistant nephrotic syndrome	Supportive	0	Autosomal dominant	Orphanet	2021	24270420	2013	
+DSTYK	HGNC:29043	MONDO:0019636	renal agenesis, unilateral	Supportive	0	Autosomal dominant	Orphanet	2021	17273976;23862974	2007	
+DSTYK	HGNC:29043	MONDO:0010046	hereditary spastic paraplegia 23	Supportive	0	Autosomal recessive	Orphanet	2021	28157540	2017	
+CLIC5	HGNC:13517	MONDO:0019588	hearing loss, autosomal recessive	Supportive	0	Autosomal recessive	Orphanet	2021	24781754	2015	
+PRKACG	HGNC:9382	MONDO:0014518	platelet-type bleeding disorder 19	Supportive	0	Autosomal recessive	Orphanet	2021	25061177	2014	
+MAP3K14	HGNC:6853	MONDO:0018642	NIK deficiency	Supportive	0	Autosomal recessive	Orphanet	2021	25406581	2014	
+NEK9	HGNC:18591	MONDO:0014870	NEK9-related lethal skeletal dysplasia	Supportive	0	Autosomal recessive	Orphanet	2021	26908619	2016	
+ADGRG2	HGNC:4516	MONDO:0018801	congenital bilateral absence of vas deferens	Supportive	0	Autosomal recessive	Orphanet	2021	27476656	2016	
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Supportive	0	Autosomal recessive	Orphanet	2021	26581903	2015	
+GPR68	HGNC:4519	MONDO:0015048	amelogenesis imperfecta type 2	Supportive	0	Autosomal recessive	Orphanet	2021	27693231	2016	
+STK36	HGNC:17209	MONDO:0016575	primary ciliary dyskinesia	Supportive	0	Autosomal dominant	Orphanet	2021	28543983	2017	
+ADGRE2	HGNC:3337	MONDO:0007447	autosomal dominant vibratory urticaria	Supportive	0	Autosomal dominant	Orphanet	2021	26841242	2016	
+TP53RK	HGNC:16197	MONDO:0009627	Galloway-Mowat syndrome	Supportive	0	Autosomal recessive	Orphanet	2021	28805828	2017	
+CDK19	HGNC:19338	MONDO:0018614	undetermined early-onset epileptic encephalopathy	Supportive	0	Autosomal dominant	Orphanet	2021	32330417	2020	
+TAOK1	HGNC:29259	MONDO:0015802	autosomal dominant non-syndromic intellectual disability	Supportive	0	Autosomal dominant	Orphanet	2021	31230721	2019	
+NEK10	HGNC:18592	MONDO:0016575	primary ciliary dyskinesia	Supportive	0	Autosomal dominant	Orphanet	2021	31959991	2020	
+CLCA4	HGNC:2018	MONDO:0009061	cystic fibrosis	Supportive	0	Autosomal recessive	Orphanet	2025	23073314	2013	
+PXK	HGNC:23326	MONDO:0007915	systemic lupus erythematosus	Supportive	0	Unknown	Orphanet	2025	22592861	2012	
+PRKACB	HGNC:9381	MONDO:0009162	Ellis-van Creveld syndrome	Supportive	0	Autosomal recessive	Orphanet	2025	33058759	2020	R03TR002947
+GPR101	HGNC:14963	MONDO:0019933	acromegaly	Supportive	0	Unknown	Orphanet	2025	25470569	2014	
+SCN7A	HGNC:10594	MONDO:0016296	holoprosencephaly	Limited	0	Autosomal recessive	PanelApp Australia	2025	32732226	2021	
+SCNN1B	HGNC:10600	MONDO:0020607	Liddle syndrome 1	Strong	1	Autosomal dominant	PanelApp Australia	2025			
+SCNN1B	HGNC:10600	MONDO:0009917	pseudohypoaldosteronism, type IB1, autosomal recessive	Strong	1	Autosomal recessive	PanelApp Australia	2025			
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Strong	1	Autosomal recessive	PanelApp Australia	2025	17571074;26581903;29419818;30531813	2007	
+SCYL2	HGNC:19286	MONDO:0032903	arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum	Moderate	1	Autosomal recessive	PanelApp Australia	2025	26203146;31960134	2015	
+SLC26A1	HGNC:10993	MONDO:0020722	nephrolithiasis susceptibility caused by SLC26A1	Limited	0	Autosomal dominant	PanelApp Australia	2025	20160351;27125215;27210743;30383413	2010	
+SLC26A1	HGNC:10993	MONDO:0020722	nephrolithiasis susceptibility caused by SLC26A1	Limited	0	Autosomal recessive	PanelApp Australia	2025	20160351;27125215;27210743;30383413	2010	
+SRPK3	HGNC:11402	MONDO:0975828	intellectual developmental disorder, X-linked 114	Strong	1	X-linked	PanelApp Australia	2025	38429495;39073169	2024	
+STK33	HGNC:14568	MONDO:0971000	spermatogenic failure 93	Limited	0	Autosomal recessive	PanelApp Australia	2025	29155043;34155512	2018	
+STK36	HGNC:17209	MONDO:0030332	ciliary dyskinesia, primary, 46	Limited	0	Autosomal recessive	PanelApp Australia	2025	28543983	2017	
+TAOK1	HGNC:29259	MONDO:0859199	developmental delay with or without intellectual impairment or behavioral abnormalities	Strong	1	Autosomal dominant	PanelApp Australia	2025	31230721	2019	
+TAOK2	HGNC:16835	MONDO:0700092	neurodevelopmental disorder	Strong	1	Autosomal dominant	PanelApp Australia	2025	28385331;29467497;39737487	2017	
+TAOK2	HGNC:16835	MONDO:0003778	inborn error of immunity	Limited	0	Autosomal recessive	PanelApp Australia	2025	28385331;29467497;39737487	2017	
+TBCK	HGNC:28261	MONDO:0014823	hypotonia, infantile, with psychomotor retardation and characteristic facies 3	Strong	1	Autosomal recessive	PanelApp Australia	2025	27040691;27040692;30103036	2016	
+TLK2	HGNC:11842	MONDO:0054837	intellectual disability, autosomal dominant 57	Strong	1	Semidominant	PanelApp Australia	2025	23911319;27479843;29861108;29942082;30559488;31558842	2013	
+TMEM38B	HGNC:25535	MONDO:0014029	osteogenesis imperfecta type 14	Strong	1	Autosomal recessive	PanelApp Australia	2025	23054245	2012	
+TMEM63A	HGNC:29118	MONDO:0032871	leukodystrophy, hypomyelinating, 19, transient infantile	Strong	1	Autosomal dominant	PanelApp Australia	2025	31587869	2019	
+TMEM63B	HGNC:17735	MONDO:0100062	genetic developmental and epileptic encephalopathy	Strong	1	Autosomal dominant	PanelApp Australia	2025	37421948	2023	
+TMEM63C	HGNC:23787	MONDO:0031019	spastic paraplegia 87, autosomal recessive	Strong	1	Autosomal recessive	PanelApp Australia	2025	35718349	2022	
+TP53RK	HGNC:16197	MONDO:0033008	Galloway-Mowat syndrome 4	Strong	1	Autosomal recessive	PanelApp Australia	2025	28805828;30053862	2017	
+CACNA1D	HGNC:1391	MONDO:0013960	sinoatrial node dysfunction and deafness	Strong	1	Autosomal recessive	G2P	2025	21131953	2011	
+CACNA1D	HGNC:1391	MONDO:0014200	aldosterone-producing adenoma with seizures and neurological abnormalities	Strong	1	Autosomal dominant	G2P	2015	23913001	2013	
+DSTYK	HGNC:29043	MONDO:0012561	congenital anomalies of kidney and urinary tract 1	Definitive	1	Autosomal dominant	G2P	2025	23862974	2013	
+PIP5K1C	HGNC:8996	MONDO:0012656	lethal congenital contracture syndrome 3	Limited	0	Autosomal recessive	G2P	2015			
+CLCNKA	HGNC:2026	MONDO:0000909	Bartter disease type 4B	Limited	0	Autosomal recessive	G2P	2025			
+KCNT1	HGNC:18865	MONDO:0013989	developmental and epileptic encephalopathy, 14	Definitive	1	Autosomal dominant	G2P	2024	23086396;23086397	2012	
+NEK1	HGNC:7744	MONDO:0009894	short-rib thoracic dysplasia 6 with or without polydactyly	Definitive	1	Autosomal recessive	G2P	2024			
+TP53RK	HGNC:16197	MONDO:0033008	Galloway-Mowat syndrome 4	Strong	1	Autosomal recessive	G2P	2019	28805828;30053862	2017	
+CACNA2D4	HGNC:20202	MONDO:0012507	retinal cone dystrophy 4	Strong	1	Autosomal recessive	G2P	2017	17033974;26560832	2006	
+MARK3	HGNC:6897	MONDO:0032655	visual impairment and progressive phthisis bulbi	Limited	0	Autosomal recessive	G2P	2018	29771303	2018	
+PAK3	HGNC:8592	MONDO:0010361	intellectual disability, X-linked 30	Definitive	1	X-linked	G2P	2015	8826460;9332663;12884430;17853471;18523455	1996	
+CLIC2	HGNC:2063	MONDO:0010473	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome	Limited	0	X-linked	G2P	2016	22814392	2012	
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Definitive	1	Autosomal recessive	G2P	2021	10562302;33296147	1999	
+PI4KA	HGNC:8983	MONDO:0014679	polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	Definitive	1	Autosomal recessive	G2P	2021	25855803;34415310;34415322	2015	
+GLRB	HGNC:4329	MONDO:0013828	hyperekplexia 2	Definitive	1	Autosomal recessive	G2P	2025	11929858;21391991;23182654;23184146;23238346;24030948;32911248;33323420	2002	
+ADGRE2	HGNC:3337	MONDO:0007447	autosomal dominant vibratory urticaria	Limited	0	Autosomal dominant	G2P	2025	26841242;27406365	2016	
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Strong	1	Autosomal dominant	G2P	2022	21441111;26846950;27106955;31074094;32480058;33191771;34263907;34263911	2012	
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Definitive	1	Autosomal recessive	G2P	2025	21441111;26846950;27106955;31074094;32480058;33191771;34263907;34263911	2012	
+CDC42BPB	HGNC:1738	MONDO:0859239	Chilton-Okur-Chung neurodevelopmental syndrome	Limited	0	Autosomal dominant	G2P	2025	32031333	2020	
+CDK10	HGNC:1770	MONDO:0044324	Al Kaissi syndrome	Limited	0	Autosomal recessive	G2P	2024	28886341;29130579	2017	
+CDK13	HGNC:1733	MONDO:0044302	congenital heart defects, dysmorphic facial features, and intellectual developmental disorder	Definitive	1	Autosomal dominant	G2P	2025	27479907;28807008;29021403;29222009;29393965;31883531;35063350;35651941;36599938;37351084	2016	
+CDK16	HGNC:8749	MONDO:0001071	intellectual disability	Limited	0	X-linked	G2P	2025	25644381;36323681	2016	
+CDK19	HGNC:19338	MONDO:0030059	developmental and epileptic encephalopathy, 87	Strong	1	Autosomal dominant	G2P	2025	32330417	2020	
+CLCC1	HGNC:29675	MONDO:0019200	retinitis pigmentosa	Limited	0	Autosomal recessive	G2P	2018	30157172	2018	
+CLCN6	HGNC:2024	MONDO:0030947	neuronal ceroid lipofuscinosis 15	Strong	1	Autosomal dominant	G2P	2025	28074849;29667327;33217309	2017	
+DSTYK	HGNC:29043	MONDO:0010046	hereditary spastic paraplegia 23	Strong	1	Autosomal recessive	G2P	2025	28157540	2017	
+GABRG1	HGNC:4086	MONDO:0100062	genetic developmental and epileptic encephalopathy	Limited	0	Autosomal dominant	G2P	2022	36121006	2022	
+GPR143	HGNC:20145	MONDO:0017304	ocular albinism	Definitive	1	X-linked	G2P	2017	7647783;8634705;9529334;18523664;19390656	1995	
+GPR45	HGNC:4503	MONDO:0015993	cone-rod dystrophy	Limited	0	Autosomal recessive	G2P	2018	29320387	2018	
+KCNT1	HGNC:18865	MONDO:0017385	malignant migrating partial seizures of infancy	Definitive	1	Autosomal dominant	G2P	2015	23086397	2012	
+LPAR6	HGNC:15520	MONDO:0010206	hypotrichosis 8	Strong	1	Autosomal recessive	G2P	2025	31077348	2019	
+PAK3	HGNC:8592	MONDO:0009022	corpus callosum, agenesis of	Definitive	1	X-linked	G2P	2015	9731525;10946356;12884430;17853471;18523455;24556213;25666757;28126652;28322502;28481730;29246092;31444167;31678216;32050918;34014906;34227036	1998	
+PIP5K1C	HGNC:8996	MONDO:0700092	neurodevelopmental disorder	Moderate	1	Autosomal dominant	G2P	2023	37451268	2023	
+TAOK1	HGNC:29259	MONDO:0859199	developmental delay with or without intellectual impairment or behavioral abnormalities	Definitive	1	Autosomal dominant	G2P	2025	31230721;33565190	2019	
+CACNB4	HGNC:1404	MONDO:0011892	epilepsy, idiopathic generalized, susceptibility to, 9	Limited	0	Autosomal dominant	G2P	2019	10762541	2000	
+CHRNA2	HGNC:1956	MONDO:0012474	autosomal dominant nocturnal frontal lobe epilepsy 4	Strong	1	Autosomal dominant	G2P	2025	16826524;25770198;25847220;30809122	2006	
+COQ8A	HGNC:16812	MONDO:0012784	autosomal recessive ataxia due to ubiquinone deficiency	Definitive	1	Autosomal recessive	G2P	2025			
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Strong	1	Autosomal recessive	G2P	2016	26581903	2015	
+TBCK	HGNC:28261	MONDO:0014823	hypotonia, infantile, with psychomotor retardation and characteristic facies 3	Definitive	1	Autosomal recessive	G2P	2016	27040691;27040692;27748029	2016	
+TLK2	HGNC:11842	MONDO:0054837	intellectual disability, autosomal dominant 57	Definitive	1	Autosomal dominant	G2P	2019	27479843;29861108	2016	
+KCNK4	HGNC:6279	MONDO:0032714	facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome	Strong	1	Autosomal dominant	G2P	2026	30290154;33594261;36683851;37750049;40230348	2018	
+KCNT2	HGNC:18866	MONDO:0033366	developmental and epileptic encephalopathy, 57	Limited	0	Autosomal dominant	G2P	2025	29740868	2018	
+TMEM63A	HGNC:29118	MONDO:0032871	leukodystrophy, hypomyelinating, 19, transient infantile	Strong	1	Autosomal dominant	G2P	2019	31587869	2019	
+POMK	HGNC:26267	MONDO:0014101	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12	Definitive	1	Autosomal recessive	G2P	2020	24556084;24925318;31833209;32907597	2014	
+CHRNB1	HGNC:1961	MONDO:0014582	congenital myasthenic syndrome 2C	Definitive	1	Autosomal dominant	G2P	2021	8651643;8872460;27375219	1996	
+GLRB	HGNC:4329	MONDO:0013828	hyperekplexia 2	Limited	0	Autosomal dominant	G2P	2025	23184146;23238346;24030948	2013	
+WNK3	HGNC:14543	MONDO:0010667	Prieto syndrome	Moderate	1	X-linked	G2P	2022	35678782	2022	
+TMEM63C	HGNC:23787	MONDO:0031019	spastic paraplegia 87, autosomal recessive	Moderate	1	Autosomal recessive	G2P	2022	35718349	2022	
+TMEM63B	HGNC:17735	MONDO:0800503	TMEM63B-related developmental and epileptic encephalopathy with anemia	Moderate	1	Autosomal dominant	G2P	2025	37421948	2023	
+MARK4	HGNC:13538	MONDO:0700092	neurodevelopmental disorder	Limited	0	Autosomal dominant	G2P	2025	38041405	2024	
+ADGRA3	HGNC:13839	MONDO:0019200	retinitis pigmentosa	Limited	0	Autosomal recessive	G2P	2017	23105016	2013	
+HIPK4	HGNC:19007	MONDO:0018393	male infertility with azoospermia or oligozoospermia due to single gene mutation	Moderate	1	Autosomal recessive	King Faisal Specialist Hospital and Research Center	2021	32719396	2020	
+RIOK2	HGNC:18999	MONDO:0018393	male infertility with azoospermia or oligozoospermia due to single gene mutation	Limited	0	Autosomal recessive	King Faisal Specialist Hospital and Research Center	2021	32719396	2020	
+BCKDK	HGNC:16902	MONDO:0013970	branched-chain keto acid dehydrogenase kinase deficiency	Strong	1	Autosomal recessive	PanelApp Australia	2025	22956686;24449431	2012	
+GPR143	HGNC:20145	MONDO:0700230	GPR143-related foveal hypoplasia	Strong	1	X-linked	PanelApp Australia	2025	29761529;30555098	2018	
+KCNT1	HGNC:18865	MONDO:0013989	developmental and epileptic encephalopathy, 14	Strong	1	Autosomal dominant	PanelApp Australia	2025	23086396;23086397;31532509;31872048	2012	
+KCNT1	HGNC:18865	MONDO:0014002	autosomal dominant nocturnal frontal lobe epilepsy 5	Strong	1	Autosomal dominant	PanelApp Australia	2025	23086396;23086397;31532509;31872048	2012	
+POMK	HGNC:26267	MONDO:0014101	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12	Strong	1	Autosomal recessive	PanelApp Australia	2025	24556084;24925318;28109637;29910097;31833209;32907597	2014	
+POMK	HGNC:26267	MONDO:0019503	anterior segment dysgenesis	Limited	0	Autosomal dominant	PanelApp Australia	2025	24556084;24925318;28109637;29910097;31833209;32907597	2014	
+PRKACB	HGNC:9381	MONDO:0030877	cardioacrofacial dysplasia 2	Strong	1	Autosomal dominant	PanelApp Australia	2025	33058759	2020	R03TR002947
+PRKACG	HGNC:9382	MONDO:0014518	platelet-type bleeding disorder 19	Limited	0	Autosomal recessive	PanelApp Australia	2025	25061177;30819905	2014	
+PSKH1	HGNC:9529	MONDO:0975807	cholestasis, progressive familial intrahepatic, 13	Strong	1	Autosomal recessive	PanelApp Australia	2025	39132680	2024	
+ADGRA3	HGNC:13839	MONDO:0019200	retinitis pigmentosa	Limited	0	Autosomal recessive	PanelApp Australia	2025	23105016	2013	
+ALPK3	HGNC:17574	MONDO:0054838	cardiomyopathy, familial hypertrophic 27	Strong	1	Semidominant	PanelApp Australia	2025	26846950;27106955;32480058	2016	
+LPAR6	HGNC:15520	MONDO:0800312	wooly hair, autosomal recessive 1, with or without hypotrichosis	Strong	1	Autosomal recessive	PanelApp Australia	2025	18297070;18297072;18461368	2008	
+LRRK1	HGNC:18608	MONDO:0014080	osteosclerotic metaphyseal dysplasia	Strong	1	Autosomal recessive	PanelApp Australia	2025	27055475;27829680;31571209;32119750	2016	
+MAP3K14	HGNC:6853	MONDO:0018642	NIK deficiency	Strong	1	Autosomal recessive	PanelApp Australia	2025	10319865;11238593;11251123;12352969;25406581;29230214	1999	
+MARK4	HGNC:13538	MONDO:0700092	neurodevelopmental disorder	Limited	0	Autosomal dominant	PanelApp Australia	2025	38041405	2024	
+MAST2	HGNC:19035	MONDO:0000831	thrombotic disease	Limited	0	Autosomal dominant	PanelApp Australia	2025	33465109	2021	
+MAST3	HGNC:19036	MONDO:0859314	developmental and epileptic encephalopathy 108	Strong	1	Autosomal dominant	PanelApp Australia	2025	34185323	2021	
+MAST4	HGNC:19037	MONDO:0700092	neurodevelopmental disorder	Strong	1	Autosomal dominant	PanelApp Australia	2025	33057194;36910266	2020	
+NEK1	HGNC:7744	MONDO:0054750	amyotrophic lateral sclerosis, susceptibility to, 24	Strong	1	Autosomal dominant	PanelApp Australia	2025	21211617;22499340;25492405;27530628;28123176;33445179	2011	
+NEK1	HGNC:7744	MONDO:0009894	short-rib thoracic dysplasia 6 with or without polydactyly	Strong	1	Autosomal recessive	PanelApp Australia	2025	21211617;22499340;25492405;27530628;28123176;33445179	2011	
+NEK10	HGNC:18592	MONDO:0032914	ciliary dyskinesia, primary, 44	Strong	1	Autosomal recessive	PanelApp Australia	2025	31959991	2020	
+NEK9	HGNC:18591	MONDO:0014870	NEK9-related lethal skeletal dysplasia	Moderate	1	Autosomal recessive	PanelApp Australia	2025	21271645;26908619	2011	
+NUAK2	HGNC:29558	MONDO:0030338	anencephaly 2	Moderate	1	Autosomal recessive	PanelApp Australia	2025	32845958	2020	
+OXGR1	HGNC:4531	MONDO:0958191	nephrolithiasis, calcium oxalate, 2, with or without nephrocalcinosis	Moderate	1	Autosomal dominant	PanelApp Australia	2025	36571463	2023	
+PAK3	HGNC:8592	MONDO:0010361	intellectual disability, X-linked 30	Strong	1	X-linked	PanelApp Australia	2025	9731525;10946356;12884430;17853471;18523455;31678216;31843706;31943058;32005903;32050918	1998	
+PHKG2	HGNC:8931	MONDO:0013091	glycogen storage disease IXc	Strong	1	Autosomal recessive	PanelApp Australia	2025	8896567;9384616;10905889	1996	
+PI4KA	HGNC:8983	MONDO:0014679	polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	Strong	1	Autosomal recessive	PanelApp Australia	2025	25855803;34415310;34415322	2015	
+PIK3C2B	HGNC:8972	MONDO:0017704	familial partial epilepsy	Moderate	1	Autosomal dominant	PanelApp Australia	2025	35786744	2022	
+PIP5K1C	HGNC:8996	MONDO:0100038	complex neurodevelopmental disorder	Strong	1	Autosomal dominant	PanelApp Australia	2025	17701898;37451268	2007	
+PIP5K1C	HGNC:8996	MONDO:0012656	lethal congenital contracture syndrome 3	Strong	1	Autosomal recessive	PanelApp Australia	2025	17701898;37451268	2007	
+TTBK2	HGNC:19141	MONDO:0011464	spinocerebellar ataxia type 11	Strong	1	Autosomal dominant	PanelApp Australia	2025	18037885;20301723;20667868;27165044;31485862	1993	
+WEE2	HGNC:19684	MONDO:0020837	oocyte maturation defect 5	Strong	1	Autosomal recessive	PanelApp Australia	2025	29606300;30628060	2018	
+WNK3	HGNC:14543	MONDO:0010667	Prieto syndrome	Strong	1	X-linked	PanelApp Australia	2025	35678782	2022	
+GPRC5B	HGNC:13308	MONDO:0957533	megalencephalic leukoencephalopathy with subcortical cysts 3	Strong	1	Autosomal dominant	PanelApp Australia	2025	37143309	2023	
+KCNT2	HGNC:18866	MONDO:0033366	developmental and epileptic encephalopathy, 57	Strong	1	Autosomal dominant	PanelApp Australia	2025	29069600;29740868;32038177	2017	
+GPR156	HGNC:20844	MONDO:0957825	hearing loss, autosomal recessive 121	Strong	1	Autosomal recessive	PanelApp Australia	2025	36928819	2023	
+CILK1	HGNC:21219	MONDO:0012980	endocrine-cerebro-osteodysplasia syndrome	Strong	1	Autosomal recessive	PanelApp Australia	2025	19185282;24797473;24853502;27069622;27466187	2009	
+DSTYK	HGNC:29043	MONDO:0012561	congenital anomalies of kidney and urinary tract 1	Moderate	1	Autosomal dominant	PanelApp Australia	2025	23862974;28618409;34608560;37746849	2013	
+DSTYK	HGNC:29043	MONDO:0010046	hereditary spastic paraplegia 23	Moderate	1	Autosomal recessive	PanelApp Australia	2025	28157540	2017	
+DYRK1B	HGNC:3092	MONDO:0014352	abdominal obesity-metabolic syndrome 3	Moderate	1	Autosomal dominant	PanelApp Australia	2025	24827035;28743892;34193236;34786696	2014	
+KCNJ18	HGNC:39080	MONDO:0013193	thyrotoxic periodic paralysis, susceptibility to, 2	Limited	0	Autosomal dominant	PanelApp Australia	2025	20074522;27008341	2010	
+GABRG1	HGNC:4086	MONDO:0100062	genetic developmental and epileptic encephalopathy	Limited	0	Autosomal dominant	PanelApp Australia	2025	36121006	2022	
+GLRB	HGNC:4329	MONDO:0013828	hyperekplexia 2	Strong	1	Autosomal recessive	PanelApp Australia	2025	11929858;21391991;27843043	2002	
+GPR68	HGNC:4519	MONDO:0014971	amelogenesis imperfecta, hypomaturation type, IIa6	Strong	1	Autosomal recessive	PanelApp Australia	2025	27693231;32279993	2016	
+KCNAB3	HGNC:6230	MONDO:0700092	neurodevelopmental disorder	Limited	0	Autosomal dominant	PanelApp Australia	2025	32990398;36345448;37396552	2020	
+KCND1	HGNC:6237	MONDO:0700092	neurodevelopmental disorder	Strong	1	X-linked	PanelApp Australia	2025	38772379	2024	
+KCNK4	HGNC:6279	MONDO:0032714	facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome	Strong	1	Autosomal dominant	PanelApp Australia	2025	30290154	2018	
+SCYL1	HGNC:14372	MONDO:0014744	acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	Definitive	1	Autosomal recessive	LiferaOmics	2026	26581903;29419818;30258122;33442927;37644014;41142852	2015	
+SCN3B	HGNC:20665	MONDO:0004981	atrial fibrillation	Disputed	0	Autosomal dominant	ClinGen	2026	19796257;20042427;20558140;21051419;36362949;39761910	2010	
+SCN3B	HGNC:20665	MONDO:0015263	Brugada syndrome	Refuted	0	Autosomal dominant	ClinGen	2025	19351516;20042427;25650408;26220970;38450374;39761910	2008	
+PIP5K1C	HGNC:8996	MONDO:1010145	PIP5K1C-related neurodevelopmental disorder	Definitive	1	Autosomal dominant	ClinGen	2026	37451268	2023	
+PRKACB	HGNC:9381	MONDO:0030877	cardioacrofacial dysplasia 2	Strong	1	Autosomal dominant	G2P	2025	33058759	2020	R03TR002947
+MAST3	HGNC:19036	MONDO:0859314	developmental and epileptic encephalopathy 108	Moderate	1	Autosomal dominant	G2P	2025	34185323;35095415	2021	
+RPS6KC1	HGNC:10439	MONDO:0100038	complex neurodevelopmental disorder	Moderate	1	Autosomal recessive	G2P	2025	41130203	2025	
+PSKH1	HGNC:9529	MONDO:0975807	cholestasis, progressive familial intrahepatic, 13	Moderate	1	Autosomal recessive	G2P	2026	39132680	2024	
+CACNB2	HGNC:1402	MONDO:0015263	Brugada syndrome	Disputed	0	Autosomal dominant	G2P	2025	29959160	2018	
+SCN2B	HGNC:10589	MONDO:0015263	Brugada syndrome	Disputed	0	Autosomal dominant	G2P	2025	29959160	2018	
+SCN3B	HGNC:20665	MONDO:0015263	Brugada syndrome	Disputed	0	Autosomal dominant	G2P	2025	29959160	2018	
+CACNB2	HGNC:1402	MONDO:0000453	short QT syndrome	Disputed	0	Autosomal dominant	G2P	2025	34557911	2022	
+CACNB2	HGNC:1402	MONDO:0024573	familial hypertrophic cardiomyopathy	Disputed	0	Autosomal dominant	G2P	2025	39971408	2025	
+KCNT2	HGNC:18866	MONDO:0100038	complex neurodevelopmental disorder	Definitive	1	Autosomal dominant	ClinGen	2026	29069600;29740868;32773162;32931186;34061450;34276763;37062836;38510274	2017	
+CILK1	HGNC:21219	MONDO:0005308	ciliopathy	Definitive	1	Autosomal recessive	ClinGen	2025	19185282;27069622;27466187;40615527	2009	
